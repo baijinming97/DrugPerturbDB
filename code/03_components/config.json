@@ -1,0 +1,129 @@
+{
+  "description": "Signal composition on native source panels and matched intersections",
+  "stages": [
+    {
+      "id": "DRUGseq",
+      "calls": [
+        {
+          "file": "code/03_components/compose_full.py",
+          "args": [
+            "DRUGseq"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/receipts/DRUGseq_ANALYZED.json",
+        "FULL_DATASET_FIGURES_V1/data/DRUGseq_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/DRUGseq_CONDITION_META.parquet",
+        "FULL_DATASET_FIGURES_V1/COMMON_GENES.json"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/results/DRUGseq*COMPO*.csv*"
+      ]
+    },
+    {
+      "id": "CIGS",
+      "calls": [
+        {
+          "file": "code/03_components/compose_full.py",
+          "args": [
+            "CIGS"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/receipts/CIGS_ANALYZED.json",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_CONDITION_META.parquet",
+        "FULL_DATASET_FIGURES_V1/COMMON_GENES.json"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/results/CIGS*COMPO*.csv*"
+      ]
+    },
+    {
+      "id": "sciPlex3",
+      "calls": [
+        {
+          "file": "code/03_components/compose_full.py",
+          "args": [
+            "sciPlex3"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/receipts/sciPlex3_ANALYZED.json",
+        "FULL_DATASET_FIGURES_V1/data/sciPlex3_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/sciPlex3_CONDITION_META.parquet",
+        "FULL_DATASET_FIGURES_V1/COMMON_GENES.json"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/results/sciPlex3*COMPO*.csv*"
+      ]
+    },
+    {
+      "id": "MIXseq",
+      "calls": [
+        {
+          "file": "code/03_components/compose_full.py",
+          "args": [
+            "MIXseq"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/receipts/MIXseq_ANALYZED.json",
+        "FULL_DATASET_FIGURES_V1/data/MIXseq_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/MIXseq_CONDITION_META.parquet",
+        "FULL_DATASET_FIGURES_V1/COMMON_GENES.json"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/results/MIXseq*COMPO*.csv*"
+      ]
+    },
+    {
+      "id": "L1000_L3",
+      "calls": [
+        {
+          "file": "code/03_components/compose_full.py",
+          "args": [
+            "L1000_L3"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/receipts/L1000_L3_ANALYZED.json",
+        "FULL_DATASET_FIGURES_V1/data/L1000_L3_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/L1000_L3_CONDITION_META.parquet",
+        "FULL_DATASET_FIGURES_V1/COMMON_GENES.json"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/results/L1000_L3*COMPO*.csv*"
+      ]
+    },
+    {
+      "id": "intersection",
+      "calls": [
+        {
+          "file": "code/03_components/components_full.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/data/Tahoe_COMMON_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/L1000_L3_COMMON_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/DRUGseq_COMMON_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_COMMON_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/sciPlex3_COMMON_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/MIXseq_COMMON_CONDITIONS.h5",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/PROTOCOL.json",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/IDENTITY_MAP_FINAL.json",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/LOCKED_SELECTIONS.json",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/ANALYSIS_RECEIPT.json"
+      ],
+      "outputs": [
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/results/*COMPO*.csv*"
+      ]
+    }
+  ]
+}

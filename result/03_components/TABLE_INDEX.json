@@ -1,0 +1,23 @@
+[
+  {
+    "experiment": "03_components",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/SUPPLEMENT_ONLY_REVIEW_V4_20261102/data/ST2_COMPONENTS_ALL.csv",
+    "bytes": 4081,
+    "sha256": "0c2d5da67dc17c80e26c27b094aa0ea62d89534646cb257fd2248f5f8ea374c0"
+  },
+  {
+    "experiment": "03_components",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/Tahoe_FULL_COMPOSITION.csv",
+    "bytes": 1349,
+    "sha256": "08d74615aea33df4bdff4c66a2b47b0b3e79af501ebb7ee69ea1ebb8a4aa0f46"
+  },
+  {
+    "experiment": "03_components",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "tables/S1_support_composition_change.csv",
+    "bytes": 5714,
+    "sha256": "3eedffb33aebf2057b4920fe0ddbac106eac812cae17a1f243745d7f7e544daa"
+  }
+]

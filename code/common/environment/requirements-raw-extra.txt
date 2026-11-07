@@ -1,0 +1,2 @@
+# Optional molecular-identity preparation; not needed to reproduce figures.
+rdkit==2024.9.6

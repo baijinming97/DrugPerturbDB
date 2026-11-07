@@ -1,0 +1,397 @@
+[
+  {
+    "file": "metadata/fold0_TRAIN_identities.csv",
+    "sha256": "d99205b91dec67a43725ab6d046daa9e69a01c3060157dbdca7189eb8ddf2b7c",
+    "bytes": 379645
+  },
+  {
+    "file": "metadata/fold0_VALID_identities.csv",
+    "sha256": "06886084ffa791051f2689a6cbcc3c4b79dc202a78faed2b2fe4e24e716472d6",
+    "bytes": 100606
+  },
+  {
+    "file": "metadata/fold1_TRAIN_identities.csv",
+    "sha256": "cfc8b3029b3d963cd1cc67b5c4be0bebbda8e74ea6ed80ec70a99cb4616aa358",
+    "bytes": 360093
+  },
+  {
+    "file": "metadata/fold1_VALID_identities.csv",
+    "sha256": "77dabdb415b0bbce254bb71d3a898b88c3a259222b6917d47066a09eb4a4fd0f",
+    "bytes": 114565
+  },
+  {
+    "file": "metadata/fold2_TRAIN_identities.csv",
+    "sha256": "a6ce54469e7681531d23fab245c1c3ee8398681138159092af9ce4ff83f047f3",
+    "bytes": 374475
+  },
+  {
+    "file": "metadata/fold2_VALID_identities.csv",
+    "sha256": "af04f97640f67a9bf711012dcdfcb3019cd139713040930cb76bb5f49c831e46",
+    "bytes": 98068
+  },
+  {
+    "file": "metadata/fold3_TRAIN_identities.csv",
+    "sha256": "9f9b5d5859a76c56b6e4cb65339665d6a3d9612ae9e254afcc167da4f6a95ea3",
+    "bytes": 387024
+  },
+  {
+    "file": "metadata/fold3_VALID_identities.csv",
+    "sha256": "44c7c83daae602cada149f998eea25b44a2c17a44234411d0bf9749215a8311d",
+    "bytes": 85801
+  },
+  {
+    "file": "metadata/fold4_TRAIN_identities.csv",
+    "sha256": "6dfc1a63807b843f9d6179537e438f5eb43821f2452cdf8665f61ff44f30e085",
+    "bytes": 343972
+  },
+  {
+    "file": "metadata/fold4_VALID_identities.csv",
+    "sha256": "5681e5b4d406e874af1c3b7a95eb72204bb038d7b612cf34ec62d2d4cf2a5653",
+    "bytes": 139663
+  },
+  {
+    "file": "metadata/MODEL_VALID_ROLES.csv",
+    "sha256": "934b53db4dea855daf97016a07dc27a06ce170eb18975d7dcf7f6d378fb85c0f",
+    "bytes": 11016
+  },
+  {
+    "file": "metadata/orion/4MAN/CROSS_DATASET_ATLAS_V1/DRUG_ROLE_OWNER.json",
+    "sha256": "34c42a2b475a7541fc9f135b44549e76c80a7172690806a0ad5e4ea6ab2ace40",
+    "bytes": 28863
+  },
+  {
+    "file": "metadata/orion/4MAN/DRUGSEQ_BETAW_PILOT_V1/features/OBSERVED_GENES.tsv",
+    "sha256": "eb20c9319f7beedf64d31034d32ab5a5ad24904ccc9da0d976e83dd6d520a2c4",
+    "bytes": 22153
+  },
+  {
+    "file": "metadata/orion/4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/GENE_AXIS.tsv",
+    "sha256": "601898629a70aceb9387b733bde27015dbb88377209b184308b591927373a865",
+    "bytes": 152930
+  },
+  {
+    "file": "metadata/orion/4MAN/PAPER_TWO_CHECKS_V1/exp2/G5_LINEAGE_AUDIT.json",
+    "sha256": "7ebb326da37675a01699549380cce60fc7bd8d00718b62f04811907ada701335",
+    "bytes": 211770
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_DESCRIPTIVE_FULL_V2/data/Tahoe_CONDITION_META.parquet",
+    "sha256": "1b4ef13ba4ae63d74cf58b7a2dfd7f136ecf7d583e784fc75c8c5045481842b8",
+    "bytes": 1258547
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_DESCRIPTIVE_FULL_V2/data/Tahoe_NATIVE_AXES.npz",
+    "sha256": "79d998e0db8590f8c14cb9d66404abad5abfc0b8ecaef6555341eaa11a883742",
+    "bytes": 385293
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_DESCRIPTIVE_FULL_V2/metadata/Tahoe_REPLICATE_ELIGIBLE.parquet",
+    "sha256": "a74b3599a674cd31f50561e85c16d9df2f13f4fddb8f35a3fba0f70c321063c7",
+    "bytes": 684486
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_DESCRIPTIVE_FULL_V2/metadata/Tahoe_REPLICATE_META.parquet",
+    "sha256": "4085892e71cb05f77465ad7eec016a308ee3265add29bcbcd0427cc7d9fd3368",
+    "bytes": 802467
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/IDENTITY_MAP_FINAL.json",
+    "sha256": "a5e280a5791df30ce4458f752a4be77a41b44b7bc712ae4c752cc11cfa190cb6",
+    "bytes": 2154672
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/LOCKED_SELECTIONS.json",
+    "sha256": "48cb0918f3cd514dd1fc75d15dedb631d2e92b56b81639a7af4ecd58aaac85db",
+    "bytes": 15144370
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/metadata/CIGS_VECTOR_KEYS.parquet",
+    "sha256": "78c8b1ba2e45ecb8aafa072d92de5357936e9ead68609e8cb3b9e99d798e71a9",
+    "bytes": 442527
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/metadata/DRUGseq_VECTOR_KEYS.parquet",
+    "sha256": "2228624198b86efc2fbb7ebccc766971fb4c89cb94bd0d9eabcdf3232fbb8907",
+    "bytes": 241210
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/metadata/L1000_L3_VECTOR_KEYS.parquet",
+    "sha256": "aaf45338ba9c4f5e87f666787cfa063920fec9823c10f62eaddfcc4f0eb5e554",
+    "bytes": 5828236
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/metadata/MIXseq_VECTOR_KEYS.parquet",
+    "sha256": "4eea348e7bfb8c600d64e8642c7f134a9558ca805183beab03b404ca6ed58d7a",
+    "bytes": 17426
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/metadata/sciPlex3_VECTOR_KEYS.parquet",
+    "sha256": "7b023fec087307ac3c8a1609c6d32bb3c30f095275503f4c4c63709a5c93cb52",
+    "bytes": 35763
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/metadata/Tahoe_VECTOR_KEYS.parquet",
+    "sha256": "4499db70262ba7984f1930ae9c3bed361ce9e333a3ced6547aa5b467136ea432",
+    "bytes": 666566
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/PROTOCOL.json",
+    "sha256": "c7678bdf850bcb9c410d5e64378abc5162656771bf4f74816205875acc6bea78",
+    "bytes": 2139
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/A_REPRODUCTION_GATE.json",
+    "sha256": "84fb14a615840479a77f25d70fe316001d142f0c762a92d9f88f45adf55d3fae",
+    "bytes": 1957
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/FEATURE_SCHEMAS.json",
+    "sha256": "521df70231470c5c44fdc402be821f00835c5e5e0a65c2dd217b7e92f2a66de0",
+    "bytes": 28769
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/PROTOCOL_A.json",
+    "sha256": "040f585f2b065461eef2dc51e5d5c96254aa7e125e594454a1920a8db13fa38b",
+    "bytes": 510
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/REPRODUCTION_CHECKS.csv",
+    "sha256": "01c05023959356c141915c7443b943c892d5af6e978416c921394d39a6298c6d",
+    "bytes": 1105
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/SHARED_FROZEN.json",
+    "sha256": "4ea049c034b52b9f2192f5d365f1ad20cb10966b161c8c9f98d43e2114fdafdd",
+    "bytes": 158
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/STAGE_A_INPUT_PATHS_SHA256.json",
+    "sha256": "59f9816e7ab43af940b2ff0ad5cf96bb63bbb3e0b927b82fa56bbad48a82e625",
+    "bytes": 7736
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/STAGE_A_READ_ROLE_AUDIT.json",
+    "sha256": "2644b7292cb6c1066fb2375c78d016ba5e597d57bfde0bd2446f2f737d049469",
+    "bytes": 16125
+  },
+  {
+    "file": "metadata/orion/4MAN/TAHOE_GAMMA_PARALLEL_V1/ws3_multicell_external/v2/MIX_META_2.csv",
+    "sha256": "c69ea0f250e82fa0fbcfce114fe36f8646d8ad80580666da9053a46e532aca09",
+    "bytes": 546
+  },
+  {
+    "file": "metadata/orion/baicai/canonical_perturbation_data_v1/l1000/data/gene_axis_978.parquet",
+    "sha256": "af116fae1dfe92bfa68c726d3e95e358007489c06106cb46820a8c2f63baa56e",
+    "bytes": 27369
+  },
+  {
+    "file": "metadata/orion/baicai/canonical_perturbation_data_v1/l1000/data/l3_control_context_manifest.parquet",
+    "sha256": "847ebea3743dd049566358ce48cacc8ee256c9d587a1d31e7cf6244de5ed78dc",
+    "bytes": 594979
+  },
+  {
+    "file": "metadata/orion/baicai/canonical_perturbation_data_v1/l1000/data/l3_control_manifest.parquet",
+    "sha256": "9d90c2de2d6c13a7103b67ce0051180816ee9a6ea9c58d0eef45bb3b64edfd20",
+    "bytes": 1766134
+  },
+  {
+    "file": "metadata/orion/baicai/canonical_perturbation_data_v1/l1000/data/l3_treatment_manifest.parquet",
+    "sha256": "af86cb72bb8ad7d147c1f0ba6bc957014b7c0dcb52edad448d07cd20e7693d9b",
+    "bytes": 24267114
+  },
+  {
+    "file": "metadata/orion/baicai/canonical_perturbation_data_v1/molecular_features/l1000_connectivity_components_v1.parquet",
+    "sha256": "e40f76ea7e6acd331e519510106e2bb40e13a6447d31a097a084d81be83a2377",
+    "bytes": 2100931
+  },
+  {
+    "file": "metadata/orion/baicai/canonical_perturbation_data_v1/molecular_features/l1000_pert_structure_dictionary_v1.parquet",
+    "sha256": "1ed6c99ebde11abde24bcb48fea740016dfdf7d88c897c4f361f52049854eb19",
+    "bytes": 6180459
+  },
+  {
+    "file": "metadata/orion/baicai/canonical_perturbation_data_v1/tahoe/audit/full_qc_plate_counts.parquet",
+    "sha256": "ae33091065d205be9a98e80c5c49e63e9732ce7b8f92dd2dd747556d3c45c057",
+    "bytes": 168303
+  },
+  {
+    "file": "metadata/orion/baicai/canonical_perturbation_data_v1/tahoe/audit/gene_axis.parquet",
+    "sha256": "305b7da786b6546632b1367eaca52949d5aa6d94e73973855de0dd801a0f5f1c",
+    "bytes": 665654
+  },
+  {
+    "file": "metadata/orion/baicai/canonical_perturbation_data_v1/tahoe/audit/qc_plate_profile_manifest.parquet",
+    "sha256": "12b2fc8c309487c54ba2dc8ce1cc35d3e7b2b46d5e705006112f026e173d292a",
+    "bytes": 1311365
+  },
+  {
+    "file": "metadata/orion/baicai/canonical_perturbation_data_v1/tahoe/data/condition_control_map.parquet",
+    "sha256": "c6632ead26f5001790057f8712a8b7abd9880a9d5e6ab487506cf4b6c454afde",
+    "bytes": 403711
+  },
+  {
+    "file": "metadata/orion/baicai/canonical_perturbation_data_v1/tahoe/data/condition_manifest.parquet",
+    "sha256": "ec70cbb93cbcea54c3ff35578f9fb7899c6d39a2c544f95e238d8d1e67b818dc",
+    "bytes": 438118
+  },
+  {
+    "file": "metadata/orion/baicai/canonical_perturbation_data_v1/tahoe/data/control_context_manifest.parquet",
+    "sha256": "da2b744096e18b81dc5e8b4b9854932f327b9ab2e20007b8296cbfa89797e346",
+    "bytes": 32259
+  },
+  {
+    "file": "metadata/orion/baicai/canonical_perturbation_data_v1/tahoe/data/control_manifest.parquet",
+    "sha256": "2392a080290c2106811dcd027772e4787dc6d3cd8d544c44970223f01a469bf8",
+    "bytes": 29561
+  },
+  {
+    "file": "metadata/orion/baicai/canonical_perturbation_data_v1/tahoe/data/gene_axis.parquet",
+    "sha256": "305b7da786b6546632b1367eaca52949d5aa6d94e73973855de0dd801a0f5f1c",
+    "bytes": 665654
+  },
+  {
+    "file": "metadata/orion/baicai/canonical_perturbation_data_v1/tahoe/data/official_gene_metadata.parquet",
+    "sha256": "d6104d1ca570d94832be0d27ffe8b7e4e54cfd366c9080239219f9c406eb751c",
+    "bytes": 1326799
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/COMMON_GENES.json",
+    "sha256": "5fde8550c2bb61a967135fb8cc51f74e88da0fc254786533590ef6f62915a8d1",
+    "bytes": 22064
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/CIGS_0_META.parquet",
+    "sha256": "25a66ca9dd2c51f7d7f6c12a9e038cbf8f7157bf2d404b2daa204a67cb65c848",
+    "bytes": 1308325
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/CIGS_1_META.parquet",
+    "sha256": "172cebeea14f1a9b760a96c934a703c4b97fec8e26c047340b9cd1749bfb9fb2",
+    "bytes": 1279956
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/CIGS_2_META.parquet",
+    "sha256": "cd83e77469ab086f7173f6af4bbd18272bb385da50db5193068c39c57b96fd54",
+    "bytes": 210461
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/CIGS_3_META.parquet",
+    "sha256": "7ac1c5a11c191c8cb5163e8080050f146d1dcf6a8595e4e9611dc15f518472a4",
+    "bytes": 210711
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/CIGS_4_META.parquet",
+    "sha256": "32e9a4f037d911dceb359c88c688c116ef555cdd5d2d3c3709f0966b968a7744",
+    "bytes": 198513
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/CIGS_5_META.parquet",
+    "sha256": "1d99b5b4e89c815906fcc68e0bd089a93abcb59e05e79d3d4ab7a476abcfc209",
+    "bytes": 210563
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/CIGS_CONDITION_META.parquet",
+    "sha256": "b50abdc6f0eec7af488950fc19af0417145276345628adca2679db240687781f",
+    "bytes": 1336278
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/CIGS_META.parquet",
+    "sha256": "afc0149555f77dbafc978cc0fdbce726bd8007b6fce7965d187c87612667e79c",
+    "bytes": 3199949
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/CIGS_NATIVE_AXES.npz",
+    "sha256": "1debb7d50db694ee6ce855fa375aeba5a819315d2dac321e35689d3fda126f2b",
+    "bytes": 21473
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/DRUGseq_CONDITION_META.parquet",
+    "sha256": "c3ca4e52e6ba42550fc888f51954824fa33320ccfdf11b008a557396e216a92c",
+    "bytes": 1182264
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/DRUGseq_META.parquet",
+    "sha256": "f6e7e400d1eddda9b8a64c357f68ad5e37fc0783e88b72db5138f4444171c257",
+    "bytes": 3470759
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/DRUGseq_NATIVE_AXES.npz",
+    "sha256": "31814aa7aef3d65d57d5519deab7a1dd1486a0a53cf3735a74fe08247494f3b1",
+    "bytes": 593460
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/L1000_L3_CONDITION_META.parquet",
+    "sha256": "77241c503b826e0f543821e87968ea539bde1e050ba71dd9b76be44ee7fa8e2a",
+    "bytes": 34258346
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/L1000_L3_META.parquet",
+    "sha256": "7421dd6713ca983e73129b9a3c7603bd0c8b217e3301e16243731ce82f3179f2",
+    "bytes": 22505538
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/L1000_L3_NATIVE_AXES.npz",
+    "sha256": "535fc29381368d499e3f40bdec12f18199de2dcc5a95846de2790253a8bfe483",
+    "bytes": 7968
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/MIXseq_CONDITION_META.parquet",
+    "sha256": "35e75a97a1da0fe523530f80db47294b0f8c15f3c41bf9dd0d96a0225384c286",
+    "bytes": 54395
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/MIXseq_META.parquet",
+    "sha256": "71252a7da220abb091b5c58ba5153ddacf664402557272eac620b5bff52fea29",
+    "bytes": 77097
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/MIXseq_NATIVE_AXES.npz",
+    "sha256": "bae41b538529790c2f6ae13c204ce8919a426d79f917a917d70aad252ddf515e",
+    "bytes": 156784
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/sciPlex3_CONDITION_META.parquet",
+    "sha256": "9d8829569a71fa48f1f4e251d9b1d962e763e1512d9ed8f063045df99e4802b4",
+    "bytes": 77247
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/sciPlex3_META.parquet",
+    "sha256": "495817aa1bebb8461c64dba9ee32520ef04b4e865fb6aec8dacfb9ab76a92a4f",
+    "bytes": 159674
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/sciPlex3_NATIVE_AXES.npz",
+    "sha256": "afbbad60884af3f08181a8655af009c18e9c5da7edbeaf19e407880355f28b60",
+    "bytes": 181155
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/Tahoe_CONDITION_META.parquet",
+    "sha256": "147a826876d2007af4bd63f2722ad48f88b2f75cb3148af83aa4034e93d4237f",
+    "bytes": 954400
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/Tahoe_META.parquet",
+    "sha256": "0a14108a108ebe5560c071c6c9894e29cffc00dd5107caa96ebbc8787e83ae1c",
+    "bytes": 1062051
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/data/Tahoe_NATIVE_AXES.npz",
+    "sha256": "0198ca012722200cca27130d09b14679bf930ab70b36da191934a24e7d70f3c5",
+    "bytes": 399012
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/IDENTITY_MAP.json",
+    "sha256": "4d83d95a4a99ead500a9b6ed7ee2677b7ea3e069be32ba42f18fdcf8c82930cb",
+    "bytes": 2275894
+  },
+  {
+    "file": "metadata/orion/FULL_DATASET_FIGURES_V1/PROTOCOL.json",
+    "sha256": "46a2a7f98a4ee8a391e9b87bdcf3526888c5c75977e49c10e373f4328765d394",
+    "bytes": 1795
+  },
+  {
+    "file": "metadata/orion/REPEATABILITY_HARMONIZED_V1/outputs/GLOBAL_GENE_MASK.json",
+    "sha256": "893c1fe12c2957f09f19007884eabec6db8fd180e738071847da41314e68cc17",
+    "bytes": 10878
+  }
+]

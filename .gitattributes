@@ -1,0 +1,2 @@
+# Preserve the exact bytes recorded in the source and model checksum manifests.
+* -text

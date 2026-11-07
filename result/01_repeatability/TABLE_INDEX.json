@@ -1,0 +1,219 @@
+[
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "CONTENTS.json",
+    "bytes": 9783,
+    "sha256": "a9b097a24e0b6a16d6ef540210eac978b3a7ac584ee84b35225cf1ba1743548a"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "README.md",
+    "bytes": 258,
+    "sha256": "42993c492b6511858979422b9ca96f131ab8b840e5767c5b6eb2d25ec5edb9fc"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "SOURCE_NORMALIZATION.json",
+    "bytes": 223,
+    "sha256": "f536083d16dad3b6198d216a42f8b01dc3f34318d59c109b00f8b6017f6eafbc"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PAPER_TWO_CHECKS_V1/results/exp1/CONDITION_RESULTS.csv",
+    "bytes": 878162,
+    "sha256": "a8a597cb15e90a40a4de480f65e7d40c85ab54d3f74d35775d3602a13a16b98a"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PAPER_TWO_CHECKS_V1/results/exp1/CONTROL_BINDINGS.json",
+    "bytes": 12891194,
+    "sha256": "016267f0a907058cd5187ede5efaee7c0a7066333b299efbee58fc042fd94824"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PAPER_TWO_CHECKS_V1/results/exp1/EXCLUSIONS.csv",
+    "bytes": 647,
+    "sha256": "7c32ff361e0910a632b72c0e17bc7db189e722a1949e76ba9c1126d3a7665b90"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PAPER_TWO_CHECKS_V1/results/exp1/MATCHED_RELIABILITY.csv",
+    "bytes": 6751,
+    "sha256": "2e1b1d5d0724940202344b87175e3cd5f13a11f76fc3342c92361fcc08a785c7"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PAPER_TWO_CHECKS_V1/results/exp1/PAIRED_GAPS.csv",
+    "bytes": 3449,
+    "sha256": "9d5862de61c72a061419f8b3a21ef4bdf7d64ca4cca2ff8ca7b793bdc0185c95"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PAPER_TWO_CHECKS_V1/results/exp1/SENSITIVITY.csv",
+    "bytes": 970179,
+    "sha256": "0d1b55138067e9d147c2fd5594c1191ee49523297c5aed8ff3d3958f48b3d424"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PAPER_TWO_CHECKS_V1/results/exp1/SUPPORT_COUNTS.csv",
+    "bytes": 1867,
+    "sha256": "f17a68d70cf746d4a13325f80eda9ec7703e20126ff2440ee3b5229a24e4f081"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PAPER_TWO_CHECKS_V1/results/exp1/SUPPORT_LOCK.json",
+    "bytes": 844627,
+    "sha256": "f54ebef6d518576de01f4f34b0c8df349998adea35e51142aba7851cb6baf705"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PAPER_TWO_CHECKS_V1/results/exp1/WRONG_DRUG_CONDITIONS.csv",
+    "bytes": 3902771,
+    "sha256": "9ee0e9ddf9be249b492432e015c0113cab73f0b5bb1d289356543a3ba925a5f2"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PAPER_TWO_CHECKS_V1/results/exp1/WRONG_DRUG_CONTROL.csv",
+    "bytes": 12465,
+    "sha256": "1b3133ad7ace9d39b63a09c9dfc9d905ab20ae51ac93dca1ecf738fb11e0202f"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PAPER_TWO_CHECKS_V1/results/exp1/verification_pair.npz",
+    "bytes": 23984,
+    "sha256": "cb24abf319806e4b3e58aab3903525f6cb54b2b3dddbc4de2210a553fef4d764"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PREPRINT_FULL_DATA_V1/figures/fig1a_expression.csv",
+    "bytes": 3589,
+    "sha256": "85c7947223e2d6803db04740dfa709e4d4ce2995e60fba9bd0cc5b71c96c26d9"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PREPRINT_FULL_DATA_V1/figures/fig1b_response.csv",
+    "bytes": 3612,
+    "sha256": "544acb0570d5b67a8da713fdd1d39c2d0c0f394ffb6a7279ac0406d04def783d"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PREPRINT_FULL_DATA_V1/figures/fig2_multiview_display.csv",
+    "bytes": 5164,
+    "sha256": "a4b4aff0860592e010ae5eb72724530cbfa98850f81b168cb2c3d14688b8c730"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PREPRINT_FULL_DATA_V1/figures/fig2a_direct.csv",
+    "bytes": 3161,
+    "sha256": "1131450c611d766ca545206bf59430f4edb176c597396315b2678d92eb887fbb"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PREPRINT_FULL_DATA_V1/figures/fig2b_auc.csv",
+    "bytes": 3161,
+    "sha256": "1131450c611d766ca545206bf59430f4edb176c597396315b2678d92eb887fbb"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PREPRINT_FULL_DATA_V1/figures/fig2c_complete_strict.csv",
+    "bytes": 1661,
+    "sha256": "f494fb033a4a907c1f1c182355e3ff2c5967de2b2c5fc5fee65c71e517332d59"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PREPRINT_FULL_DATA_V1/figures/fig2d_cell_averaged.csv",
+    "bytes": 2231,
+    "sha256": "6ba69ae2efdb4ff3e2e36bd063940fb7bcbc65b82e38bbbb61926f97edf38a89"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/PREPRINT_FULL_DATA_V1/figures/fig3a_full.csv",
+    "bytes": 9483,
+    "sha256": "de79936ce947af7aa0cb54bf1218d31e9e328c79d6fc2979f9d8addf06d17ec4"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/SUPPLEMENT_REVIEW_V2_20261102/data/S1.csv",
+    "bytes": 4690,
+    "sha256": "9cdb72333fa8e9e58f90746dd654c16219a9997eef03dd51e95af29e009dc2a8"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/SUPPLEMENT_REVIEW_V2_20261102/data/S2.csv",
+    "bytes": 2598,
+    "sha256": "431f3b5a8bdf715518364697d19fc71dc8c62a159e7d66f99b5ed9c4bdf3f1fc"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/EXTERNAL_SCOPE_AUDIT.csv",
+    "bytes": 2251,
+    "sha256": "17d01d66312563d4dfe7ebc1ef92211747439adb5fa9047eedffbb724d467035"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/PAIR_RESULTS_882.csv",
+    "bytes": 13220,
+    "sha256": "c518d3229cb9c7a212858fe2625a369906dad87171e0d359f6cb0f6a395d2086"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/Tahoe_REPEAT_SUMMARY.csv",
+    "bytes": 4155,
+    "sha256": "5595350ecec87d2433f0b7b3a38745ffea50a9d4d71c36ba2befd24098605fff"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "tables/S10_repeatability_sensitivity.csv",
+    "bytes": 8182,
+    "sha256": "7b0d9bfb5dcd71330806e3091ae72b69c485afe3b1e908fef62786239abded5a"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "tables/S11_matched_repeatability.csv",
+    "bytes": 6751,
+    "sha256": "2e1b1d5d0724940202344b87175e3cd5f13a11f76fc3342c92361fcc08a785c7"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "tables/S11_support_gaps.csv",
+    "bytes": 1867,
+    "sha256": "f17a68d70cf746d4a13325f80eda9ec7703e20126ff2440ee3b5229a24e4f081"
+  },
+  {
+    "experiment": "01_repeatability",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "tables/S11_wrong_drug_controls.csv",
+    "bytes": 12465,
+    "sha256": "1b3133ad7ace9d39b63a09c9dfc9d905ab20ae51ac93dca1ecf738fb11e0202f"
+  }
+]

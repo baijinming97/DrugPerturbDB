@@ -1,0 +1,89 @@
+{
+  "models": [
+    {
+      "name": "G5",
+      "fold": 0,
+      "seed": null,
+      "target": "data/models/G5/fold0/PRIMARY.pkl.gz",
+      "sha256": "ee7a091bfc0f5e5aa107d6810b781b6740a857a23f8db68b7b680453d8a4c1bf",
+      "bytes": 12302794
+    },
+    {
+      "name": "G5",
+      "fold": 2,
+      "seed": null,
+      "target": "data/models/G5/fold2/PRIMARY.pkl.gz",
+      "sha256": "ec45d42f6e7de52fca8ca3bf1fb135d370658f8aa2978f1f8c3f9eab6149f0b7",
+      "bytes": 12720697
+    },
+    {
+      "name": "G5",
+      "fold": 3,
+      "seed": null,
+      "target": "data/models/G5/fold3/PRIMARY.pkl.gz",
+      "sha256": "2954bc9a49847c404e62b59e958d051f6f8067c2669a12b6aa80a38a595888d6",
+      "bytes": 13048117
+    },
+    {
+      "name": "G5",
+      "fold": 1,
+      "seed": null,
+      "target": "data/models/G5/fold1/PRIMARY.pkl.gz",
+      "sha256": "617cbbf918e5d70f2ce2c13b14b2ac8f030c65363acf684dcf5654cce6b09c07",
+      "bytes": 12625394
+    },
+    {
+      "name": "G5",
+      "fold": 4,
+      "seed": null,
+      "target": "data/models/G5/fold4/PRIMARY.pkl.gz",
+      "sha256": "c829dc72fa490c06cd8f60bd830e5a60a8712a507aeb69edbb25959c3e803b1d",
+      "bytes": 12446075
+    },
+    {
+      "name": "Control-expression-only 3H2048",
+      "fold": 3,
+      "seed": 1337,
+      "target": "data/models/control_only_3H2048/fold3/selected.pt",
+      "sha256": "9f628f8c082d81ac94379af93e7a6db80cd29e4fc3c29ac91cf78a5322ca0ff0",
+      "bytes": 49609740
+    },
+    {
+      "name": "Control-expression-only 3H2048",
+      "fold": 4,
+      "seed": 1337,
+      "target": "data/models/control_only_3H2048/fold4/selected.pt",
+      "sha256": "0f6cb09b060b1b8aa6265f4be7a9e88b6551ed41e5f47aaf3207cfaa58bf5f03",
+      "bytes": 49609740
+    },
+    {
+      "name": "Control-expression-only 3H2048",
+      "fold": 0,
+      "seed": 1337,
+      "target": "data/models/control_only_3H2048/fold0/selected.pt",
+      "sha256": "1ef2633621bb9fe0771b7dca9b70c40c56357f08d3626087ca5a7c5dea6cebae",
+      "bytes": 49609740
+    },
+    {
+      "name": "Control-expression-only 3H2048",
+      "fold": 2,
+      "seed": 1337,
+      "target": "data/models/control_only_3H2048/fold2/selected.pt",
+      "sha256": "2bc9fbb2ac9ec42b8926152764b560b04dbbe5c4f8c20ef6269e49cafe07f310",
+      "bytes": 49609740
+    },
+    {
+      "name": "Control-expression-only 3H2048",
+      "fold": 1,
+      "seed": 1337,
+      "target": "data/models/control_only_3H2048/fold1/selected.pt",
+      "sha256": "c66211d3a8f7ec51dacca547a20c0f21d7e9a996501b80257dc9c0125d0ffd7d",
+      "bytes": 49609740
+    }
+  ],
+  "artifact": "tahoe_paper_models_public_v2.tar.gz",
+  "format_note": "Trusted frozen checkpoints only; verify SHA256 before loading.",
+  "availability": "Bundled in data/models; ten files verified against the frozen registry.",
+  "bundled_directory": "data/models",
+  "artifact_sha256": "ee32d08eb43923b16b96199e5dac5b48bb9126d42b3dd16e12959a2610da5f7e"
+}

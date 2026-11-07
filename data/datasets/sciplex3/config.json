@@ -1,0 +1,23 @@
+{
+  "dataset": "sciPlex3",
+  "note": "",
+  "stages": [
+    {
+      "id": "profiles",
+      "calls": [
+        {
+          "file": "data/datasets/sciplex3/prepare_profiles.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/sciplex3.h5ad"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/data/sciPlex3.h5",
+        "FULL_DATASET_FIGURES_V1/data/sciPlex3_META.parquet"
+      ],
+      "r": false
+    }
+  ]
+}

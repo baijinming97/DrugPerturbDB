@@ -1,0 +1,162 @@
+{
+  "dataset": "CIGS",
+  "note": "Official source files plus fixed raw-count snapshots for the two TCM 20-uM panels; source versions are pinned by SHA256.",
+  "stages": [
+    {
+      "id": "snapshots",
+      "calls": [
+        {
+          "file": "data/datasets/cigs/extract_snapshot.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/CIGS_TCM20_counts_v1.tar.gz"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/raw/cigs_snapshots/MANIFEST.json"
+      ]
+    },
+    {
+      "id": "profiles_0",
+      "calls": [
+        {
+          "file": "data/datasets/cigs/prepare_profiles.py",
+          "args": [
+            "0"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/MCE_Bioactive_Compounds_HEK293T_10uM_MetaData.xlsx",
+        "FULL_DATASET_FIGURES_V1/raw/MCE_Bioactive_Compounds_HEK293T_10uM_Counts.xlsx"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/data/CIGS_0.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_0_META.parquet"
+      ]
+    },
+    {
+      "id": "profiles_1",
+      "calls": [
+        {
+          "file": "data/datasets/cigs/prepare_profiles.py",
+          "args": [
+            "1"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/MCE_Bioactive_Compounds_MDA_MB_231_10uM_MetaData.xlsx",
+        "FULL_DATASET_FIGURES_V1/raw/MCE_Bioactive_Compounds_MDA_MB_231_10uM_Counts.xlsx"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/data/CIGS_1.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_1_META.parquet"
+      ]
+    },
+    {
+      "id": "profiles_2",
+      "calls": [
+        {
+          "file": "data/datasets/cigs/prepare_profiles.py",
+          "args": [
+            "2"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/TCM_Compounds_HEK293T_10_MetaData.xlsx",
+        "FULL_DATASET_FIGURES_V1/raw/TCM_Compounds_HEK293T_10_Counts.xlsx"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/data/CIGS_2.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_2_META.parquet"
+      ]
+    },
+    {
+      "id": "profiles_3",
+      "calls": [
+        {
+          "file": "data/datasets/cigs/prepare_profiles.py",
+          "args": [
+            "3"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/TCM_Compounds_HEK293T_20_MetaData.xlsx",
+        "FULL_DATASET_FIGURES_V1/raw/cigs_snapshots/TCM_Compounds_HEK293T_20_Counts.h5"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/data/CIGS_3.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_3_META.parquet"
+      ]
+    },
+    {
+      "id": "profiles_4",
+      "calls": [
+        {
+          "file": "data/datasets/cigs/prepare_profiles.py",
+          "args": [
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/TCM_Compounds_MDA_MB_231_10_MetaData.xlsx",
+        "FULL_DATASET_FIGURES_V1/raw/TCM_Compounds_MDA_MB_231_10_Counts.xlsx"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/data/CIGS_4.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_4_META.parquet"
+      ]
+    },
+    {
+      "id": "profiles_5",
+      "calls": [
+        {
+          "file": "data/datasets/cigs/prepare_profiles.py",
+          "args": [
+            "5"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/TCM_Compounds_MDA_MB_231_20_MetaData.xlsx",
+        "FULL_DATASET_FIGURES_V1/raw/cigs_snapshots/TCM_Compounds_MDA_MB_231_20_Counts.h5"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/data/CIGS_5.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_5_META.parquet"
+      ]
+    },
+    {
+      "id": "merge",
+      "calls": [
+        {
+          "file": "data/datasets/cigs/merge_profiles.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/data/CIGS_0.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_1.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_2.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_3.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_4.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_5.h5",
+        "FULL_DATASET_FIGURES_V1/receipts/CIGS_0_PREPARED.json",
+        "FULL_DATASET_FIGURES_V1/receipts/CIGS_1_PREPARED.json",
+        "FULL_DATASET_FIGURES_V1/receipts/CIGS_2_PREPARED.json",
+        "FULL_DATASET_FIGURES_V1/receipts/CIGS_3_PREPARED.json",
+        "FULL_DATASET_FIGURES_V1/receipts/CIGS_4_PREPARED.json",
+        "FULL_DATASET_FIGURES_V1/receipts/CIGS_5_PREPARED.json"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/data/CIGS.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_META.parquet"
+      ]
+    }
+  ]
+}

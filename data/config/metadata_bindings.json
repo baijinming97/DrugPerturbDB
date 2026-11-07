@@ -1,0 +1,274 @@
+[
+  {
+    "file": "data/metadata/common/COMMON_GENES.json",
+    "destination": "FULL_DATASET_FIGURES_V1/COMMON_GENES.json"
+  },
+  {
+    "file": "data/metadata/common/IDENTITY_MAP.json",
+    "destination": "FULL_DATASET_FIGURES_V1/IDENTITY_MAP.json"
+  },
+  {
+    "file": "data/metadata/common/PROTOCOL.json",
+    "destination": "FULL_DATASET_FIGURES_V1/PROTOCOL.json"
+  },
+  {
+    "file": "data/metadata/prediction/DRUG_ROLE_OWNER.json",
+    "destination": "4MAN/CROSS_DATASET_ATLAS_V1/DRUG_ROLE_OWNER.json"
+  },
+  {
+    "file": "data/metadata/drugseq/OBSERVED_GENES.tsv",
+    "destination": "4MAN/DRUGSEQ_BETAW_PILOT_V1/features/OBSERVED_GENES.tsv"
+  },
+  {
+    "file": "data/metadata/genes/GENE_AXIS.tsv",
+    "destination": "4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/GENE_AXIS.tsv"
+  },
+  {
+    "file": "data/metadata/prediction/G5_LINEAGE_AUDIT.json",
+    "destination": "4MAN/PAPER_TWO_CHECKS_V1/exp2/G5_LINEAGE_AUDIT.json"
+  },
+  {
+    "file": "data/metadata/tahoe/full/Tahoe_CONDITION_META.parquet",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/data/Tahoe_CONDITION_META.parquet"
+  },
+  {
+    "file": "data/metadata/tahoe/full/Tahoe_NATIVE_AXES.npz",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/data/Tahoe_NATIVE_AXES.npz"
+  },
+  {
+    "file": "data/metadata/tahoe/full/Tahoe_REPLICATE_ELIGIBLE.parquet",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/metadata/Tahoe_REPLICATE_ELIGIBLE.parquet"
+  },
+  {
+    "file": "data/metadata/tahoe/full/Tahoe_REPLICATE_META.parquet",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/metadata/Tahoe_REPLICATE_META.parquet"
+  },
+  {
+    "file": "data/metadata/matching/IDENTITY_MAP_FINAL.json",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/IDENTITY_MAP_FINAL.json"
+  },
+  {
+    "file": "data/metadata/matching/LOCKED_SELECTIONS.json",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/LOCKED_SELECTIONS.json"
+  },
+  {
+    "file": "data/metadata/matching/PROTOCOL.json",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/PROTOCOL.json"
+  },
+  {
+    "file": "data/metadata/matching/metadata/CIGS_VECTOR_KEYS.parquet",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/metadata/CIGS_VECTOR_KEYS.parquet"
+  },
+  {
+    "file": "data/metadata/matching/metadata/DRUGseq_VECTOR_KEYS.parquet",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/metadata/DRUGseq_VECTOR_KEYS.parquet"
+  },
+  {
+    "file": "data/metadata/matching/metadata/L1000_L3_VECTOR_KEYS.parquet",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/metadata/L1000_L3_VECTOR_KEYS.parquet"
+  },
+  {
+    "file": "data/metadata/matching/metadata/MIXseq_VECTOR_KEYS.parquet",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/metadata/MIXseq_VECTOR_KEYS.parquet"
+  },
+  {
+    "file": "data/metadata/matching/metadata/sciPlex3_VECTOR_KEYS.parquet",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/metadata/sciPlex3_VECTOR_KEYS.parquet"
+  },
+  {
+    "file": "data/metadata/matching/metadata/Tahoe_VECTOR_KEYS.parquet",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/metadata/Tahoe_VECTOR_KEYS.parquet"
+  },
+  {
+    "file": "data/metadata/prediction/A_REPRODUCTION_GATE.json",
+    "destination": "4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/A_REPRODUCTION_GATE.json"
+  },
+  {
+    "file": "data/metadata/prediction/FEATURE_SCHEMAS.json",
+    "destination": "4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/FEATURE_SCHEMAS.json"
+  },
+  {
+    "file": "data/metadata/prediction/PROTOCOL_A.json",
+    "destination": "4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/PROTOCOL_A.json"
+  },
+  {
+    "file": "data/metadata/prediction/REPRODUCTION_CHECKS.csv",
+    "destination": "4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/REPRODUCTION_CHECKS.csv"
+  },
+  {
+    "file": "data/metadata/prediction/SHARED_FROZEN.json",
+    "destination": "4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/SHARED_FROZEN.json"
+  },
+  {
+    "file": "data/metadata/prediction/STAGE_A_INPUT_PATHS_SHA256.json",
+    "destination": "4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/STAGE_A_INPUT_PATHS_SHA256.json"
+  },
+  {
+    "file": "data/metadata/prediction/STAGE_A_READ_ROLE_AUDIT.json",
+    "destination": "4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/STAGE_A_READ_ROLE_AUDIT.json"
+  },
+  {
+    "file": "data/metadata/mixseq/MIX_META_2.csv",
+    "destination": "4MAN/TAHOE_GAMMA_PARALLEL_V1/ws3_multicell_external/v2/MIX_META_2.csv"
+  },
+  {
+    "file": "data/metadata/identity/l1000_connectivity_components_v1.parquet",
+    "destination": "baicai/canonical_perturbation_data_v1/molecular_features/l1000_connectivity_components_v1.parquet"
+  },
+  {
+    "file": "data/metadata/identity/l1000_pert_structure_dictionary_v1.parquet",
+    "destination": "baicai/canonical_perturbation_data_v1/molecular_features/l1000_pert_structure_dictionary_v1.parquet"
+  },
+  {
+    "file": "data/metadata/l1000/canonical/data/gene_axis_978.parquet",
+    "destination": "baicai/canonical_perturbation_data_v1/l1000/data/gene_axis_978.parquet"
+  },
+  {
+    "file": "data/metadata/l1000/canonical/data/l3_control_context_manifest.parquet",
+    "destination": "baicai/canonical_perturbation_data_v1/l1000/data/l3_control_context_manifest.parquet"
+  },
+  {
+    "file": "data/metadata/l1000/canonical/data/l3_control_manifest.parquet",
+    "destination": "baicai/canonical_perturbation_data_v1/l1000/data/l3_control_manifest.parquet"
+  },
+  {
+    "file": "data/metadata/l1000/canonical/data/l3_treatment_manifest.parquet",
+    "destination": "baicai/canonical_perturbation_data_v1/l1000/data/l3_treatment_manifest.parquet"
+  },
+  {
+    "file": "data/metadata/tahoe/canonical/audit/full_qc_plate_counts.parquet",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/audit/full_qc_plate_counts.parquet"
+  },
+  {
+    "file": "data/metadata/tahoe/canonical/audit/gene_axis.parquet",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/audit/gene_axis.parquet"
+  },
+  {
+    "file": "data/metadata/tahoe/canonical/audit/qc_plate_profile_manifest.parquet",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/audit/qc_plate_profile_manifest.parquet"
+  },
+  {
+    "file": "data/metadata/tahoe/canonical/data/condition_control_map.parquet",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/data/condition_control_map.parquet"
+  },
+  {
+    "file": "data/metadata/tahoe/canonical/data/condition_manifest.parquet",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/data/condition_manifest.parquet"
+  },
+  {
+    "file": "data/metadata/tahoe/canonical/data/control_context_manifest.parquet",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/data/control_context_manifest.parquet"
+  },
+  {
+    "file": "data/metadata/tahoe/canonical/data/control_manifest.parquet",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/data/control_manifest.parquet"
+  },
+  {
+    "file": "data/metadata/tahoe/canonical/data/gene_axis.parquet",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/data/gene_axis.parquet"
+  },
+  {
+    "file": "data/metadata/tahoe/canonical/data/official_gene_metadata.parquet",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/data/official_gene_metadata.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/CIGS_0_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/CIGS_0_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/CIGS_1_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/CIGS_1_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/CIGS_2_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/CIGS_2_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/CIGS_3_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/CIGS_3_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/CIGS_4_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/CIGS_4_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/CIGS_5_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/CIGS_5_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/CIGS_CONDITION_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/CIGS_CONDITION_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/CIGS_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/CIGS_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/CIGS_NATIVE_AXES.npz",
+    "destination": "FULL_DATASET_FIGURES_V1/data/CIGS_NATIVE_AXES.npz"
+  },
+  {
+    "file": "data/metadata/profiles/DRUGseq_CONDITION_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/DRUGseq_CONDITION_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/DRUGseq_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/DRUGseq_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/DRUGseq_NATIVE_AXES.npz",
+    "destination": "FULL_DATASET_FIGURES_V1/data/DRUGseq_NATIVE_AXES.npz"
+  },
+  {
+    "file": "data/metadata/profiles/L1000_L3_CONDITION_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/L1000_L3_CONDITION_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/L1000_L3_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/L1000_L3_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/L1000_L3_NATIVE_AXES.npz",
+    "destination": "FULL_DATASET_FIGURES_V1/data/L1000_L3_NATIVE_AXES.npz"
+  },
+  {
+    "file": "data/metadata/profiles/MIXseq_CONDITION_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/MIXseq_CONDITION_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/MIXseq_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/MIXseq_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/MIXseq_NATIVE_AXES.npz",
+    "destination": "FULL_DATASET_FIGURES_V1/data/MIXseq_NATIVE_AXES.npz"
+  },
+  {
+    "file": "data/metadata/profiles/sciPlex3_CONDITION_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/sciPlex3_CONDITION_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/sciPlex3_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/sciPlex3_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/sciPlex3_NATIVE_AXES.npz",
+    "destination": "FULL_DATASET_FIGURES_V1/data/sciPlex3_NATIVE_AXES.npz"
+  },
+  {
+    "file": "data/metadata/profiles/Tahoe_CONDITION_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/Tahoe_CONDITION_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/Tahoe_META.parquet",
+    "destination": "FULL_DATASET_FIGURES_V1/data/Tahoe_META.parquet"
+  },
+  {
+    "file": "data/metadata/profiles/Tahoe_NATIVE_AXES.npz",
+    "destination": "FULL_DATASET_FIGURES_V1/data/Tahoe_NATIVE_AXES.npz"
+  },
+  {
+    "file": "data/metadata/genes/GLOBAL_GENE_MASK.json",
+    "destination": "REPEATABILITY_HARMONIZED_V1/outputs/GLOBAL_GENE_MASK.json"
+  }
+]

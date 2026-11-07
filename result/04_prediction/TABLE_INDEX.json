@@ -1,0 +1,142 @@
+[
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "CONTENTS.json",
+    "bytes": 3237,
+    "sha256": "89648bf8d47d5a8709a00c9ec7c463edd83c535800eec55705be56cf1e68393b"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "CONTROL_PROVENANCE.json",
+    "bytes": 1284,
+    "sha256": "8fb05e4adeefe5d940f99424d64202be33b1fbd61d2440b810747f7181ad1090"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "README.md",
+    "bytes": 258,
+    "sha256": "42993c492b6511858979422b9ca96f131ab8b840e5767c5b6eb2d25ec5edb9fc"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "evidence_inputs/KPGT_PAIRED_CONTROL_SOURCE_ROWS.csv",
+    "bytes": 807,
+    "sha256": "4c13c661be8fa9136295e2b753083570bf4f23898985b6728a464d6b167d32b9"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "evidence_inputs/PAPER_TWO_CHECKS_V1/results/exp2/WITHIN_CROSS_PLATE.csv",
+    "bytes": 21870,
+    "sha256": "2094ae428b42775242a30e6f8f236537f8c66a91e79a0336b1b730ffc407f473"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "evidence_inputs/PREPRINT_FULL_DATA_V1/evidence_model/BASELINE_STORED.csv",
+    "bytes": 1438,
+    "sha256": "4d444ffff5067252c7b18d0244765fcd1f76dc735303ccb89a6356ce627cba0d"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "evidence_inputs/PREPRINT_FULL_DATA_V1/evidence_model/FOUR_COMPONENT_COMPARISON.csv",
+    "bytes": 4970,
+    "sha256": "e3bf229fe05c6f8067ef956013f0c1c89207215c6c67e921e94a22206a44ccbf"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "evidence_inputs/PREPRINT_FULL_DATA_V1/evidence_model/PRIMARY_ORACLE_DIAGNOSTIC.csv",
+    "bytes": 909,
+    "sha256": "1dfbc5fef2e7d46b2f6e5e22602e3ca99336b9cc514ed3e7f9caf1b508f4b5c7"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "evidence_inputs/SUPPLEMENT_ONLY_REVIEW_V4_20261102/data/S4B.csv",
+    "bytes": 3276,
+    "sha256": "f5aa27414fd5d0b4fdbb981dd880117c2cea09ade17894a6b4dc3331a226cc80"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "evidence_inputs/SUPPLEMENT_ONLY_REVIEW_V4_20261102/data/S4_attempt_results.csv",
+    "bytes": 2637,
+    "sha256": "3ed1a5b8ae1eec7f32af9fe25ad80d65836ba06c93451bb2afe5f8813018b729"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "tables/S12_cross_plate_all_models.csv",
+    "bytes": 21870,
+    "sha256": "2094ae428b42775242a30e6f8f236537f8c66a91e79a0336b1b730ffc407f473"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "tables/S12_cross_plate_controls.csv",
+    "bytes": 14154,
+    "sha256": "5d68538403b50b37af53575603f600db536cb1cfd2313e04974d3c3d02c8ea9d"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "tables/S12_cross_plate_per_fold.csv",
+    "bytes": 26555,
+    "sha256": "a3483a918e06ac120f61f40b38035d528e8fe0b6a1b26623308a36365a4937e8"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "tables/S3_component_energy_error.csv",
+    "bytes": 5341,
+    "sha256": "0b08df612df7f178ae8d26db54e5aea4a6fbb8b07d3f89a797c5b968883d6b6a"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "tables/S4_exploration.csv",
+    "bytes": 2637,
+    "sha256": "3ed1a5b8ae1eec7f32af9fe25ad80d65836ba06c93451bb2afe5f8813018b729"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "tables/S5_development_validation.csv",
+    "bytes": 3276,
+    "sha256": "f5aa27414fd5d0b4fdbb981dd880117c2cea09ade17894a6b4dc3331a226cc80"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "tables/S6_history_inventory.csv",
+    "bytes": 40280,
+    "sha256": "b7907420a4c312c3a4a069d469dfccec11cda3e92c29bf9ae688d83a94473185"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "tables/S7_STORED_PAIRED_GAIN_DATA.csv",
+    "bytes": 1339,
+    "sha256": "c04310da6891b7f28086e783f80c109d685c8f908ea42152602cbcd513eb4a34"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "tables/S7_TRAIN_oracle.csv",
+    "bytes": 1845,
+    "sha256": "2b4111033adef8576ef32861bfebc6b32666d5ce5f57c3da06808ffe5cbdfa98"
+  },
+  {
+    "experiment": "04_prediction",
+    "archive": "result/source_tables/Data_S2_predictions.zip",
+    "member": "tables/S8_method_selftest.csv",
+    "bytes": 8023,
+    "sha256": "9d40aa9e8c69ce6213f145cb0d2501eac565a7fc7051f44006ba54ad9f87a678"
+  }
+]

@@ -1,0 +1,21 @@
+dataset,mode,axis,normalization,pcc,low,high,drugs,conditions,pairs,genes,bootstrap,scope,all_cross_plate_pairs_exact,joint_native_common_validity
+Tahoe,post,common,author_linear_normalized,0.953982423571399,0.950745917110801,0.957024692410406,112,6818,11288,869,frozen chemical supercomponent; same repeats as full native validated recovery,All eligible independent physical-plate pairs; all model roles; >=50 full-QC cells per plate; author-qualified 47-cell panel,,
+Tahoe,post,native,author_linear_normalized,0.9715369696464172,0.9669880301924112,0.9758175788696852,112,6818,11288,62710,frozen chemical supercomponent; same repeats as full native validated recovery,All eligible independent physical-plate pairs; all model roles; >=50 full-QC cells per plate; author-qualified 47-cell panel,,
+L1000_L3,post,common,native_L3,0.9213949821710604,0.9208151015208286,0.9219674250623262,27852,367644,5931169,869,drug; conditions and pair dependence retained within drug,,True,
+L1000_L3,post,native,native_L3,0.9218408156183292,0.921270447755767,0.9224119913838364,27852,367644,5931169,978,drug; conditions and pair dependence retained within drug,,True,
+DRUGseq,post,common,logCPM1,0.8994869997014358,0.8981442403549997,0.900750573811918,4338,17327,383684,869,drug clusters,,True,True
+DRUGseq,post,common,logCPM100,0.9621281756165672,0.9608415651336776,0.9633437143845482,4338,17327,383684,869,drug clusters,,True,True
+DRUGseq,post,native,logCPM1,0.9297351763314472,0.9284363410055484,0.930932109375986,4338,17327,383684,59594,drug clusters,,True,True
+DRUGseq,post,native,logCPM100,0.9719088390165352,0.9706464083307002,0.9731058780959692,4338,17327,383684,59594,drug clusters,,True,True
+CIGS,post,common,logCPM1,0.7680868271073938,0.7666974497126663,0.7695992573831849,11357,22718,1053277,869,drug; conditions and pair dependence retained within drug,,True,
+CIGS,post,common,logCPM100,0.9014980704717076,0.9001930360261619,0.9028189059741464,11357,22718,1053277,869,drug; conditions and pair dependence retained within drug,,True,
+CIGS,post,native,logCPM1,0.8045427231636555,0.8031993678610562,0.8059381276722193,11357,22718,1053277,3407,drug; conditions and pair dependence retained within drug,,True,
+CIGS,post,native,logCPM100,0.9183115368919345,0.9171455361011428,0.9194759042584084,11357,22718,1053277,3407,drug; conditions and pair dependence retained within drug,,True,
+sciPlex3,post,common,logCPM1,0.8607179908185251,0.8569774857524223,0.8641205092578214,188,2411,2411,869,drug; conditions and pair dependence retained within drug,,True,
+sciPlex3,post,common,logCPM100,0.9427658519289364,0.9408098965267152,0.9444897690857524,188,2411,2411,869,drug; conditions and pair dependence retained within drug,,True,
+sciPlex3,post,native,logCPM1,0.9183996456257136,0.9163213946243682,0.9203358261420036,188,2411,2411,58302,drug; conditions and pair dependence retained within drug,,True,
+sciPlex3,post,native,logCPM100,0.9641883228401064,0.9628028274614908,0.9654189907906148,188,2411,2411,58302,drug; conditions and pair dependence retained within drug,,True,
+MIXseq,post,common,logCPM1,0.9104992715999612,,,1,49,100,869,drug; conditions and pair dependence retained within drug,,True,
+MIXseq,post,common,logCPM100,0.9131275653703168,,,1,49,100,869,drug; conditions and pair dependence retained within drug,,True,
+MIXseq,post,native,logCPM1,0.95982626278962,,,1,49,100,32738,drug; conditions and pair dependence retained within drug,,True,
+MIXseq,post,native,logCPM100,0.957805729216572,,,1,49,100,32738,drug; conditions and pair dependence retained within drug,,True,

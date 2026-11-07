@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "drugperturbdb"
+version = "0"
+description = "Reproducible measurement concordance and response-component analyses"
+requires-python = ">=3.12,<3.13"
+authors = [{name="Jinming Bai"}, {name="Sharon Prince"}, {name="Geoff S. Nitschke"}]
+license = "CC-BY-NC-4.0"
+license-files = ["LICENSE"]
+dependencies = ["numpy>=1.26,<3", "pandas>=2.2,<4", "scipy>=1.11,<2", "h5py>=3.11,<4", "pyarrow>=16", "requests>=2.31", "fsspec>=2024.6", "matplotlib>=3.8,<4", "PyMuPDF>=1.24,<3", "scikit-learn>=1.4,<2", "openpyxl>=3.1", "reportlab>=5,<6"]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<10"]
+
+[project.scripts]
+drugperturbdb = "tahoe_repro.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["code/common"]
+include = ["tahoe_repro*"]
+
+[tool.pytest.ini_options]
+testpaths = ["code/common/checks"]
+

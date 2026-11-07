@@ -1,0 +1,52 @@
+{
+  "task": "PREPRINT_PAIR_EXHAUSTIVENESS_V1",
+  "locked_before_response_reads": true,
+  "selection_sha256": "48cb0918f3cd514dd1fc75d15dedb631d2e92b56b81639a7af4ecd58aaac85db",
+  "identity_sha256": "a5e280a5791df30ce4458f752a4be77a41b44b7bc712ae4c752cc11cfa190cb6",
+  "gene_axis": 869,
+  "primary_time": 24,
+  "secondary_times": "all exact shared durations, reported separately by time",
+  "dose_rule": "all positive dose pairs within factor 2; legacy nearest and unrestricted-nearest sensitivity separate",
+  "strict": "same confirmed Cellosaurus, all eligible cells and near-dose pairs",
+  "marginal": "each source own complete eligible cell set including source-specific unmapped cell labels; not pure beta and not same-cell equivalence",
+  "weighting": "mean dose pairs within drug x cell, cells within drug, drugs within chemical supercomponent for Tahoe pairs; otherwise drug equal; never treat dose multiplicity as independent drugs",
+  "metrics": [
+    "R1 across-gene Pearson",
+    "R3 common-drug background within exact cell/time/dose-pair blocks >=3 drugs",
+    "same-background retrieval for blocks >=2 drugs; fixed candidate pools"
+  ],
+  "bootstrap": 2000,
+  "bootstrap_seed": 20261030,
+  "CI_minimum_groups": 3,
+  "training": 0,
+  "model_TEST_response_reads": 0,
+  "descriptive_Tahoe_all_roles": true,
+  "GPU": 0,
+  "do_not_select_by_results": true,
+  "resource_cap_allocated_core_hours": 8,
+  "gene_axis_sensitivity": {
+    "genes": 882,
+    "rule": "maximal unique Entrez intersection of the six retained source releases; same locked condition supports; metadata-derived before response reads",
+    "additional_genes": [
+      "10954",
+      "10969",
+      "1500",
+      "22794",
+      "22905",
+      "26292",
+      "3312",
+      "51005",
+      "55111",
+      "5867",
+      "7690",
+      "808",
+      "8974"
+    ]
+  },
+  "identity_correction": {
+    "inherited_nodes_replaced": 0,
+    "authority": "official Tahoe PubChem CID full stereochemistry",
+    "reason": "metadata conflict recheck; first numeric attempt invalidated independent of response values",
+    "prior_numeric_attempt_read_before_correction": false
+  }
+}

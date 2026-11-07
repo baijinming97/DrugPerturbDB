@@ -1,0 +1,12 @@
+name: drugperturbdb
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - r-base=4.3
+  - pip:
+      - -r code/common/environment/requirements-cpu.txt
+# Install the frozen baseline inference dependency afterwards:
+# python -m pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+# Then: python -m pip install --no-deps -e .

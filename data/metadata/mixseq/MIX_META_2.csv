@@ -1,0 +1,14 @@
+Drug,Concentration (uM),Timepoint(s) Assayed (Hrs.),Source
+Idasanutlin,2.5,"6, 24",Med Chem Express
+Bortezomib,2.5,"6, 24",EMD Millipore
+Navitoclax,5.0,24,Selleck Chemicals
+BRD-3379,10.0,"6, 24",Custom synthesis
+Dabrafenib,0.1,24,Selleck Chemicals
+Everolimus,10.0,24,Sigma-Aldrich
+Afatinib,0.5,24,Selleck Chemicals
+Prexasertib,1.0,24,Selleck Chemicals
+Taselisib,1.0,24,Selleck Chemicals
+AZD5991,2.0,24,ChemieTek
+JQ1,2.5,24,Med Chem Express
+Gemcitabine,0.1,24,Selleck Chemicals
+Trametinib,0.1,"3, 6, 9, 12, 24, 48",Selleck Chemicals

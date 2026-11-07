@@ -1,0 +1,50 @@
+{
+  "dataset": "MIXseq",
+  "note": "",
+  "stages": [
+    {
+      "id": "profiles",
+      "calls": [
+        {
+          "file": "data/datasets/mixseq/prepare_profiles.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/README.txt",
+        "FULL_DATASET_FIGURES_V1/raw/Supplementary_Tables.xlsx",
+        "FULL_DATASET_FIGURES_V1/raw/Trametinib_6hr_expt1.zip",
+        "FULL_DATASET_FIGURES_V1/raw/Trametinib_24hr_expt1.zip",
+        "FULL_DATASET_FIGURES_V1/raw/Bortezomib_6hr_expt1.zip",
+        "FULL_DATASET_FIGURES_V1/raw/Bortezomib_24hr_expt1.zip",
+        "FULL_DATASET_FIGURES_V1/raw/Idasanutlin_6hr_expt1.zip",
+        "FULL_DATASET_FIGURES_V1/raw/Idasanutlin_24hr_expt1.zip",
+        "FULL_DATASET_FIGURES_V1/raw/DMSO_24hr_expt1.zip",
+        "FULL_DATASET_FIGURES_V1/raw/DMSO_6hr_expt1.zip",
+        "FULL_DATASET_FIGURES_V1/raw/Untreated_6hr_expt1.zip",
+        "FULL_DATASET_FIGURES_V1/raw/Dabrafenib_24hr_expt3.zip",
+        "FULL_DATASET_FIGURES_V1/raw/Navitoclax_24hr_expt3.zip",
+        "FULL_DATASET_FIGURES_V1/raw/Trametinib_24hr_expt3.zip",
+        "FULL_DATASET_FIGURES_V1/raw/BRD3379_24hr_expt3.zip",
+        "FULL_DATASET_FIGURES_V1/raw/BRD3379_6hr_expt3.zip",
+        "FULL_DATASET_FIGURES_V1/raw/DMSO_24hr_expt3.zip",
+        "FULL_DATASET_FIGURES_V1/raw/DMSO_6hr_expt3.zip",
+        "FULL_DATASET_FIGURES_V1/raw/trametinib_tc_expt5.zip",
+        "FULL_DATASET_FIGURES_V1/raw/Afatinib_expt10.zip",
+        "FULL_DATASET_FIGURES_V1/raw/AZD5591_expt10.zip",
+        "FULL_DATASET_FIGURES_V1/raw/DMSO_expt10.zip",
+        "FULL_DATASET_FIGURES_V1/raw/Everolimus_expt10.zip",
+        "FULL_DATASET_FIGURES_V1/raw/Gemcitabine_expt10.zip",
+        "FULL_DATASET_FIGURES_V1/raw/JQ1_expt10.zip",
+        "FULL_DATASET_FIGURES_V1/raw/Prexasertib_expt10.zip",
+        "FULL_DATASET_FIGURES_V1/raw/Taselisib_expt10.zip",
+        "FULL_DATASET_FIGURES_V1/raw/Trametinib_expt10.zip"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/data/MIXseq.h5",
+        "FULL_DATASET_FIGURES_V1/data/MIXseq_META.parquet"
+      ],
+      "r": false
+    }
+  ]
+}

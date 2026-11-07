@@ -1,0 +1,26 @@
+{
+  "dataset": "DRUGseq",
+  "note": "",
+  "stages": [
+    {
+      "id": "profiles",
+      "calls": [
+        {
+          "file": "data/datasets/drugseq/prepare_profiles.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/Exp_gzip.RData",
+        "FULL_DATASET_FIGURES_V1/raw/DRUGseq_U2OS_MoABox_plate_wells_metadata_public.txt",
+        "FULL_DATASET_FIGURES_V1/raw/MoABox_compounds_metadata.txt",
+        "FULL_DATASET_FIGURES_V1/raw/MoABox_compounds_target_pairs_public.txt"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/data/DRUGseq.h5",
+        "FULL_DATASET_FIGURES_V1/data/DRUGseq_META.parquet"
+      ],
+      "r": true
+    }
+  ]
+}

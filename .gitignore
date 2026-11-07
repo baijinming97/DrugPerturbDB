@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+data/raw/
+data/prepared/
+result/*/computed/
+result/*/figures/
+result/.figure_work_*/
+result/FIGURE_REPRODUCTION.json

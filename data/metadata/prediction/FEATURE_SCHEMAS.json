@@ -1,0 +1,1797 @@
+{
+  "@WORKSPACE@/4MAN/BETA_W_PROGRAMS_V1/features/K562_essential_normalized_bulk_01.h5ad.subset.npz": {
+    "target.npy": {
+      "shape": [
+        16
+      ],
+      "dtype": "<U6"
+    },
+    "signature.npy": {
+      "shape": [
+        16,
+        978
+      ],
+      "dtype": "float64"
+    },
+    "gene.npy": {
+      "shape": [
+        978
+      ],
+      "dtype": "<U21"
+    },
+    "source_sha.npy": {
+      "shape": [],
+      "dtype": "<U64"
+    }
+  },
+  "@WORKSPACE@/4MAN/BETA_W_PROGRAMS_V1/features/rpe1_normalized_bulk_01.h5ad.subset.npz": {
+    "target.npy": {
+      "shape": [
+        22
+      ],
+      "dtype": "<U6"
+    },
+    "signature.npy": {
+      "shape": [
+        22,
+        978
+      ],
+      "dtype": "float64"
+    },
+    "gene.npy": {
+      "shape": [
+        978
+      ],
+      "dtype": "<U21"
+    },
+    "source_sha.npy": {
+      "shape": [],
+      "dtype": "<U64"
+    }
+  },
+  "@WORKSPACE@/4MAN/BETA_W_PROGRAMS_V1/features/K562_gwps_normalized_bulk_01.h5ad.subset.npz": {
+    "target.npy": {
+      "shape": [
+        123
+      ],
+      "dtype": "<U8"
+    },
+    "signature.npy": {
+      "shape": [
+        123,
+        978
+      ],
+      "dtype": "float64"
+    },
+    "gene.npy": {
+      "shape": [
+        978
+      ],
+      "dtype": "<U21"
+    },
+    "source_sha.npy": {
+      "shape": [],
+      "dtype": "<U64"
+    }
+  },
+  "@WORKSPACE@/4MAN/BETA_W_PROGRAMS_V1/features/PRIORS.npz": {
+    "drug.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "<U44"
+    },
+    "gene.npy": {
+      "shape": [
+        978
+      ],
+      "dtype": "<U21"
+    },
+    "symbol.npy": {
+      "shape": [
+        978
+      ],
+      "dtype": "<U10"
+    },
+    "progeny.npy": {
+      "shape": [
+        261,
+        978
+      ],
+      "dtype": "float64"
+    },
+    "progeny_available.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "bool"
+    },
+    "perturbseq.npy": {
+      "shape": [
+        261,
+        978
+      ],
+      "dtype": "float64"
+    },
+    "perturbseq_gene_mask.npy": {
+      "shape": [
+        261,
+        978
+      ],
+      "dtype": "bool"
+    },
+    "perturbseq_targets.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "int64"
+    },
+    "pathway.npy": {
+      "shape": [
+        14
+      ],
+      "dtype": "<U8"
+    },
+    "pathway_weight.npy": {
+      "shape": [
+        14,
+        978
+      ],
+      "dtype": "float64"
+    }
+  },
+  "@WORKSPACE@/4MAN/TAHOE_FEWSHOT_L1000_V1/features/L5_DRUG_MEANS.npz": {
+    "pert_id.npy": {
+      "shape": [
+        30510
+      ],
+      "dtype": "<U20"
+    },
+    "cell.npy": {
+      "shape": [
+        218
+      ],
+      "dtype": "<U10"
+    },
+    "mean.npy": {
+      "shape": [
+        30510,
+        978
+      ],
+      "dtype": "float32"
+    },
+    "presence.npy": {
+      "shape": [
+        30510,
+        218
+      ],
+      "dtype": "bool"
+    },
+    "gene.npy": {
+      "shape": [
+        978
+      ],
+      "dtype": "<U6"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/MECHANISM_FEATURES.npz": {
+    "drug.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "<U44"
+    },
+    "cell.npy": {
+      "shape": [
+        47
+      ],
+      "dtype": "<U9"
+    },
+    "ModelID.npy": {
+      "shape": [
+        47
+      ],
+      "dtype": "<U10"
+    },
+    "target.npy": {
+      "shape": [
+        261,
+        271
+      ],
+      "dtype": "float64"
+    },
+    "target_gene.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "<U8"
+    },
+    "moa.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "<U31"
+    },
+    "prism.npy": {
+      "shape": [
+        261,
+        578
+      ],
+      "dtype": "float64"
+    },
+    "prism_mask.npy": {
+      "shape": [
+        261,
+        578
+      ],
+      "dtype": "bool"
+    },
+    "prism_cell.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "<U21"
+    },
+    "same.npy": {
+      "shape": [
+        47,
+        261
+      ],
+      "dtype": "float64"
+    },
+    "same_mask.npy": {
+      "shape": [
+        47,
+        261
+      ],
+      "dtype": "bool"
+    },
+    "interaction.npy": {
+      "shape": [
+        47,
+        261,
+        5
+      ],
+      "dtype": "float64"
+    },
+    "interaction_mask.npy": {
+      "shape": [
+        47,
+        261,
+        5
+      ],
+      "dtype": "bool"
+    },
+    "interaction_names.npy": {
+      "shape": [
+        5
+      ],
+      "dtype": "<U10"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/CELL_BACKGROUND.npz": {
+    "cell.npy": {
+      "shape": [
+        47
+      ],
+      "dtype": "<U9"
+    },
+    "ModelID.npy": {
+      "shape": [
+        47
+      ],
+      "dtype": "<U10"
+    },
+    "dep.npy": {
+      "shape": [
+        47,
+        17916
+      ],
+      "dtype": "float64"
+    },
+    "dep_mask.npy": {
+      "shape": [
+        47,
+        17916
+      ],
+      "dtype": "bool"
+    },
+    "dep_gene.npy": {
+      "shape": [
+        17916
+      ],
+      "dtype": "<U15"
+    },
+    "expr.npy": {
+      "shape": [
+        47,
+        19193
+      ],
+      "dtype": "float64"
+    },
+    "expr_mask.npy": {
+      "shape": [
+        47,
+        19193
+      ],
+      "dtype": "bool"
+    },
+    "expr_gene.npy": {
+      "shape": [
+        19193
+      ],
+      "dtype": "<U15"
+    },
+    "mut.npy": {
+      "shape": [
+        47,
+        19109
+      ],
+      "dtype": "float64"
+    },
+    "mut_mask.npy": {
+      "shape": [
+        47,
+        19109
+      ],
+      "dtype": "bool"
+    },
+    "mut_gene.npy": {
+      "shape": [
+        19109
+      ],
+      "dtype": "<U12"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/X1_TARGET_f0_TRAIN.npz": {
+    "value.npy": {
+      "shape": [
+        7849
+      ],
+      "dtype": "float64"
+    },
+    "mask.npy": {
+      "shape": [
+        7849
+      ],
+      "dtype": "bool"
+    },
+    "condition_id.npy": {
+      "shape": [
+        7849
+      ],
+      "dtype": "<U40"
+    },
+    "drug.npy": {
+      "shape": [
+        7849
+      ],
+      "dtype": "<U44"
+    },
+    "cell.npy": {
+      "shape": [
+        7849
+      ],
+      "dtype": "<U9"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/X1_TARGET_f0_VALID.npz": {
+    "value.npy": {
+      "shape": [
+        2021
+      ],
+      "dtype": "float64"
+    },
+    "mask.npy": {
+      "shape": [
+        2021
+      ],
+      "dtype": "bool"
+    },
+    "condition_id.npy": {
+      "shape": [
+        2021
+      ],
+      "dtype": "<U40"
+    },
+    "drug.npy": {
+      "shape": [
+        2021
+      ],
+      "dtype": "<U34"
+    },
+    "cell.npy": {
+      "shape": [
+        2021
+      ],
+      "dtype": "<U9"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/X1_TARGET_f1_TRAIN.npz": {
+    "value.npy": {
+      "shape": [
+        7426
+      ],
+      "dtype": "float64"
+    },
+    "mask.npy": {
+      "shape": [
+        7426
+      ],
+      "dtype": "bool"
+    },
+    "condition_id.npy": {
+      "shape": [
+        7426
+      ],
+      "dtype": "<U40"
+    },
+    "drug.npy": {
+      "shape": [
+        7426
+      ],
+      "dtype": "<U44"
+    },
+    "cell.npy": {
+      "shape": [
+        7426
+      ],
+      "dtype": "<U9"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/X1_TARGET_f1_VALID.npz": {
+    "value.npy": {
+      "shape": [
+        2350
+      ],
+      "dtype": "float64"
+    },
+    "mask.npy": {
+      "shape": [
+        2350
+      ],
+      "dtype": "bool"
+    },
+    "condition_id.npy": {
+      "shape": [
+        2350
+      ],
+      "dtype": "<U40"
+    },
+    "drug.npy": {
+      "shape": [
+        2350
+      ],
+      "dtype": "<U30"
+    },
+    "cell.npy": {
+      "shape": [
+        2350
+      ],
+      "dtype": "<U9"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/X1_TARGET_f2_TRAIN.npz": {
+    "value.npy": {
+      "shape": [
+        7755
+      ],
+      "dtype": "float64"
+    },
+    "mask.npy": {
+      "shape": [
+        7755
+      ],
+      "dtype": "bool"
+    },
+    "condition_id.npy": {
+      "shape": [
+        7755
+      ],
+      "dtype": "<U40"
+    },
+    "drug.npy": {
+      "shape": [
+        7755
+      ],
+      "dtype": "<U39"
+    },
+    "cell.npy": {
+      "shape": [
+        7755
+      ],
+      "dtype": "<U9"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/X1_TARGET_f2_VALID.npz": {
+    "value.npy": {
+      "shape": [
+        1974
+      ],
+      "dtype": "float64"
+    },
+    "mask.npy": {
+      "shape": [
+        1974
+      ],
+      "dtype": "bool"
+    },
+    "condition_id.npy": {
+      "shape": [
+        1974
+      ],
+      "dtype": "<U40"
+    },
+    "drug.npy": {
+      "shape": [
+        1974
+      ],
+      "dtype": "<U38"
+    },
+    "cell.npy": {
+      "shape": [
+        1974
+      ],
+      "dtype": "<U9"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/X1_TARGET_f3_TRAIN.npz": {
+    "value.npy": {
+      "shape": [
+        7943
+      ],
+      "dtype": "float64"
+    },
+    "mask.npy": {
+      "shape": [
+        7943
+      ],
+      "dtype": "bool"
+    },
+    "condition_id.npy": {
+      "shape": [
+        7943
+      ],
+      "dtype": "<U40"
+    },
+    "drug.npy": {
+      "shape": [
+        7943
+      ],
+      "dtype": "<U44"
+    },
+    "cell.npy": {
+      "shape": [
+        7943
+      ],
+      "dtype": "<U9"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/X1_TARGET_f3_VALID.npz": {
+    "value.npy": {
+      "shape": [
+        1786
+      ],
+      "dtype": "float64"
+    },
+    "mask.npy": {
+      "shape": [
+        1786
+      ],
+      "dtype": "bool"
+    },
+    "condition_id.npy": {
+      "shape": [
+        1786
+      ],
+      "dtype": "<U40"
+    },
+    "drug.npy": {
+      "shape": [
+        1786
+      ],
+      "dtype": "<U38"
+    },
+    "cell.npy": {
+      "shape": [
+        1786
+      ],
+      "dtype": "<U9"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/X1_TARGET_f4_TRAIN.npz": {
+    "value.npy": {
+      "shape": [
+        7191
+      ],
+      "dtype": "float64"
+    },
+    "mask.npy": {
+      "shape": [
+        7191
+      ],
+      "dtype": "bool"
+    },
+    "condition_id.npy": {
+      "shape": [
+        7191
+      ],
+      "dtype": "<U40"
+    },
+    "drug.npy": {
+      "shape": [
+        7191
+      ],
+      "dtype": "<U44"
+    },
+    "cell.npy": {
+      "shape": [
+        7191
+      ],
+      "dtype": "<U9"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/X1_TARGET_f4_VALID.npz": {
+    "value.npy": {
+      "shape": [
+        2773
+      ],
+      "dtype": "float64"
+    },
+    "mask.npy": {
+      "shape": [
+        2773
+      ],
+      "dtype": "bool"
+    },
+    "condition_id.npy": {
+      "shape": [
+        2773
+      ],
+      "dtype": "<U40"
+    },
+    "drug.npy": {
+      "shape": [
+        2773
+      ],
+      "dtype": "<U38"
+    },
+    "cell.npy": {
+      "shape": [
+        2773
+      ],
+      "dtype": "<U9"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/CELL_BACKGROUND_ALL_GENES.npz": {
+    "cell.npy": {
+      "shape": [
+        47
+      ],
+      "dtype": "<U9"
+    },
+    "ModelID.npy": {
+      "shape": [
+        47
+      ],
+      "dtype": "<U10"
+    },
+    "dep.npy": {
+      "shape": [
+        47,
+        17916
+      ],
+      "dtype": "float64"
+    },
+    "dep_mask.npy": {
+      "shape": [
+        47,
+        17916
+      ],
+      "dtype": "bool"
+    },
+    "dep_gene.npy": {
+      "shape": [
+        17916
+      ],
+      "dtype": "<U15"
+    },
+    "expr.npy": {
+      "shape": [
+        47,
+        53969
+      ],
+      "dtype": "float64"
+    },
+    "expr_mask.npy": {
+      "shape": [
+        47,
+        53969
+      ],
+      "dtype": "bool"
+    },
+    "expr_gene.npy": {
+      "shape": [
+        53969
+      ],
+      "dtype": "<U25"
+    },
+    "mut.npy": {
+      "shape": [
+        47,
+        19109
+      ],
+      "dtype": "float64"
+    },
+    "mut_mask.npy": {
+      "shape": [
+        47,
+        19109
+      ],
+      "dtype": "bool"
+    },
+    "mut_gene.npy": {
+      "shape": [
+        19109
+      ],
+      "dtype": "<U12"
+    },
+    "expr_gene_id.npy": {
+      "shape": [
+        53969
+      ],
+      "dtype": "<U43"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/MECHANISM_FEATURES_FINAL.npz": {
+    "drug.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "<U44"
+    },
+    "cell.npy": {
+      "shape": [
+        47
+      ],
+      "dtype": "<U9"
+    },
+    "ModelID.npy": {
+      "shape": [
+        47
+      ],
+      "dtype": "<U10"
+    },
+    "target.npy": {
+      "shape": [
+        261,
+        271
+      ],
+      "dtype": "float64"
+    },
+    "target_gene.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "<U8"
+    },
+    "moa.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "<U31"
+    },
+    "prism.npy": {
+      "shape": [
+        261,
+        578
+      ],
+      "dtype": "float64"
+    },
+    "prism_mask.npy": {
+      "shape": [
+        261,
+        578
+      ],
+      "dtype": "bool"
+    },
+    "prism_cell.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "<U21"
+    },
+    "same.npy": {
+      "shape": [
+        47,
+        261
+      ],
+      "dtype": "float64"
+    },
+    "same_mask.npy": {
+      "shape": [
+        47,
+        261
+      ],
+      "dtype": "bool"
+    },
+    "interaction.npy": {
+      "shape": [
+        47,
+        261,
+        5
+      ],
+      "dtype": "float64"
+    },
+    "interaction_mask.npy": {
+      "shape": [
+        47,
+        261,
+        5
+      ],
+      "dtype": "bool"
+    },
+    "interaction_names.npy": {
+      "shape": [
+        5
+      ],
+      "dtype": "<U10"
+    },
+    "target_available.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "bool"
+    },
+    "moa_available.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "bool"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/OUTER_TRAIN_PCA_f0.npz": {
+    "drug.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "<U44"
+    },
+    "train_mask.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "bool"
+    },
+    "PRISM16_mean.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_scale.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_center.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_basis.npy": {
+      "shape": [
+        16,
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_scores_all_features_only.npy": {
+      "shape": [
+        261,
+        16
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_mean.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_scale.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_center.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_basis.npy": {
+      "shape": [
+        16,
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_scores_all_features_only.npy": {
+      "shape": [
+        261,
+        16
+      ],
+      "dtype": "float64"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/OUTER_TRAIN_PCA_f1.npz": {
+    "drug.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "<U44"
+    },
+    "train_mask.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "bool"
+    },
+    "PRISM16_mean.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_scale.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_center.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_basis.npy": {
+      "shape": [
+        16,
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_scores_all_features_only.npy": {
+      "shape": [
+        261,
+        16
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_mean.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_scale.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_center.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_basis.npy": {
+      "shape": [
+        16,
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_scores_all_features_only.npy": {
+      "shape": [
+        261,
+        16
+      ],
+      "dtype": "float64"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/OUTER_TRAIN_PCA_f2.npz": {
+    "drug.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "<U44"
+    },
+    "train_mask.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "bool"
+    },
+    "PRISM16_mean.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_scale.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_center.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_basis.npy": {
+      "shape": [
+        16,
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_scores_all_features_only.npy": {
+      "shape": [
+        261,
+        16
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_mean.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_scale.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_center.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_basis.npy": {
+      "shape": [
+        16,
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_scores_all_features_only.npy": {
+      "shape": [
+        261,
+        16
+      ],
+      "dtype": "float64"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/OUTER_TRAIN_PCA_f3.npz": {
+    "drug.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "<U44"
+    },
+    "train_mask.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "bool"
+    },
+    "PRISM16_mean.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_scale.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_center.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_basis.npy": {
+      "shape": [
+        16,
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_scores_all_features_only.npy": {
+      "shape": [
+        261,
+        16
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_mean.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_scale.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_center.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_basis.npy": {
+      "shape": [
+        16,
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_scores_all_features_only.npy": {
+      "shape": [
+        261,
+        16
+      ],
+      "dtype": "float64"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_W_MECH_V1/features/OUTER_TRAIN_PCA_f4.npz": {
+    "drug.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "<U44"
+    },
+    "train_mask.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "bool"
+    },
+    "PRISM16_mean.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_scale.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_center.npy": {
+      "shape": [
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_basis.npy": {
+      "shape": [
+        16,
+        578
+      ],
+      "dtype": "float64"
+    },
+    "PRISM16_scores_all_features_only.npy": {
+      "shape": [
+        261,
+        16
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_mean.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_scale.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_center.npy": {
+      "shape": [
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_basis.npy": {
+      "shape": [
+        16,
+        271
+      ],
+      "dtype": "float64"
+    },
+    "TARGET16_scores_all_features_only.npy": {
+      "shape": [
+        261,
+        16
+      ],
+      "dtype": "float64"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_BRIDGE_V1/features/L1000_BRIDGE.npz": {
+    "drug.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "<U44"
+    },
+    "L1000_cell.npy": {
+      "shape": [
+        212
+      ],
+      "dtype": "<U10"
+    },
+    "cell.npy": {
+      "shape": [
+        47
+      ],
+      "dtype": "<U9"
+    },
+    "signature.npy": {
+      "shape": [
+        261,
+        212,
+        978
+      ],
+      "dtype": "float32"
+    },
+    "mask.npy": {
+      "shape": [
+        261,
+        212
+      ],
+      "dtype": "bool"
+    },
+    "overlap.npy": {
+      "shape": [
+        47
+      ],
+      "dtype": "int64"
+    },
+    "gene.npy": {
+      "shape": [
+        978
+      ],
+      "dtype": "<U6"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_BRIDGE_V1/features/KINASE_BRIDGE.npz": {
+    "drug.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "<U44"
+    },
+    "cell.npy": {
+      "shape": [
+        47
+      ],
+      "dtype": "<U9"
+    },
+    "gene.npy": {
+      "shape": [
+        309
+      ],
+      "dtype": "<U8"
+    },
+    "occupancy.npy": {
+      "shape": [
+        261,
+        309
+      ],
+      "dtype": "float64"
+    },
+    "mask.npy": {
+      "shape": [
+        261,
+        309
+      ],
+      "dtype": "bool"
+    },
+    "condition.npy": {
+      "shape": [
+        47,
+        261,
+        2
+      ],
+      "dtype": "float64"
+    },
+    "condition_mask.npy": {
+      "shape": [
+        47,
+        261,
+        2
+      ],
+      "dtype": "bool"
+    }
+  },
+  "@WORKSPACE@/4MAN/CIGS_BETAW_PILOT_V1/features/MDA_MB_231_SUBSET.npz": {
+    "counts.npy": {
+      "shape": [
+        1152,
+        978
+      ],
+      "dtype": "float32"
+    },
+    "total_counts.npy": {
+      "shape": [
+        1152
+      ],
+      "dtype": "float64"
+    },
+    "source_gene_mask.npy": {
+      "shape": [
+        978
+      ],
+      "dtype": "bool"
+    },
+    "unique_id.npy": {
+      "shape": [
+        1152
+      ],
+      "dtype": "<U20"
+    },
+    "plate.npy": {
+      "shape": [
+        1152
+      ],
+      "dtype": "<U16"
+    },
+    "compound.npy": {
+      "shape": [
+        1152
+      ],
+      "dtype": "<U10"
+    },
+    "is_control.npy": {
+      "shape": [
+        1152
+      ],
+      "dtype": "bool"
+    },
+    "gene.npy": {
+      "shape": [
+        978
+      ],
+      "dtype": "<U6"
+    },
+    "cell.npy": {
+      "shape": [],
+      "dtype": "<U10"
+    }
+  },
+  "@WORKSPACE@/4MAN/CIGS_BETAW_PILOT_V1/features/HEK293T_SUBSET.npz": {
+    "counts.npy": {
+      "shape": [
+        1152,
+        978
+      ],
+      "dtype": "float32"
+    },
+    "total_counts.npy": {
+      "shape": [
+        1152
+      ],
+      "dtype": "float64"
+    },
+    "source_gene_mask.npy": {
+      "shape": [
+        978
+      ],
+      "dtype": "bool"
+    },
+    "unique_id.npy": {
+      "shape": [
+        1152
+      ],
+      "dtype": "<U21"
+    },
+    "plate.npy": {
+      "shape": [
+        1152
+      ],
+      "dtype": "<U17"
+    },
+    "compound.npy": {
+      "shape": [
+        1152
+      ],
+      "dtype": "<U10"
+    },
+    "is_control.npy": {
+      "shape": [
+        1152
+      ],
+      "dtype": "bool"
+    },
+    "gene.npy": {
+      "shape": [
+        978
+      ],
+      "dtype": "<U6"
+    },
+    "cell.npy": {
+      "shape": [],
+      "dtype": "<U7"
+    }
+  },
+  "@WORKSPACE@/4MAN/CIGS_BETAW_PILOT_V1/features/CIGS_SIGNATURES.npz": {
+    "drug.npy": {
+      "shape": [
+        120
+      ],
+      "dtype": "<U38"
+    },
+    "cell.npy": {
+      "shape": [
+        2
+      ],
+      "dtype": "<U10"
+    },
+    "signature.npy": {
+      "shape": [
+        120,
+        2,
+        978
+      ],
+      "dtype": "float32"
+    },
+    "available.npy": {
+      "shape": [
+        120,
+        2
+      ],
+      "dtype": "bool"
+    },
+    "gene.npy": {
+      "shape": [
+        978
+      ],
+      "dtype": "<U6"
+    },
+    "gene_mask.npy": {
+      "shape": [
+        2,
+        978
+      ],
+      "dtype": "bool"
+    }
+  },
+  "@WORKSPACE@/4MAN/DRUGSEQ_BETAW_PILOT_V1/features/DRUGSEQ_SUBSET.npz": {
+    "counts.npy": {
+      "shape": [
+        2736,
+        978
+      ],
+      "dtype": "float32"
+    },
+    "total_counts.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "int64"
+    },
+    "gene_mask.npy": {
+      "shape": [
+        978
+      ],
+      "dtype": "bool"
+    },
+    "gene.npy": {
+      "shape": [
+        978
+      ],
+      "dtype": "<U6"
+    },
+    "analysis_id.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U2"
+    },
+    "investigation_id.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U4"
+    },
+    "investigation_name.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U21"
+    },
+    "batch_id.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U2"
+    },
+    "plate_replicate.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U1"
+    },
+    "experiment_id.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U4"
+    },
+    "plate_name.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U23"
+    },
+    "plate_barcode.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U10"
+    },
+    "plate_index.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U8"
+    },
+    "well_id.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U3"
+    },
+    "well_index.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U10"
+    },
+    "col.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U2"
+    },
+    "row.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U2"
+    },
+    "well_type.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U2"
+    },
+    "cell_line_name.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U6"
+    },
+    "cell_line_ncn.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U9"
+    },
+    "concentration.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U4"
+    },
+    "unit.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U2"
+    },
+    "hours_post_treatment.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U2"
+    },
+    "biosample_id.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U7"
+    },
+    "external_biosample_id.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U10"
+    },
+    "cmpd_sample_id.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U10"
+    },
+    "plate_well.npy": {
+      "shape": [
+        2736
+      ],
+      "dtype": "<U21"
+    }
+  },
+  "@WORKSPACE@/4MAN/DRUGSEQ_BETAW_PILOT_V1/features/DRUGSEQ_SIGNATURES.npz": {
+    "drug.npy": {
+      "shape": [
+        54
+      ],
+      "dtype": "<U34"
+    },
+    "gene.npy": {
+      "shape": [
+        978
+      ],
+      "dtype": "<U6"
+    },
+    "gene_mask.npy": {
+      "shape": [
+        4,
+        978
+      ],
+      "dtype": "bool"
+    },
+    "signature.npy": {
+      "shape": [
+        54,
+        4,
+        978
+      ],
+      "dtype": "float32"
+    },
+    "available.npy": {
+      "shape": [
+        54,
+        4
+      ],
+      "dtype": "bool"
+    },
+    "dose.npy": {
+      "shape": [
+        4
+      ],
+      "dtype": "<U4"
+    }
+  },
+  "@WORKSPACE@/4MAN/GAMMA_PRISM_INC_V1/features/EXTERNAL_SENSITIVITY.npz": {
+    "drug.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "<U44"
+    },
+    "cell.npy": {
+      "shape": [
+        47
+      ],
+      "dtype": "<U9"
+    },
+    "ModelID.npy": {
+      "shape": [
+        47
+      ],
+      "dtype": "<U10"
+    },
+    "GDSC1.npy": {
+      "shape": [
+        47,
+        261
+      ],
+      "dtype": "float64"
+    },
+    "GDSC1_mask.npy": {
+      "shape": [
+        47,
+        261
+      ],
+      "dtype": "bool"
+    },
+    "GDSC1_mean.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "float64"
+    },
+    "GDSC1_mean_mask.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "bool"
+    },
+    "GDSC2.npy": {
+      "shape": [
+        47,
+        261
+      ],
+      "dtype": "float64"
+    },
+    "GDSC2_mask.npy": {
+      "shape": [
+        47,
+        261
+      ],
+      "dtype": "bool"
+    },
+    "GDSC2_mean.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "float64"
+    },
+    "GDSC2_mean_mask.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "bool"
+    },
+    "CTRP.npy": {
+      "shape": [
+        47,
+        261
+      ],
+      "dtype": "float64"
+    },
+    "CTRP_mask.npy": {
+      "shape": [
+        47,
+        261
+      ],
+      "dtype": "bool"
+    },
+    "CTRP_mean.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "float64"
+    },
+    "CTRP_mean_mask.npy": {
+      "shape": [
+        261
+      ],
+      "dtype": "bool"
+    }
+  }
+}

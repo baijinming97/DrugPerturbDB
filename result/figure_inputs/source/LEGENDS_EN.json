@@ -1,0 +1,38 @@
+{
+  "fig1a_expression": {
+    "label": "Figure 1. Repeatability of treated expression and drug responses",
+    "caption": "A, correlations between independent replicates of normalized drug-treated expression. B, correlations between independent drug responses, defined as treated expression minus matched control expression. Each source is evaluated on its native measured genes and 869 common genes, using identical replicate pairs across gene sets within each endpoint."
+  },
+  "fig1b_response": {
+    "label": "Figure 1. Repeatability of treated expression and drug responses",
+    "caption": "n denotes contributing drug IDs. Points show mean PCC and horizontal lines show 95% bootstrap intervals; open points indicate fewer than five drugs. MIX-seq has one qualifying repeat drug and no drug-level interval."
+  },
+  "fig2_ab_similarity": {
+    "label": "Figure 2. Cross-source response concordance and drug discrimination",
+    "caption": "A, concordance of same-drug responses averaged across cell lines within each source. B, same-drug concordance in matched cell lines. Eligible comparisons use 24 h treatment, doses within twofold, and 869 common genes. Tiles show mean PCC and the number of matched drugs; gray indicates no eligible match and hatching indicates fewer than five drugs."
+  },
+  "fig2_cd_discrimination": {
+    "label": "Figure 2. Cross-source response concordance and drug discrimination",
+    "caption": "C, same-drug and background-matched wrong-drug PCCs, and their paired difference, for Tahoe queries against external sources. D, retrieval AUC: the probability that the same drug scores above an alternative, with chance at 0.5. C and D use the cell-averaged setting of A and candidate pools containing at least two drugs. Horizontal lines show 95% bootstrap intervals; open points indicate fewer than five query drugs."
+  },
+  "fig3a_full": {
+    "label": "Figure 3. Composition of drug responses within each dataset",
+    "caption": "All eligible observations within each source are decomposed on native measured genes and 869 common genes. Colors indicate the grand response, cell effect, drug main effect, and interaction residual; numbers give their percentage contributions to the observed response sum of squares. Hatched DRUG-seq variation represents between-drug differences in U2OS alone, which cannot be separated into a cross-cell drug main effect and interaction. Interaction residuals include measurement error and other unexplained variation."
+  },
+  "fig4_focus": {
+    "label": "Figure 4. Control-expression baseline and interaction information in drug main effects",
+    "caption": "A, prediction from control expression alone and response decomposition. The model predicts the complete drug response; predictions and measurements are decomposed identically. B, component PCC and MSE. C, component contributions to complete prediction MSE. D, measured drug main effects (β) are passed through the training-fitted G5 decoder to infer an interaction correction not captured by the baseline. Only the inferred interaction is added; measured β itself is not added. Right, overall interaction and complete-response predictions before and after correction. Gray denotes the baseline and purple denotes the corrected prediction."
+  },
+  "FIG4E_CROSS_PLATE_LINK": {
+    "label": "Figure 4. Control-expression baseline and interaction information in drug main effects",
+    "caption": "E, measured source-plate β predicts target-plate interaction. Arrows indicate source-to-target plate direction, shading marks cross-plate predictions, and three training-input permutation controls are shown. B-D use 153 drugs and E uses 47 drugs shared by both plates; both settings use 47 cell lines, 978 genes, and 5 μM. Horizontal lines show 95% bootstrap intervals. D and E are measured-input diagnostics."
+  },
+  "figS1_robustness": {
+    "label": "Figure S1. Effects of processing and matched support on measurement comparisons",
+    "caption": "A, response repeatability after log2(CPM + 1) or log2(CPM + 100), using identical replicate pairs and 869 common genes. Gray lines connect estimates from the same source. B, within-source repeatability and cross-source concordance on shared conditions with independent repeats in both sources, for all six eligible source pairs. First and second source follow row-label order; all three comparisons use identical matched conditions and genes. Horizontal lines show 95% bootstrap intervals; open points indicate fewer than five drugs. Single-drug comparisons have no drug-level interval."
+  },
+  "figS2_prediction_limits": {
+    "label": "Figure S2. Exploratory prediction of drug-specific main effects",
+    "caption": "Ten configurations predict the drug main-effect component not captured by the baseline. Upper, chemical-group holdout; lower, chemical-group and known mechanism-of-action holdout. Left, weighted mean drug-wise correlation across 978 genes. Right, paired correlation difference relative to three training-label permutation controls. Horizontal lines show 95% bootstrap intervals. K denotes the number of response programs; Similarity, similarity-weighted prediction; CCA, canonical correlation analysis; and MoA, mechanism of action. Annotated targets uses target-linked L1000 genetic-perturbation signature priors. All configurations are exploratory holdout evaluations within the training data."
+  }
+}

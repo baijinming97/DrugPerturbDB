@@ -1,0 +1,90 @@
+{
+  "description": "Same-drug concordance and retrieval using locked identities and conditions",
+  "stages": [
+    {
+      "id": "support",
+      "calls": [
+        {
+          "file": "code/02_cross_dataset/prepare_support.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/IDENTITY_MAP_FINAL.json",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/LOCKED_SELECTIONS.json",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/data/Tahoe_CONDITION_META.parquet",
+        "FULL_DATASET_FIGURES_V1/data/L1000_L3_CONDITION_META.parquet",
+        "FULL_DATASET_FIGURES_V1/data/DRUGseq_CONDITION_META.parquet",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_CONDITION_META.parquet",
+        "FULL_DATASET_FIGURES_V1/data/sciPlex3_CONDITION_META.parquet",
+        "FULL_DATASET_FIGURES_V1/data/MIXseq_CONDITION_META.parquet"
+      ],
+      "outputs": [
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/results/IDENTITY_COVERAGE_FINAL.csv",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/results/PAIR_AVAILABILITY_ALL_TIMES.csv",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/results/PAIR_EXCLUSION_FLOW.csv"
+      ]
+    },
+    {
+      "id": "concordance",
+      "calls": [
+        {
+          "file": "code/02_cross_dataset/prepare_common.py",
+          "args": []
+        },
+        {
+          "file": "code/02_cross_dataset/analyze_full.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/data/Tahoe_COMMON_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/L1000_L3_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/DRUGseq_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/sciPlex3_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/MIXseq_CONDITIONS.h5",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/PROTOCOL.json",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/IDENTITY_MAP_FINAL.json",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/LOCKED_SELECTIONS.json"
+      ],
+      "outputs": [
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/results/RESULTS.csv",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/results/RETRIEVAL*.csv"
+      ]
+    },
+    {
+      "id": "matched_repeats",
+      "calls": [
+        {
+          "file": "code/02_cross_dataset/s1b_full.py",
+          "args": [
+            "--out",
+            "{workspace}/4MAN/TAHOE_DESCRIPTIVE_FULL_V2/matched_repeats",
+            "--stage",
+            "all"
+          ]
+        }
+      ],
+      "requires": [
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/data/Tahoe_COMMON_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/L1000_L3_COMMON_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/DRUGseq_COMMON_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_COMMON_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/sciPlex3_COMMON_CONDITIONS.h5",
+        "FULL_DATASET_FIGURES_V1/data/MIXseq_COMMON_CONDITIONS.h5",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/PROTOCOL.json",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/IDENTITY_MAP_FINAL.json",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/LOCKED_SELECTIONS.json",
+        "FULL_DATASET_FIGURES_V1/data/L1000_L3.h5",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/data/Tahoe_REPLICATE_978.h5",
+        "FULL_DATASET_FIGURES_V1/data/DRUGseq_COUNTS.h5",
+        "FULL_DATASET_FIGURES_V1/data/sciPlex3_COUNTS.h5"
+      ],
+      "outputs": [
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/matched_repeats/exp1/MATCHED_RELIABILITY.csv",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/matched_repeats/exp1/PAIRED_GAPS.csv"
+      ]
+    }
+  ]
+}

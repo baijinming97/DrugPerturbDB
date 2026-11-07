@@ -1,0 +1,135 @@
+[
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/COMPONENT_REPLAY_CHECKS.csv",
+    "bytes": 985,
+    "sha256": "e230d5bf4d9dbf30baabba1b2504f4667def9658548596b0e2b7460f9351a488"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/CONDITION_RESULTS.csv.gz",
+    "bytes": 894481,
+    "sha256": "59826cb207f1280ca02ef9f3450d15676a273558817128f370fb7ae5d9d5774d"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/IDENTITY_COVERAGE_FINAL.csv",
+    "bytes": 423,
+    "sha256": "0590db1adebd1ebf4e0790e80abd8804821bad4f592b23d3b9fc3628e3cbf585"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/INTERSECTION_COMPOSITION.csv",
+    "bytes": 6363,
+    "sha256": "6efa0ee8dcc8fe2f9ff11861e53fff69f97fadb416d64e84a7708e4eb040e6d0"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/INTERSECTION_CONSISTENCY.csv",
+    "bytes": 4126,
+    "sha256": "d13eb834ba7b56acf2735d922fb85cf696cdaddc3f91b1f1c0ff9a4f93ef5abd"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/INTERSECTION_SKIPPED.csv",
+    "bytes": 73,
+    "sha256": "9f3452f58baa27b477b684a5595c06e7cd6a13a0e394024bc5f0e3e454d82925"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/INTERSECTION_SUPPORT.csv",
+    "bytes": 911,
+    "sha256": "9386bb4af589e92b87132b1d969d20b5ba7b025dc5b386a0f26edddb31933eb1"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/PAIR_AVAILABILITY_ALL_TIMES.csv",
+    "bytes": 655,
+    "sha256": "ce9da578939525b421a9bb919bd75e279d409ff66133efaf58d08feb167d4eb8"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/PAIR_EXCLUSION_FLOW.csv",
+    "bytes": 17990,
+    "sha256": "9c2595573bc38728f8f27a234862970d64481c1c477d52824fb289a661a30433"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/PER_DRUG_RESULTS.csv.gz",
+    "bytes": 449535,
+    "sha256": "ff3671b9b31b43afee8b03106601ad197063f138aa63bd9b18fad5eea36baa59"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/REPLAY_EXAMPLES.json",
+    "bytes": 138373,
+    "sha256": "c216b07622daff29f7eda025c7d48b52b1c21f826ecf69ded0a1db4265aea2aa"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/REPLAY_EXAMPLES.npz",
+    "bytes": 341547,
+    "sha256": "fbec3dd4de670559d5183f757e6ba08cdb727bd18d0324ee3e118f0227fe2582"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/RESULTS.csv",
+    "bytes": 13204,
+    "sha256": "f8ca7d3e2654536abec0104790f90d162b3acf6b9d4254dbed98c22a39016c4c"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/RETRIEVAL_BLOCKS.csv",
+    "bytes": 26324,
+    "sha256": "7cbfb02b42b162d0019f756058e781eb4a8dc7dae3b9ce642b963baff1ed9388"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/RETRIEVAL_CONDITIONS.csv.gz",
+    "bytes": 1501484,
+    "sha256": "85cba29cc0758135c76c7f1cf4b25e9490bb0ea874f8108392872fe3b6c09709"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/RETRIEVAL_PER_DRUG.csv.gz",
+    "bytes": 899461,
+    "sha256": "1db44ac93846272775f80a035e27e08e9458e76528ec8469148763e03181a220"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/RETRIEVAL_RESULTS.csv",
+    "bytes": 23837,
+    "sha256": "8d659f58a25af1a2f27be7c4fb84aecb286ff6ebd00c4d319cef84d9558f5b52"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "evidence_inputs/TAHOE_DESCRIPTIVE_FULL_V2/pairs/SOURCE_READ_COUNTS.csv",
+    "bytes": 199,
+    "sha256": "1643683102c0c9070e42cd9dcb0c139703f9317f3b61c8c9bb8f40233797538d"
+  },
+  {
+    "experiment": "02_cross_dataset",
+    "archive": "result/source_tables/Data_S1_measurements.zip",
+    "member": "tables/S2_cross_components.csv",
+    "bytes": 4126,
+    "sha256": "d13eb834ba7b56acf2735d922fb85cf696cdaddc3f91b1f1c0ff9a4f93ef5abd"
+  }
+]

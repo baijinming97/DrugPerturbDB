@@ -1,0 +1,1975 @@
+drug_id,cell_id,component
+18β-Glycyrrhetinic acid,CVCL_0023,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0023,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0023,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0023,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0023,SPLIT_9b5b581313891daf
+Artemether,CVCL_0023,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0023,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0023,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0023,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0023,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0023,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0023,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0023,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0023,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0023,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0023,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0023,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0023,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0023,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0023,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0023,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0023,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0023,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0023,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0023,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0023,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0023,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0023,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0023,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0023,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0023,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0023,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0023,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0023,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0023,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0023,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0023,SPLIT_4221722b5c444188
+Tranilast,CVCL_0023,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0023,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0023,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0023,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0023,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0028,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0028,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0028,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0028,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0028,SPLIT_9b5b581313891daf
+Artemether,CVCL_0028,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0028,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0028,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0028,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0028,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0028,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0028,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0028,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0028,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0028,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0028,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0028,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0028,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0028,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0028,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0028,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0028,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0028,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0028,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0028,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0028,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0028,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0028,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0028,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0028,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0028,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0028,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0028,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0028,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0028,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0028,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0028,SPLIT_4221722b5c444188
+Tranilast,CVCL_0028,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0028,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0028,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0028,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0028,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0069,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0069,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0069,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0069,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0069,SPLIT_9b5b581313891daf
+Artemether,CVCL_0069,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0069,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0069,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0069,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0069,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0069,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0069,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0069,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0069,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0069,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0069,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0069,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0069,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0069,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0069,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0069,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0069,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0069,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0069,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0069,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0069,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0069,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0069,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0069,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0069,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0069,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0069,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0069,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0069,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0069,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0069,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0069,SPLIT_4221722b5c444188
+Tranilast,CVCL_0069,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0069,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0069,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0069,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0069,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0099,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0099,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0099,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0099,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0099,SPLIT_9b5b581313891daf
+Artemether,CVCL_0099,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0099,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0099,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0099,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0099,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0099,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0099,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0099,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0099,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0099,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0099,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0099,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0099,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0099,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0099,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0099,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0099,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0099,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0099,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0099,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0099,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0099,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0099,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0099,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0099,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0099,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0099,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0099,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0099,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0099,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0099,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0099,SPLIT_4221722b5c444188
+Tranilast,CVCL_0099,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0099,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0099,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0099,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0099,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0131,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0131,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0131,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0131,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0131,SPLIT_9b5b581313891daf
+Artemether,CVCL_0131,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0131,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0131,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0131,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0131,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0131,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0131,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0131,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0131,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0131,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0131,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0131,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0131,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0131,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0131,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0131,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0131,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0131,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0131,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0131,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0131,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0131,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0131,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0131,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0131,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0131,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0131,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0131,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0131,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0131,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0131,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0131,SPLIT_4221722b5c444188
+Tranilast,CVCL_0131,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0131,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0131,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0131,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0131,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0152,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0152,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0152,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0152,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0152,SPLIT_9b5b581313891daf
+Artemether,CVCL_0152,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0152,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0152,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0152,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0152,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0152,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0152,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0152,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0152,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0152,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0152,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0152,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0152,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0152,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0152,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0152,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0152,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0152,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0152,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0152,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0152,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0152,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0152,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0152,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0152,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0152,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0152,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0152,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0152,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0152,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0152,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0152,SPLIT_4221722b5c444188
+Tranilast,CVCL_0152,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0152,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0152,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0152,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0152,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0179,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0179,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0179,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0179,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0179,SPLIT_9b5b581313891daf
+Artemether,CVCL_0179,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0179,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0179,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0179,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0179,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0179,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0179,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0179,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0179,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0179,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0179,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0179,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0179,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0179,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0179,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0179,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0179,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0179,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0179,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0179,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0179,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0179,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0179,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0179,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0179,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0179,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0179,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0179,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0179,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0179,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0179,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0179,SPLIT_4221722b5c444188
+Tranilast,CVCL_0179,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0179,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0179,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0179,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0179,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0218,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0218,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0218,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0218,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0218,SPLIT_9b5b581313891daf
+Artemether,CVCL_0218,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0218,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0218,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0218,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0218,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0218,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0218,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0218,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0218,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0218,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0218,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0218,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0218,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0218,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0218,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0218,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0218,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0218,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0218,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0218,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0218,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0218,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0218,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0218,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0218,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0218,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0218,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0218,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0218,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0218,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0218,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0218,SPLIT_4221722b5c444188
+Tranilast,CVCL_0218,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0218,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0218,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0218,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0218,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0292,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0292,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0292,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0292,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0292,SPLIT_9b5b581313891daf
+Artemether,CVCL_0292,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0292,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0292,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0292,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0292,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0292,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0292,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0292,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0292,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0292,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0292,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0292,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0292,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0292,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0292,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0292,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0292,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0292,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0292,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0292,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0292,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0292,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0292,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0292,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0292,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0292,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0292,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0292,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0292,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0292,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0292,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0292,SPLIT_4221722b5c444188
+Tranilast,CVCL_0292,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0292,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0292,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0292,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0292,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0293,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0293,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0293,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0293,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0293,SPLIT_9b5b581313891daf
+Artemether,CVCL_0293,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0293,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0293,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0293,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0293,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0293,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0293,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0293,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0293,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0293,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0293,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0293,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0293,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0293,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0293,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0293,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0293,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0293,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0293,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0293,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0293,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0293,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0293,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0293,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0293,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0293,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0293,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0293,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0293,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0293,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0293,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0293,SPLIT_4221722b5c444188
+Tranilast,CVCL_0293,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0293,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0293,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0293,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0293,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0320,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0320,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0320,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0320,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0320,SPLIT_9b5b581313891daf
+Artemether,CVCL_0320,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0320,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0320,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0320,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0320,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0320,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0320,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0320,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0320,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0320,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0320,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0320,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0320,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0320,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0320,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0320,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0320,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0320,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0320,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0320,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0320,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0320,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0320,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0320,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0320,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0320,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0320,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0320,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0320,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0320,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0320,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0320,SPLIT_4221722b5c444188
+Tranilast,CVCL_0320,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0320,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0320,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0320,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0320,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0332,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0332,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0332,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0332,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0332,SPLIT_9b5b581313891daf
+Artemether,CVCL_0332,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0332,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0332,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0332,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0332,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0332,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0332,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0332,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0332,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0332,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0332,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0332,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0332,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0332,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0332,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0332,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0332,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0332,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0332,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0332,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0332,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0332,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0332,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0332,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0332,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0332,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0332,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0332,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0332,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0332,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0332,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0332,SPLIT_4221722b5c444188
+Tranilast,CVCL_0332,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0332,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0332,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0332,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0332,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0334,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0334,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0334,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0334,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0334,SPLIT_9b5b581313891daf
+Artemether,CVCL_0334,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0334,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0334,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0334,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0334,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0334,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0334,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0334,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0334,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0334,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0334,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0334,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0334,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0334,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0334,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0334,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0334,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0334,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0334,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0334,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0334,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0334,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0334,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0334,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0334,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0334,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0334,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0334,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0334,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0334,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0334,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0334,SPLIT_4221722b5c444188
+Tranilast,CVCL_0334,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0334,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0334,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0334,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0334,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0359,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0359,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0359,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0359,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0359,SPLIT_9b5b581313891daf
+Artemether,CVCL_0359,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0359,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0359,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0359,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0359,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0359,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0359,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0359,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0359,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0359,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0359,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0359,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0359,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0359,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0359,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0359,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0359,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0359,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0359,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0359,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0359,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0359,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0359,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0359,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0359,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0359,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0359,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0359,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0359,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0359,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0359,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0359,SPLIT_4221722b5c444188
+Tranilast,CVCL_0359,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0359,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0359,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0359,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0359,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0366,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0366,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0366,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0366,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0366,SPLIT_9b5b581313891daf
+Artemether,CVCL_0366,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0366,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0366,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0366,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0366,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0366,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0366,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0366,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0366,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0366,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0366,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0366,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0366,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0366,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0366,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0366,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0366,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0366,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0366,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0366,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0366,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0366,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0366,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0366,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0366,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0366,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0366,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0366,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0366,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0366,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0366,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0366,SPLIT_4221722b5c444188
+Tranilast,CVCL_0366,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0366,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0366,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0366,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0366,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0371,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0371,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0371,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0371,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0371,SPLIT_9b5b581313891daf
+Artemether,CVCL_0371,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0371,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0371,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0371,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0371,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0371,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0371,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0371,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0371,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0371,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0371,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0371,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0371,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0371,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0371,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0371,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0371,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0371,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0371,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0371,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0371,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0371,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0371,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0371,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0371,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0371,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0371,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0371,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0371,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0371,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0371,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0371,SPLIT_4221722b5c444188
+Tranilast,CVCL_0371,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0371,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0371,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0371,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0371,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0397,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0397,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0397,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0397,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0397,SPLIT_9b5b581313891daf
+Artemether,CVCL_0397,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0397,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0397,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0397,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0397,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0397,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0397,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0397,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0397,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0397,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0397,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0397,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0397,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0397,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0397,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0397,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0397,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0397,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0397,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0397,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0397,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0397,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0397,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0397,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0397,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0397,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0397,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0397,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0397,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0397,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0397,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0397,SPLIT_4221722b5c444188
+Tranilast,CVCL_0397,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0397,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0397,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0397,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0397,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0399,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0399,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0399,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0399,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0399,SPLIT_9b5b581313891daf
+Artemether,CVCL_0399,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0399,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0399,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0399,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0399,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0399,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0399,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0399,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0399,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0399,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0399,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0399,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0399,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0399,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0399,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0399,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0399,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0399,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0399,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0399,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0399,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0399,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0399,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0399,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0399,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0399,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0399,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0399,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0399,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0399,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0399,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0399,SPLIT_4221722b5c444188
+Tranilast,CVCL_0399,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0399,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0399,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0399,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0399,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0428,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0428,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0428,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0428,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0428,SPLIT_9b5b581313891daf
+Artemether,CVCL_0428,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0428,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0428,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0428,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0428,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0428,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0428,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0428,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0428,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0428,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0428,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0428,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0428,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0428,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0428,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0428,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0428,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0428,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0428,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0428,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0428,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0428,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0428,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0428,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0428,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0428,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0428,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0428,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0428,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0428,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0428,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0428,SPLIT_4221722b5c444188
+Tranilast,CVCL_0428,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0428,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0428,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0428,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0428,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0459,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0459,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0459,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0459,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0459,SPLIT_9b5b581313891daf
+Artemether,CVCL_0459,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0459,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0459,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0459,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0459,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0459,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0459,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0459,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0459,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0459,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0459,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0459,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0459,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0459,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0459,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0459,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0459,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0459,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0459,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0459,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0459,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0459,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0459,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0459,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0459,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0459,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0459,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0459,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0459,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0459,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0459,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0459,SPLIT_4221722b5c444188
+Tranilast,CVCL_0459,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0459,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0459,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0459,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0459,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0480,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0480,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0480,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0480,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0480,SPLIT_9b5b581313891daf
+Artemether,CVCL_0480,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0480,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0480,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0480,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0480,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0480,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0480,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0480,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0480,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0480,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0480,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0480,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0480,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0480,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0480,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0480,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0480,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0480,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0480,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0480,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0480,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0480,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0480,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0480,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0480,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0480,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0480,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0480,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0480,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0480,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0480,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0480,SPLIT_4221722b5c444188
+Tranilast,CVCL_0480,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0480,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0480,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0480,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0480,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0504,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0504,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0504,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0504,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0504,SPLIT_9b5b581313891daf
+Artemether,CVCL_0504,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0504,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0504,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0504,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0504,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0504,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0504,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0504,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0504,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0504,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0504,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0504,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0504,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0504,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0504,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0504,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0504,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0504,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0504,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0504,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0504,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0504,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0504,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0504,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0504,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0504,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0504,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0504,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0504,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0504,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0504,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0504,SPLIT_4221722b5c444188
+Tranilast,CVCL_0504,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0504,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0504,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0504,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0504,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_0546,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_0546,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_0546,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_0546,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_0546,SPLIT_9b5b581313891daf
+Artemether,CVCL_0546,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_0546,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_0546,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_0546,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_0546,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_0546,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_0546,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_0546,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_0546,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_0546,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_0546,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_0546,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_0546,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_0546,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_0546,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_0546,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_0546,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0546,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_0546,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_0546,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_0546,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_0546,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_0546,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_0546,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_0546,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_0546,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_0546,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_0546,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_0546,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_0546,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_0546,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_0546,SPLIT_4221722b5c444188
+Tranilast,CVCL_0546,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_0546,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_0546,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_0546,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_0546,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1055,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1055,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1055,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1055,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1055,SPLIT_9b5b581313891daf
+Artemether,CVCL_1055,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1055,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1055,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1055,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1055,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1055,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1055,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1055,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1055,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1055,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1055,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1055,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1055,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1055,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1055,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1055,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1055,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1055,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1055,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1055,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1055,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1055,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1055,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1055,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1055,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1055,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1055,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1055,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1055,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1055,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1055,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1055,SPLIT_4221722b5c444188
+Tranilast,CVCL_1055,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1055,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1055,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1055,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1055,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1056,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1056,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1056,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1056,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1056,SPLIT_9b5b581313891daf
+Artemether,CVCL_1056,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1056,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1056,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1056,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1056,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1056,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1056,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1056,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1056,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1056,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1056,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1056,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1056,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1056,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1056,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1056,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1056,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1056,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1056,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1056,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1056,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1056,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1056,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1056,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1056,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1056,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1056,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1056,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1056,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1056,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1056,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1056,SPLIT_4221722b5c444188
+Tranilast,CVCL_1056,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1056,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1056,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1056,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1056,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1094,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1094,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1094,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1094,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1094,SPLIT_9b5b581313891daf
+Artemether,CVCL_1094,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1094,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1094,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1094,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1094,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1094,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1094,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1094,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1094,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1094,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1094,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1094,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1094,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1094,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1094,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1094,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1094,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1094,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1094,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1094,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1094,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1094,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1094,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1094,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1094,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1094,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1094,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1094,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1094,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1094,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1094,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1094,SPLIT_4221722b5c444188
+Tranilast,CVCL_1094,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1094,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1094,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1094,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1094,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1097,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1097,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1097,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1097,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1097,SPLIT_9b5b581313891daf
+Artemether,CVCL_1097,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1097,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1097,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1097,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1097,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1097,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1097,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1097,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1097,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1097,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1097,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1097,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1097,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1097,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1097,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1097,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1097,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1097,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1097,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1097,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1097,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1097,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1097,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1097,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1097,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1097,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1097,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1097,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1097,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1097,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1097,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1097,SPLIT_4221722b5c444188
+Tranilast,CVCL_1097,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1097,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1097,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1097,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1097,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1098,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1098,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1098,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1098,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1098,SPLIT_9b5b581313891daf
+Artemether,CVCL_1098,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1098,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1098,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1098,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1098,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1098,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1098,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1098,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1098,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1098,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1098,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1098,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1098,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1098,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1098,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1098,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1098,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1098,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1098,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1098,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1098,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1098,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1098,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1098,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1098,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1098,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1098,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1098,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1098,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1098,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1098,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1098,SPLIT_4221722b5c444188
+Tranilast,CVCL_1098,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1098,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1098,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1098,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1098,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1119,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1119,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1119,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1119,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1119,SPLIT_9b5b581313891daf
+Artemether,CVCL_1119,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1119,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1119,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1119,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1119,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1119,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1119,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1119,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1119,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1119,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1119,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1119,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1119,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1119,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1119,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1119,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1119,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1119,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1119,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1119,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1119,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1119,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1119,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1119,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1119,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1119,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1119,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1119,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1119,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1119,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1119,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1119,SPLIT_4221722b5c444188
+Tranilast,CVCL_1119,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1119,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1119,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1119,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1119,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1125,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1125,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1125,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1125,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1125,SPLIT_9b5b581313891daf
+Artemether,CVCL_1125,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1125,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1125,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1125,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1125,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1125,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1125,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1125,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1125,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1125,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1125,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1125,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1125,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1125,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1125,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1125,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1125,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1125,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1125,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1125,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1125,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1125,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1125,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1125,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1125,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1125,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1125,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1125,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1125,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1125,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1125,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1125,SPLIT_4221722b5c444188
+Tranilast,CVCL_1125,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1125,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1125,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1125,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1125,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1239,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1239,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1239,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1239,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1239,SPLIT_9b5b581313891daf
+Artemether,CVCL_1239,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1239,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1239,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1239,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1239,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1239,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1239,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1239,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1239,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1239,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1239,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1239,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1239,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1239,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1239,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1239,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1239,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1239,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1239,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1239,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1239,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1239,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1239,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1239,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1239,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1239,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1239,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1239,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1239,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1239,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1239,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1239,SPLIT_4221722b5c444188
+Tranilast,CVCL_1239,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1239,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1239,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1239,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1239,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1285,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1285,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1285,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1285,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1285,SPLIT_9b5b581313891daf
+Artemether,CVCL_1285,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1285,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1285,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1285,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1285,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1285,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1285,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1285,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1285,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1285,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1285,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1285,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1285,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1285,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1285,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1285,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1285,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1285,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1285,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1285,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1285,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1285,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1285,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1285,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1285,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1285,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1285,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1285,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1285,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1285,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1285,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1285,SPLIT_4221722b5c444188
+Tranilast,CVCL_1285,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1285,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1285,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1285,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1285,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1381,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1381,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1381,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1381,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1381,SPLIT_9b5b581313891daf
+Artemether,CVCL_1381,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1381,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1381,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1381,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1381,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1381,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1381,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1381,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1381,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1381,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1381,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1381,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1381,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1381,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1381,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1381,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1381,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1381,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1381,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1381,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1381,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1381,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1381,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1381,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1381,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1381,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1381,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1381,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1381,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1381,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1381,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1381,SPLIT_4221722b5c444188
+Tranilast,CVCL_1381,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1381,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1381,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1381,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1381,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1478,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1478,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1478,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1478,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1478,SPLIT_9b5b581313891daf
+Artemether,CVCL_1478,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1478,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1478,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1478,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1478,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1478,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1478,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1478,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1478,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1478,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1478,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1478,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1478,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1478,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1478,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1478,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1478,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1478,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1478,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1478,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1478,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1478,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1478,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1478,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1478,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1478,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1478,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1478,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1478,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1478,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1478,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1478,SPLIT_4221722b5c444188
+Tranilast,CVCL_1478,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1478,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1478,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1478,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1478,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1495,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1495,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1495,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1495,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1495,SPLIT_9b5b581313891daf
+Artemether,CVCL_1495,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1495,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1495,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1495,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1495,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1495,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1495,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1495,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1495,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1495,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1495,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1495,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1495,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1495,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1495,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1495,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1495,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1495,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1495,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1495,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1495,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1495,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1495,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1495,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1495,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1495,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1495,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1495,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1495,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1495,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1495,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1495,SPLIT_4221722b5c444188
+Tranilast,CVCL_1495,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1495,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1495,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1495,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1495,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1517,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1517,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1517,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1517,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1517,SPLIT_9b5b581313891daf
+Artemether,CVCL_1517,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1517,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1517,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1517,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1517,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1517,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1517,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1517,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1517,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1517,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1517,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1517,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1517,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1517,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1517,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1517,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1517,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1517,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1517,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1517,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1517,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1517,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1517,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1517,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1517,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1517,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1517,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1517,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1517,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1517,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1517,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1517,SPLIT_4221722b5c444188
+Tranilast,CVCL_1517,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1517,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1517,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1517,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1517,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1547,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1547,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1547,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1547,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1547,SPLIT_9b5b581313891daf
+Artemether,CVCL_1547,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1547,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1547,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1547,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1547,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1547,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1547,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1547,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1547,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1547,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1547,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1547,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1547,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1547,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1547,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1547,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1547,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1547,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1547,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1547,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1547,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1547,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1547,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1547,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1547,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1547,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1547,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1547,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1547,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1547,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1547,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1547,SPLIT_4221722b5c444188
+Tranilast,CVCL_1547,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1547,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1547,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1547,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1547,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1550,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1550,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1550,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1550,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1550,SPLIT_9b5b581313891daf
+Artemether,CVCL_1550,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1550,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1550,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1550,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1550,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1550,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1550,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1550,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1550,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1550,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1550,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1550,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1550,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1550,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1550,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1550,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1550,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1550,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1550,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1550,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1550,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1550,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1550,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1550,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1550,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1550,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1550,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1550,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1550,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1550,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1550,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1550,SPLIT_4221722b5c444188
+Tranilast,CVCL_1550,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1550,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1550,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1550,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1550,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1635,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1635,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1635,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1635,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1635,SPLIT_9b5b581313891daf
+Artemether,CVCL_1635,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1635,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1635,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1635,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1635,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1635,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1635,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1635,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1635,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1635,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1635,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1635,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1635,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1635,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1635,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1635,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1635,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1635,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1635,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1635,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1635,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1635,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1635,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1635,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1635,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1635,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1635,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1635,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1635,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1635,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1635,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1635,SPLIT_4221722b5c444188
+Tranilast,CVCL_1635,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1635,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1635,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1635,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1635,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1666,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1666,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1666,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1666,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1666,SPLIT_9b5b581313891daf
+Artemether,CVCL_1666,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1666,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1666,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1666,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1666,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1666,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1666,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1666,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1666,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1666,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1666,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1666,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1666,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1666,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1666,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1666,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1666,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1666,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1666,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1666,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1666,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1666,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1666,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1666,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1666,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1666,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1666,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1666,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1666,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1666,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1666,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1666,SPLIT_4221722b5c444188
+Tranilast,CVCL_1666,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1666,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1666,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1666,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1666,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1693,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1693,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1693,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1693,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1693,SPLIT_9b5b581313891daf
+Artemether,CVCL_1693,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1693,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1693,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1693,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1693,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1693,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1693,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1693,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1693,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1693,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1693,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1693,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1693,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1693,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1693,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1693,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1693,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1693,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1693,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1693,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1693,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1693,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1693,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1693,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1693,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1693,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1693,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1693,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1693,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1693,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1693,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1693,SPLIT_4221722b5c444188
+Tranilast,CVCL_1693,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1693,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1693,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1693,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1693,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1715,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1715,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1715,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1715,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1715,SPLIT_9b5b581313891daf
+Artemether,CVCL_1715,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1715,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1715,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1715,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1715,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1715,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1715,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1715,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1715,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1715,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1715,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1715,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1715,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1715,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1715,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1715,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1715,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1715,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1715,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1715,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1715,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1715,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1715,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1715,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1715,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1715,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1715,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1715,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1715,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1715,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1715,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1715,SPLIT_4221722b5c444188
+Tranilast,CVCL_1715,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1715,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1715,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1715,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1715,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1716,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1716,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1716,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1716,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1716,SPLIT_9b5b581313891daf
+Artemether,CVCL_1716,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1716,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1716,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1716,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1716,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1716,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1716,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1716,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1716,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1716,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1716,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1716,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1716,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1716,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1716,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1716,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1716,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1716,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1716,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1716,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1716,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1716,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1716,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1716,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1716,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1716,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1716,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1716,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1716,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1716,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1716,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1716,SPLIT_4221722b5c444188
+Tranilast,CVCL_1716,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1716,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1716,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1716,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1716,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1717,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1717,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1717,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1717,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1717,SPLIT_9b5b581313891daf
+Artemether,CVCL_1717,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1717,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1717,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1717,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1717,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1717,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1717,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1717,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1717,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1717,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1717,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1717,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1717,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1717,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1717,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1717,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1717,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1717,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1717,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1717,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1717,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1717,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1717,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1717,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1717,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1717,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1717,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1717,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1717,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1717,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1717,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1717,SPLIT_4221722b5c444188
+Tranilast,CVCL_1717,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1717,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1717,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1717,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1717,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1724,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1724,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1724,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1724,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1724,SPLIT_9b5b581313891daf
+Artemether,CVCL_1724,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1724,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1724,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1724,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1724,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1724,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1724,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1724,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1724,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1724,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1724,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1724,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1724,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1724,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1724,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1724,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1724,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1724,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1724,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1724,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1724,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1724,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1724,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1724,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1724,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1724,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1724,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1724,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1724,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1724,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1724,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1724,SPLIT_4221722b5c444188
+Tranilast,CVCL_1724,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1724,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1724,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1724,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1724,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_1731,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_1731,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_1731,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_1731,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_1731,SPLIT_9b5b581313891daf
+Artemether,CVCL_1731,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_1731,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_1731,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_1731,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_1731,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_1731,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_1731,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_1731,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_1731,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_1731,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_1731,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_1731,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_1731,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_1731,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_1731,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_1731,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_1731,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1731,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_1731,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_1731,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_1731,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_1731,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_1731,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_1731,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_1731,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_1731,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_1731,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_1731,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_1731,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_1731,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_1731,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_1731,SPLIT_4221722b5c444188
+Tranilast,CVCL_1731,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_1731,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_1731,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_1731,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_1731,SPLIT_bfb6ca43218328f5
+18β-Glycyrrhetinic acid,CVCL_C466,SPLIT_978b3acde0312499
+Acetazolamide,CVCL_C466,SPLIT_6484e239d3664917
+Almonertinib (hydrochloride),CVCL_C466,SPLIT_fcd599fd9acb8d92
+Almonertinib (mesylate),CVCL_C466,SPLIT_fcd599fd9acb8d92
+Aprepitant,CVCL_C466,SPLIT_9b5b581313891daf
+Artemether,CVCL_C466,SPLIT_1f2f176601fcd93e
+Artesunate,CVCL_C466,SPLIT_1f2f176601fcd93e
+Atazanavir (sulfate),CVCL_C466,SPLIT_d2f6231793f35a9a
+Balsalazide (sodium hydrate),CVCL_C466,SPLIT_a6dd2175c25515ba
+Bentamapimod,CVCL_C466,SPLIT_1d1d90152b5f3bcd
+Berberine (chloride hydrate),CVCL_C466,SPLIT_fb45fde951c97b17
+Bexarotene,CVCL_C466,SPLIT_d39f6d21b44c44a0
+Captopril,CVCL_C466,SPLIT_50bd907c61060f86
+Cyclosporin A,CVCL_C466,SPLIT_309a3edc3a44a3f6
+Darinaparsin,CVCL_C466,SPLIT_c74f147dc38aae77
+Darolutamide,CVCL_C466,SPLIT_ea5b58e8d4e34c2d
+Dimethyl fumarate,CVCL_C466,SPLIT_1ceb2dcd846d174b
+Diphenhydramine,CVCL_C466,SPLIT_0260c9f81bfa5c51
+Drospirenone,CVCL_C466,SPLIT_499a8b0a063e8610
+Filgotinib,CVCL_C466,SPLIT_c970a6a3e039b4ea
+Harringtonine,CVCL_C466,SPLIT_7717b0e63e604314
+Irinotecan,CVCL_C466,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_C466,SPLIT_4221722b5c444188
+L-Thyroxine (sodium salt pentahydrate),CVCL_C466,SPLIT_ef3b55af124f9c46
+Lapatinib ditosylate,CVCL_C466,SPLIT_8b719061a3072df7
+Lenalidomide (hemihydrate),CVCL_C466,SPLIT_553a2fa0631bc783
+Lipoic acid,CVCL_C466,SPLIT_828b63e0db45ee34
+Lucanthone,CVCL_C466,SPLIT_7a7539700415e863
+Lumateperone (tosylate),CVCL_C466,SPLIT_56a09fc27c1acc1f
+Orlistat,CVCL_C466,SPLIT_bf59456827a99ad9
+Palmatine (chloride),CVCL_C466,SPLIT_fb45fde951c97b17
+Pioglitazone,CVCL_C466,SPLIT_a2e2add28fff77a2
+Pravastatin (sodium),CVCL_C466,SPLIT_5907ac3a14abc553
+Ranolazine,CVCL_C466,SPLIT_10680a6422d4a243
+Regorafenib,CVCL_C466,SPLIT_14acc8194cf90164
+Terfenadine,CVCL_C466,SPLIT_a8caae788cb35a3e
+Topotecan (hydrochloride),CVCL_C466,SPLIT_4221722b5c444188
+Tranilast,CVCL_C466,SPLIT_4649d4cc2ffdad19
+Triclosan,CVCL_C466,SPLIT_ef3b55af124f9c46
+Tucidinostat,CVCL_C466,SPLIT_a22a0a87cd602324
+Vilanterol,CVCL_C466,SPLIT_95af2bb5e143a6e0
+Zileuton,CVCL_C466,SPLIT_bfb6ca43218328f5

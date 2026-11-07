@@ -1,0 +1,94 @@
+{
+  "dataset": "L1000_L3",
+  "note": "The paper evaluates all 978 directly measured landmark genes and the fixed shared-gene subset. The 12,328-column source also contains an extended axis that is not the native measured-gene endpoint.",
+  "stages": [
+    {
+      "id": "source_axes",
+      "calls": [
+        {
+          "file": "data/datasets/l1000/validate_inputs.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "Noise/LINCS2020/raw/level3/level3_beta_ctl_n188708x12328.gctx",
+        "Noise/LINCS2020/raw/level3/level3_beta_trt_cp_n1805898x12328.gctx"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/l1000/audit/source_axes_verified.json"
+      ]
+    },
+    {
+      "id": "controls",
+      "calls": [
+        {
+          "file": "data/datasets/l1000/canonical/extract_full_978.py",
+          "args": [
+            "--dataset",
+            "l3_control",
+            "--rank",
+            "0",
+            "--world",
+            "1",
+            "--tag",
+            "full"
+          ]
+        }
+      ],
+      "requires": [
+        "Noise/LINCS2020/raw/level3/level3_beta_ctl_n188708x12328.gctx",
+        "baicai/canonical_perturbation_data_v1/l1000/data/gene_axis_978.parquet",
+        "baicai/canonical_perturbation_data_v1/l1000/data/l3_control_manifest.parquet"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/l1000/data/l3_control_full_*.h5"
+      ]
+    },
+    {
+      "id": "treated",
+      "calls": [
+        {
+          "file": "data/datasets/l1000/canonical/extract_full_978.py",
+          "args": [
+            "--dataset",
+            "l3_treated",
+            "--rank",
+            "0",
+            "--world",
+            "1",
+            "--tag",
+            "full"
+          ]
+        }
+      ],
+      "requires": [
+        "Noise/LINCS2020/raw/level3/level3_beta_trt_cp_n1805898x12328.gctx",
+        "baicai/canonical_perturbation_data_v1/l1000/data/gene_axis_978.parquet",
+        "baicai/canonical_perturbation_data_v1/l1000/data/l3_treatment_manifest.parquet"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/l1000/data/l3_treated_full_*.h5"
+      ]
+    },
+    {
+      "id": "profiles_978",
+      "calls": [
+        {
+          "file": "data/datasets/l1000/prepare_profiles.py",
+          "args": [
+            "L3"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/l1000/data/l3_control_full_*.h5",
+        "baicai/canonical_perturbation_data_v1/l1000/data/l3_treated_full_*.h5"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/data/L1000_L3.h5",
+        "FULL_DATASET_FIGURES_V1/data/L1000_L3_META.parquet"
+      ],
+      "note": "Prepares the complete 978-gene measured axis used in the manuscript; native and shared-axis analyses use the same eligible physical RNA wells."
+    }
+  ]
+}

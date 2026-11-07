@@ -1,0 +1,63 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "B_gamma_PCC",
+      "value": 0.48820028882485295,
+      "reference": 0.4882,
+      "error": 2.8882485292314186e-07,
+      "method": "recompute from frozen VALID arrays with shared evaluation library"
+    },
+    {
+      "name": "B_gamma_MSE",
+      "value": 0.003482727796059533,
+      "reference": 0.003482728,
+      "error": 2.0394046694460766e-10,
+      "method": "recompute from frozen VALID arrays with shared evaluation library"
+    },
+    {
+      "name": "B_full_PCC",
+      "value": 0.5821120238105372,
+      "reference": 0.582112,
+      "error": 2.3810537208568405e-08,
+      "method": "recompute from frozen VALID arrays with shared evaluation library"
+    },
+    {
+      "name": "B_full_MSE",
+      "value": 0.007005122818683773,
+      "reference": 0.007005123,
+      "error": 1.813162276570468e-10,
+      "method": "recompute from frozen VALID arrays with shared evaluation library"
+    },
+    {
+      "name": "beta_programs_projected_beta_gamma",
+      "value": 0.5831404927940379,
+      "reference": 0.58314,
+      "error": 4.92794037909583e-07,
+      "method": "reaggregate five frozen fold values; not retraining"
+    },
+    {
+      "name": "CANONICAL_SELECTED_m1",
+      "value": 0.841801512154728,
+      "reference": 0.841802,
+      "error": 4.878452720680215e-07,
+      "method": "reaggregate frozen per-drug results, matched directions and held cells"
+    },
+    {
+      "name": "CROSSPLATE_SELECTED_m1",
+      "value": 0.5480685979737465,
+      "reference": 0.548069,
+      "error": 4.02026253509824e-07,
+      "method": "reaggregate frozen per-drug results, matched directions and held cells"
+    },
+    {
+      "name": "plate6_14_gamma_PCC",
+      "value": 0.4491144586796754,
+      "reference": 0.449114,
+      "error": 4.586796754080247e-07,
+      "method": "recompute independent plate arrays with role isolation"
+    }
+  ],
+  "tolerance": 1e-06,
+  "TEST_response_reads": 0
+}

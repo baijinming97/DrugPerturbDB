@@ -1,0 +1,1307 @@
+{
+  "(R)-Verapamil (hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_3f6cd5b62588d666"
+  },
+  "18β-Glycyrrhetinic acid": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_978b3acde0312499"
+  },
+  "5-Fluorouracil": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_d6033ec7001fc262"
+  },
+  "APTO-253": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_2c4151d2fef5fb51"
+  },
+  "AZD-8055": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_e8643325ea1d839c"
+  },
+  "Abemaciclib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_fa9d00f6095dfa64"
+  },
+  "Acetohexamide": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_7999c0799da20ebb"
+  },
+  "Adagrasib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_3adb9690127cd670"
+  },
+  "Adenine": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_cc774fd1ee81123b"
+  },
+  "Adenosine": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_4198b986fead4043"
+  },
+  "Afatinib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_d21bd216ee25b7da"
+  },
+  "Aliskiren": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Amsacrine": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_7531719c96496d80"
+  },
+  "Anastrozole": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_fb4ca9cc43284ecc"
+  },
+  "Anethole trithione": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_a5ec6b2a4d874098"
+  },
+  "Aprepitant": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_9b5b581313891daf"
+  },
+  "Arbutin": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_d0375460351dbb83"
+  },
+  "Artemether": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_1f2f176601fcd93e"
+  },
+  "Artesunate": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_1f2f176601fcd93e"
+  },
+  "Aspirin": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Atazanavir (sulfate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_d2f6231793f35a9a"
+  },
+  "BAY1125976": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_d93b642c611eddbd"
+  },
+  "BI-3406": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_8854306faa46cbad"
+  },
+  "BI-78D3": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_b09560e04332c977"
+  },
+  "Baicalin": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_98c17a35fb3d4ca2"
+  },
+  "Belumosudil": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_35a6ea2165a3586e"
+  },
+  "Belumosudil (mesylate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_35a6ea2165a3586e"
+  },
+  "Bentamapimod": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_1d1d90152b5f3bcd"
+  },
+  "Benztropine (mesylate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_89e35c5f96618419"
+  },
+  "Berbamine": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_98e667141a6747b3"
+  },
+  "Berbamine (dihydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_98e667141a6747b3"
+  },
+  "Berberine (chloride hydrate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_fb45fde951c97b17"
+  },
+  "Bergenin": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_52566e086a4a2e7b"
+  },
+  "Bestatin (hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Bimiralisib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_4041da0916255c87"
+  },
+  "Brivudine": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_4198b986fead4043"
+  },
+  "Busulfan": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_24b7ac9fa674fdf6"
+  },
+  "Cabozantinib (S-malate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_13e0f1b8fe5ea113"
+  },
+  "Captopril": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_50bd907c61060f86"
+  },
+  "Carbidopa (monohydrate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Cepharanthine": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_98e667141a6747b3"
+  },
+  "Chlorhexidine (diacetate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_a80ac7e46b5f5fcb"
+  },
+  "Ciclopirox": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_f14331a291da36b2"
+  },
+  "Cinacalcet": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_7d2735e41168b024"
+  },
+  "Citalopram (hydrobromide)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_45d841de91b45618"
+  },
+  "Clonidine (hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_b95b36897c9ad11e"
+  },
+  "Clopidogrel": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_f12cf86f6e5e473f"
+  },
+  "Clotrimazole": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_caccf13d789b6369"
+  },
+  "Crizotinib (hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_12786379f849c171"
+  },
+  "Cyclosporin A": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_309a3edc3a44a3f6"
+  },
+  "Cytarabine": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_4198b986fead4043"
+  },
+  "Dabrafenib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_8773f8403b722854"
+  },
+  "Daidzin": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_d0375460351dbb83"
+  },
+  "Dapagliflozin": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_cb67d4e338d363ab"
+  },
+  "Darinaparsin": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_c74f147dc38aae77"
+  },
+  "Darolutamide": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_ea5b58e8d4e34c2d"
+  },
+  "Demeclocycline": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_25974d08e3a89dd4"
+  },
+  "Diphenhydramine": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_0260c9f81bfa5c51"
+  },
+  "ERK5-IN-2": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_41de3dbed659b3e8"
+  },
+  "EX229": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_d2423f1bcc19c743"
+  },
+  "Econazole": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_ec9e0193525cac28"
+  },
+  "Encorafenib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_7d9ab16397b6f664"
+  },
+  "Entecavir (monohydrate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_2df4871f7b60714c"
+  },
+  "Epirubicin (hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_ea134a478f2f1c00"
+  },
+  "Eplerenone": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_990d5aa94a95b9c1"
+  },
+  "Erdafitinib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_5dd608ccba9216a7"
+  },
+  "Esmolol (hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Estrone sulfate (potassium)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_3b2e3ae5e505b02a"
+  },
+  "Everolimus": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_589488d0020fe776"
+  },
+  "Fedratinib (hydrochloride hydrate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_036690ecee83ee22"
+  },
+  "Filgotinib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_c970a6a3e039b4ea"
+  },
+  "Fluvoxamine (maleate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Folic acid": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_e2b9b433dd782c09"
+  },
+  "Fulvestrant": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_e3577150229b30ff"
+  },
+  "Furosemide": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_0a0d256b20d87926"
+  },
+  "Fusidic acid": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_b64c948e70620340"
+  },
+  "Gallic acid": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Gallic acid (hydrate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Gemcitabine": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_4198b986fead4043"
+  },
+  "Gemfibrozil": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Goserelin (acetate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_eb7e93c60b0d7189"
+  },
+  "Harringtonine": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_7717b0e63e604314"
+  },
+  "Hexylresorcinol": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Idarubicin (hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_ea134a478f2f1c00"
+  },
+  "Idoxuridine": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_4198b986fead4043"
+  },
+  "Indacaterol (maleate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_da7ca0ef30333224"
+  },
+  "Ivabradine (hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_1b8f4b5f021bcf9d"
+  },
+  "Ivermectin": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_2bb6a09224e9cc92"
+  },
+  "LB-100": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_b9220112df3ca295"
+  },
+  "LY2090314": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_e94abafa62cafeab"
+  },
+  "Lapatinib ditosylate": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_8b719061a3072df7"
+  },
+  "Lidocaine (hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Loperamide (hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_b09158e08a9ab216"
+  },
+  "Lucanthone": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_7a7539700415e863"
+  },
+  "Lumateperone (tosylate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_56a09fc27c1acc1f"
+  },
+  "MK-3903": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_d2423f1bcc19c743"
+  },
+  "MK-8353": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_caf24f6ec0b8dea9"
+  },
+  "Malotilate": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_7917eba5b1eef743"
+  },
+  "Medroxyprogesterone acetate": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_604ad0d0505383a1"
+  },
+  "Megestrol": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_42274ac184213af8"
+  },
+  "Methotrexate": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_e2b9b433dd782c09"
+  },
+  "Methyl aminolevulinate (hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_a30186631d7c8c19"
+  },
+  "Minodronic acid": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_955c245506a01212"
+  },
+  "Mitoxantrone (dihydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_28e261382c48f40d"
+  },
+  "NVP-BHG712": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_9784b85c9cd80205"
+  },
+  "Nafamostat (mesylate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_3cd1b6c75058e39a"
+  },
+  "Neratinib (maleate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_9a72ca20aa4bad38"
+  },
+  "Norepinephrine (hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Olanzapine": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_8c3c886250a9be81"
+  },
+  "Oleic acid": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_e481ca06916e2572"
+  },
+  "Ornidazole": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_88bd21d4f13911c2"
+  },
+  "Ouabain (Octahydrate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_1c32bf52052c7be1"
+  },
+  "Oxaliplatin": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_11c8a233f37f6cc9"
+  },
+  "Oxaprozin": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_275c735d9045a6f8"
+  },
+  "PH-797804": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_cd1439929da50574"
+  },
+  "Palmatine (chloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_fb45fde951c97b17"
+  },
+  "Pemigatinib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_dda4cc0eb08656f8"
+  },
+  "Perindopril (erbumine)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_a6d08a4722a7dded"
+  },
+  "Phenylephrine (hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Pioglitazone": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_a2e2add28fff77a2"
+  },
+  "Ponatinib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_7c75ffa4ae9371a0"
+  },
+  "Posaconazole": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_62b1576270fae8d1"
+  },
+  "Pravastatin (sodium)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_5907ac3a14abc553"
+  },
+  "Proglumide": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Quinestrol": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_326e2cc777edde4d"
+  },
+  "RMC-6236": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_5cec1e3a7e4506ef"
+  },
+  "Radotinib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_053608d45e269a82"
+  },
+  "Raltitrexed": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_ead90e2a5fa46e71"
+  },
+  "Rapamycin": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_589488d0020fe776"
+  },
+  "Relugolix": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_cc9db16150f35a86"
+  },
+  "Resveratrol": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_c4528c271a356996"
+  },
+  "Retinoic acid": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_0fd63918999e50b2"
+  },
+  "Riluzole hydrochloride": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_4818b288f339a449"
+  },
+  "Rimonabant": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_0090a561f3cb82f0"
+  },
+  "Rimonabant (Hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_0090a561f3cb82f0"
+  },
+  "Rucaparib (phosphate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_7af5a65006ef5f31"
+  },
+  "S-Adenosyl-L-methionine (disulfate tosylate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_4198b986fead4043"
+  },
+  "Salicylic acid": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Sapanisertib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_57c3bd71e2ddc75f"
+  },
+  "Saquinavir": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_b1d2fe01f2438223"
+  },
+  "Selinexor": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_21d1a0ca73a84f10"
+  },
+  "Sodium Salicylate": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Sulfatinib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_a9cbaa1d3206abe5"
+  },
+  "Sulfisoxazole": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_3b0a625d96a95fe4"
+  },
+  "TAK-901": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_ccf08a62f3d8471a"
+  },
+  "Tazarotene": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_2319a4605a9af811"
+  },
+  "Temsirolimus": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_589488d0020fe776"
+  },
+  "Temuterkib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_66c85e72a5082f3c"
+  },
+  "Terfenadine": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_a8caae788cb35a3e"
+  },
+  "Tetracycline (hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_25974d08e3a89dd4"
+  },
+  "Thymol": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_442bac6c12b414ee"
+  },
+  "Tirabrutinib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_7c0f696b528289e9"
+  },
+  "Tirabrutinib (hydrochloride)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_7c0f696b528289e9"
+  },
+  "Tofacitinib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_b9897087a5313ad6"
+  },
+  "Tofacitinib (citrate)": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_b9897087a5313ad6"
+  },
+  "Trametinib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_40d0a5fe8dcb68ec"
+  },
+  "Tranilast": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_4649d4cc2ffdad19"
+  },
+  "Trifluridine": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_4198b986fead4043"
+  },
+  "Trimetrexate": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_2e8737fa9b420210"
+  },
+  "Tucidinostat": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_a22a0a87cd602324"
+  },
+  "Uridine": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_4198b986fead4043"
+  },
+  "Vitamin K4": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_9db66c4fb263dc95"
+  },
+  "XRK3F2": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_aa4b66dd840b3a91"
+  },
+  "c-Kit-IN-1": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_aa2905c7f5c1ae1c"
+  },
+  "crizotinib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_12786379f849c171"
+  },
+  "olaparib": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_a02f1e209b6ba571"
+  },
+  "γ-Oryzanol": {
+    "fold": 0,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_986b73276d4d3c28"
+  },
+  "8-Hydroxyquinoline": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_8ce9edfddb4e7010"
+  },
+  "Abiraterone acetate": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_da79ecbb55d4842b"
+  },
+  "Acetazolamide": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_6484e239d3664917"
+  },
+  "Allantoin": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_79eeb5313d013f9f"
+  },
+  "Allopurinol": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_585c161858768ffd"
+  },
+  "Almonertinib (hydrochloride)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_fcd599fd9acb8d92"
+  },
+  "Almonertinib (mesylate)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_fcd599fd9acb8d92"
+  },
+  "Altretamine": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_96c94581d6ce9896"
+  },
+  "Asciminib": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_a50a8c8d5a9c2b99"
+  },
+  "Ataluren": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_0d60a1c912ea7ed9"
+  },
+  "Auranofin": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_c5ee65701300ad96"
+  },
+  "Azithromycin (hydrate)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_07440ed05fb870ad"
+  },
+  "Balsalazide (sodium hydrate)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_a6dd2175c25515ba"
+  },
+  "Belinostat": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_2db7a02dbca25245"
+  },
+  "Betamethasone dipropionate": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_8fa989a53f8e5a8a"
+  },
+  "Bexarotene": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_d39f6d21b44c44a0"
+  },
+  "Brimonidine": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_ecbdf6e7d173fd8a"
+  },
+  "Budesonide": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_7062ea7dfed57d8c"
+  },
+  "Canagliflozin (hemihydrate)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_489662abe42bf82d"
+  },
+  "Cilostazol": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_918d4f90a6c23464"
+  },
+  "Cloxacillin (sodium)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_bb3802de5d511581"
+  },
+  "Cysteamine (hydrochloride)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_cb0ffef87917f5d6"
+  },
+  "Daptomycin": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_c6dbfe8ac2f5d9aa"
+  },
+  "Delamanid": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_70c560922906938e"
+  },
+  "Diammonium Glycyrrhizinate": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_75808b0c6b15b5a6"
+  },
+  "Dimethyl fumarate": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_1ceb2dcd846d174b"
+  },
+  "Docetaxel": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_8e18086da475244e"
+  },
+  "Dorzolamide (hydrochloride)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_61f6b3d33f5fb1b0"
+  },
+  "ETC-206": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_8db7181d0ef949e8"
+  },
+  "Edoxaban (tosylate monohydrate)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_32e10d66ec921758"
+  },
+  "Elagolix sodium": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_707dba0b58d9e4e5"
+  },
+  "Erythromycin": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_07440ed05fb870ad"
+  },
+  "Fumaric acid": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_372fca18d79523bd"
+  },
+  "GSK1059615": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_a755207560355037"
+  },
+  "Infigratinib": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_13810037d79ee9ca"
+  },
+  "Ipatasertib": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_e73a4d174a7f8529"
+  },
+  "Isocorydine": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_75a79e6107ba063f"
+  },
+  "L-Eflornithine (monohydrochloride)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_a0432cf741f94bee"
+  },
+  "L-Thyroxine (sodium salt pentahydrate)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_ef3b55af124f9c46"
+  },
+  "Larotrectinib": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_7ec93d1a24d130da"
+  },
+  "Larotrectinib sulfate": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_7ec93d1a24d130da"
+  },
+  "Lenalidomide (hemihydrate)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_553a2fa0631bc783"
+  },
+  "Lipoic acid": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_828b63e0db45ee34"
+  },
+  "ML264": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_852ab451ca2aeb2c"
+  },
+  "Meloxicam": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_c5e7288a845e167d"
+  },
+  "Methylprednisolone succinate": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_8fa989a53f8e5a8a"
+  },
+  "Methylthiouracil": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_b7602e5a19f73a1b"
+  },
+  "Paclitaxel": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_8e18086da475244e"
+  },
+  "Panobinostat": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_7fa4cef57dea157e"
+  },
+  "Pentagastrin": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_e197f0e4a98e8f01"
+  },
+  "Pentamidine (isethionate)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_fa7ca714dec8ba59"
+  },
+  "Pentoxifylline": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_9a5f32860afbf07d"
+  },
+  "Pimozide": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_288cf7170a11d353"
+  },
+  "Piroxicam": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_c5e7288a845e167d"
+  },
+  "Ralimetinib dimesylate": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_99ce75ac584825a3"
+  },
+  "Regorafenib": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_14acc8194cf90164"
+  },
+  "Ribociclib": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_19ee1d1c66df65b9"
+  },
+  "Ritonavir": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_00c1ccb790a0aa13"
+  },
+  "Ropivacaine (hydrochloride monohydrate)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_3a8bf6225f100f89"
+  },
+  "Sildenafil": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_5d3cffc0909119eb"
+  },
+  "Sinomenine": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_a431bb6ae29a998f"
+  },
+  "Sivelestat (sodium tetrahydrate)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_2db7a02dbca25245"
+  },
+  "Talc": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_97a2037192cef75c"
+  },
+  "Tolcapone": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_708379e3faa02974"
+  },
+  "Tomivosertib": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_a3ab30cb7545a357"
+  },
+  "Triamcinolone": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_8fa989a53f8e5a8a"
+  },
+  "Triclosan": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_ef3b55af124f9c46"
+  },
+  "Tucatinib": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_bd9be7013c09eb50"
+  },
+  "Valdecoxib": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_139794c0753b79b8"
+  },
+  "Vandetanib": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_1919898d56cb7b5b"
+  },
+  "Vilanterol": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_95af2bb5e143a6e0"
+  },
+  "Vinblastine (sulfate)": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_b6d1dfea9e5e2c7f"
+  },
+  "Voriconazole": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_1259ddd9fc0f1228"
+  },
+  "Zileuton": {
+    "fold": 1,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_bfb6ca43218328f5"
+  },
+  "9-ING-41": {
+    "fold": 2,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_f0e16a04288dfd86"
+  },
+  "Bicalutamide": {
+    "fold": 2,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_2adcf441506ca5c9"
+  },
+  "Bimatoprost": {
+    "fold": 2,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_39eea9c428acee86"
+  },
+  "Binimetinib": {
+    "fold": 2,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_b4dc4089ddee2932"
+  },
+  "Gefitinib": {
+    "fold": 2,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_ef7fa551cc9153d0"
+  },
+  "Lactate (calcium)": {
+    "fold": 2,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_93463e5f1e3e3e46"
+  },
+  "Mebendazole": {
+    "fold": 2,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_9eb84c1309f52a1f"
+  },
+  "Nevirapine": {
+    "fold": 2,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_976eede7c8d766ed"
+  },
+  "Omeprazole": {
+    "fold": 2,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_d2d6dcb860ff4934"
+  },
+  "Pyridoxine": {
+    "fold": 2,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_6b94c69b90ffdc33"
+  },
+  "Pyridoxine (hydrochloride)": {
+    "fold": 2,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_6b94c69b90ffdc33"
+  },
+  "Vemurafenib": {
+    "fold": 2,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_08a1977a3af0c490"
+  },
+  "venetoclax": {
+    "fold": 2,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_87ebc9d39bf43132"
+  },
+  "Drospirenone": {
+    "fold": 3,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_499a8b0a063e8610"
+  },
+  "Irinotecan": {
+    "fold": 3,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_4221722b5c444188"
+  },
+  "Irinotecan (hydrochloride)": {
+    "fold": 3,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_4221722b5c444188"
+  },
+  "Orlistat": {
+    "fold": 3,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_bf59456827a99ad9"
+  },
+  "Ranolazine": {
+    "fold": 3,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_10680a6422d4a243"
+  },
+  "Topotecan (hydrochloride)": {
+    "fold": 3,
+    "role": "TRAIN",
+    "chemical_group": "SPLIT_4221722b5c444188"
+  },
+  "Pasireotide (acetate)": {
+    "fold": 0,
+    "role": "VALID",
+    "chemical_group": "SPLIT_ae3082509cf088e1"
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "dataset": "Tahoe",
+  "note": "Reconstruct expression from the registered PDEX source and verify cell-level QC counts. Fixed identity, inclusion and model-role annotations are supplied.",
+  "stages": [
+    {
+      "id": "validate_qc",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/validate_qc.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/obs_metadata.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/full_qc_plate_counts.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/qc_plate_profile_manifest.parquet"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/source_qc_verified.json"
+      ]
+    },
+    {
+      "id": "canonical_extract_0",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/extract_pdex_values.py",
+          "args": [
+            "--rank",
+            "0",
+            "--world",
+            "4",
+            "--tag",
+            "paper4"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/all_plates_pdex.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/source_qc_verified.json",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/qc_plate_profile_manifest.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/gene_axis.parquet"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04_controls.parquet"
+      ]
+    },
+    {
+      "id": "canonical_extract_1",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/extract_pdex_values.py",
+          "args": [
+            "--rank",
+            "1",
+            "--world",
+            "4",
+            "--tag",
+            "paper4"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/all_plates_pdex.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/source_qc_verified.json",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/qc_plate_profile_manifest.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/gene_axis.parquet"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04_controls.parquet"
+      ]
+    },
+    {
+      "id": "canonical_extract_2",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/extract_pdex_values.py",
+          "args": [
+            "--rank",
+            "2",
+            "--world",
+            "4",
+            "--tag",
+            "paper4"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/all_plates_pdex.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/source_qc_verified.json",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/qc_plate_profile_manifest.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/gene_axis.parquet"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04_controls.parquet"
+      ]
+    },
+    {
+      "id": "canonical_extract_3",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/extract_pdex_values.py",
+          "args": [
+            "--rank",
+            "3",
+            "--world",
+            "4",
+            "--tag",
+            "paper4"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/all_plates_pdex.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/source_qc_verified.json",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/qc_plate_profile_manifest.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/gene_axis.parquet"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04_controls.parquet"
+      ]
+    },
+    {
+      "id": "canonical_controls",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_controls.py",
+          "args": [
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/controls.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/control_merge_audit.json"
+      ]
+    },
+    {
+      "id": "canonical_treated_00",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "0",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_00-of-16.h5"
+      ]
+    },
+    {
+      "id": "canonical_treated_01",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "1",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_01-of-16.h5"
+      ]
+    },
+    {
+      "id": "canonical_treated_02",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "2",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_02-of-16.h5"
+      ]
+    },
+    {
+      "id": "canonical_treated_03",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "3",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_03-of-16.h5"
+      ]
+    },
+    {
+      "id": "canonical_treated_04",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "4",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_04-of-16.h5"
+      ]
+    },
+    {
+      "id": "canonical_treated_05",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "5",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_05-of-16.h5"
+      ]
+    },
+    {
+      "id": "canonical_treated_06",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "6",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_06-of-16.h5"
+      ]
+    },
+    {
+      "id": "canonical_treated_07",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "7",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_07-of-16.h5"
+      ]
+    },
+    {
+      "id": "canonical_treated_08",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "8",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_08-of-16.h5"
+      ]
+    },
+    {
+      "id": "canonical_treated_09",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "9",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_09-of-16.h5"
+      ]
+    },
+    {
+      "id": "canonical_treated_10",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "10",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_10-of-16.h5"
+      ]
+    },
+    {
+      "id": "canonical_treated_11",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "11",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_11-of-16.h5"
+      ]
+    },
+    {
+      "id": "canonical_treated_12",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "12",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_12-of-16.h5"
+      ]
+    },
+    {
+      "id": "canonical_treated_13",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "13",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_13-of-16.h5"
+      ]
+    },
+    {
+      "id": "canonical_treated_14",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "14",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_14-of-16.h5"
+      ]
+    },
+    {
+      "id": "canonical_treated_15",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+          "args": [
+            "--rank",
+            "15",
+            "--world",
+            "16",
+            "--extraction-tag",
+            "paper4",
+            "--extraction-world",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_15-of-16.h5"
+      ]
+    },
+    {
+      "id": "full_profiles",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/prepare_full.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/condition_manifest.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/condition_control_map.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/controls.h5",
+        "FULL_DATASET_FIGURES_V1/COMMON_GENES.json",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_00-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_01-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_02-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_03-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_04-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_05-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_06-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_07-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_08-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_09-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_10-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_11-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_12-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_13-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_14-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_15-of-16.h5"
+      ],
+      "outputs": [
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/data/Tahoe_COMMON_CONDITIONS.h5",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/data/Tahoe_978_CONDITIONS.h5",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/data/Tahoe_CONDITION_META.parquet",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/results/Tahoe_FULL_COMPOSITION.csv"
+      ]
+    },
+    {
+      "id": "predictive_inputs",
+      "calls": [
+        {
+          "file": "data/datasets/tahoe/prepare_prediction.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/controls.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_00-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_01-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_02-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_03-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_04-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_05-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_06-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_07-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_08-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_09-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_10-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_11-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_12-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_13-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_14-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_15-of-16.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5"
+      ],
+      "outputs": [
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/predictive_inputs.json"
+      ],
+      "note": "Rebuilds physical-plate profiles and the registered TRAIN/VALID panels; no TEST model evaluation."
+    }
+  ]
+}

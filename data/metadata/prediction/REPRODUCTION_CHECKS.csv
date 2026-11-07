@@ -1,0 +1,9 @@
+name,value,reference,error,method
+B_gamma_PCC,0.48820028882485295,0.4882,2.8882485292314186e-07,recompute from frozen VALID arrays with shared evaluation library
+B_gamma_MSE,0.003482727796059533,0.003482728,2.0394046694460766e-10,recompute from frozen VALID arrays with shared evaluation library
+B_full_PCC,0.5821120238105372,0.582112,2.3810537208568405e-08,recompute from frozen VALID arrays with shared evaluation library
+B_full_MSE,0.007005122818683773,0.007005123,1.813162276570468e-10,recompute from frozen VALID arrays with shared evaluation library
+beta_programs_projected_beta_gamma,0.5831404927940379,0.58314,4.92794037909583e-07,reaggregate five frozen fold values; not retraining
+CANONICAL_SELECTED_m1,0.841801512154728,0.841802,4.878452720680215e-07,"reaggregate frozen per-drug results, matched directions and held cells"
+CROSSPLATE_SELECTED_m1,0.5480685979737465,0.548069,4.02026253509824e-07,"reaggregate frozen per-drug results, matched directions and held cells"
+plate6_14_gamma_PCC,0.4491144586796754,0.449114,4.586796754080247e-07,recompute independent plate arrays with role isolation

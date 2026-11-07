@@ -1,0 +1,121 @@
+{
+  "description": "Control-expression baseline, component errors, and drug-effect-to-interaction mapping",
+  "stages": [
+    {
+      "id": "cross_plate_G5",
+      "calls": [
+        {
+          "file": "code/04_prediction/cross_plate/exp2_worker.py",
+          "args": [
+            "--fold",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/data/treated_*-of-16.h5",
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/G5_LINEAGE_AUDIT.json",
+        "4MAN/minimum_restore_v1/retained/orion/baicai/new_audit/tahoe_l3_x1_noise_audit_v1/results/tahoe/plate978/tahoe_multiplate_plate_profiles_978_v1.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/audit/predictive_inputs.json"
+      ],
+      "outputs": [
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/RESOURCE_0_1_2_3_4.json",
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/SUFFICIENT_f0.npz",
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/SUFFICIENT_f1.npz",
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/SUFFICIENT_f2.npz",
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/SUFFICIENT_f3.npz",
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/SUFFICIENT_f4.npz"
+      ],
+      "repo_requires": [
+        "data/models/G5/fold0/PRIMARY.pkl.gz",
+        "data/models/G5/fold2/PRIMARY.pkl.gz",
+        "data/models/G5/fold3/PRIMARY.pkl.gz",
+        "data/models/G5/fold1/PRIMARY.pkl.gz",
+        "data/models/G5/fold4/PRIMARY.pkl.gz",
+        "data/models/control_only_3H2048/fold3/selected.pt",
+        "data/models/control_only_3H2048/fold4/selected.pt",
+        "data/models/control_only_3H2048/fold0/selected.pt",
+        "data/models/control_only_3H2048/fold2/selected.pt",
+        "data/models/control_only_3H2048/fold1/selected.pt"
+      ],
+      "note": "Separate model artifact and physical-plate expression arrays are required. Baseline inference has its own explicit CLI; see README."
+    },
+    {
+      "id": "cross_plate_summary",
+      "calls": [
+        {
+          "file": "code/04_prediction/cross_plate/exp2_worker.py",
+          "args": [
+            "--finalize"
+          ]
+        }
+      ],
+      "requires": [
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/RESOURCE_0_1_2_3_4.json"
+      ],
+      "outputs": [
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/BOOTSTRAP_PROTOCOL.json",
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/WITHIN_CROSS_PLATE.csv",
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/SHUFFLE_CONTROLS.csv"
+      ]
+    },
+    {
+      "id": "cross_plate_common_support",
+      "calls": [
+        {
+          "file": "code/04_prediction/cross_plate/exp2_reweight.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/SUFFICIENT_f0.npz",
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/SUFFICIENT_f1.npz",
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/SUFFICIENT_f2.npz",
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/SUFFICIENT_f3.npz",
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/SUFFICIENT_f4.npz",
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/verification_inputs.npz"
+      ],
+      "outputs": [
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/reweighted_common_support/WITHIN_CROSS_PLATE.csv",
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/reweighted_common_support/SHUFFLE_CONTROLS.csv",
+        "4MAN/PAPER_TWO_CHECKS_V1/exp2/reweighted_common_support/REWEIGHT_DIRECT_VERIFICATION.json"
+      ],
+      "note": "Primary manuscript estimates use equal chemical-group weight on the actual 47-drug common support."
+    },
+    {
+      "id": "exploratory",
+      "calls": [
+        {
+          "file": "code/04_prediction/exploratory/replay.py",
+          "args": [
+            "--workspace",
+            "{workspace}",
+            "--inputs",
+            "{workspace}/4MAN/EXPLORATORY/features",
+            "--output",
+            "{workspace}/4MAN/EXPLORATORY/results",
+            "--all"
+          ]
+        }
+      ],
+      "requires": [
+        "4MAN/EXPLORATORY/features/MANIFEST.json",
+        "4MAN/EXPLORATORY/features/CONFIGURATIONS.json",
+        "4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/A_f0_TRAIN.npz",
+        "4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/A_f1_TRAIN.npz",
+        "4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/A_f2_TRAIN.npz",
+        "4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/A_f3_TRAIN.npz",
+        "4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/A_f4_TRAIN.npz"
+      ],
+      "outputs": [
+        "4MAN/EXPLORATORY/results/*/SUMMARY.json",
+        "4MAN/EXPLORATORY/results/*/PER_DRUG.csv"
+      ],
+      "note": "Ten fixed Figure S2 configurations and three label permutations each. TRAIN only; does not repeat the broader historical search or its random-feature screen."
+    }
+  ]
+}

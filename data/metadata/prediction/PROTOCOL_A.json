@@ -1,0 +1,13 @@
+{
+  "task": "TAHOE_GAMMA_PARALLEL_V1",
+  "stage": "A",
+  "read_VALID_only_for_five_predefined_reproductions": true,
+  "CPU": 8,
+  "memory_GiB": 56,
+  "GPU": 0,
+  "reference_tolerance": 1e-06,
+  "fail_any_reference": "STOP_ALL_NO_WORKFLOW_SUBMISSION",
+  "corrected_background": "gamma_w full-support MSE=0.002838137395493377; gamma_pc=0.000644590400566158; 0.0030467209427 is eligible-subset conditional MSE, not additive full-support component.",
+  "frozen_assets_readonly": true,
+  "TEST_response_reads": 0
+}

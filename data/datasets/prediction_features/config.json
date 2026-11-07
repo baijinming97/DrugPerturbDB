@@ -1,0 +1,23 @@
+{
+  "dataset": "Prediction_features",
+  "note": "Fixed external molecular and biological features for Figure S2, not Tahoe response labels.",
+  "stages": [
+    {
+      "id": "features",
+      "calls": [
+        {
+          "file": "data/datasets/prediction_features/extract.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/raw/Exploratory_features_v1.tar.gz"
+      ],
+      "outputs": [
+        "4MAN/EXPLORATORY/features/MANIFEST.json",
+        "4MAN/EXPLORATORY/features/CONFIGURATIONS.json",
+        "4MAN/EXPLORATORY/features/*.npz"
+      ]
+    }
+  ]
+}

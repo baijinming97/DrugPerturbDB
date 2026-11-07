@@ -1,0 +1,2351 @@
+drug_id,cell_id,component
+9-ING-41,CVCL_0023,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0023,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0023,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0023,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0023,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0023,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0023,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0023,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0023,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0023,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0023,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0023,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0023,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0023,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0023,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0023,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0023,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0023,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0023,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0023,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0023,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0023,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0023,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0023,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0023,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0023,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0023,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0023,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0023,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0023,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0023,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0023,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0023,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0023,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0023,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0023,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0023,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0023,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0023,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0023,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0023,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0023,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0023,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0023,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0023,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0023,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0023,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0023,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0023,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0023,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0028,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0028,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0028,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0028,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0028,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0028,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0028,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0028,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0028,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0028,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0028,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0028,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0028,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0028,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0028,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0028,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0028,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0028,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0028,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0028,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0028,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0028,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0028,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0028,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0028,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0028,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0028,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0028,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0028,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0028,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0028,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0028,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0028,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0028,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0028,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0028,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0028,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0028,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0028,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0028,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0028,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0028,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0028,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0028,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0028,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0028,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0028,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0028,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0028,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0028,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0069,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0069,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0069,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0069,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0069,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0069,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0069,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0069,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0069,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0069,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0069,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0069,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0069,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0069,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0069,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0069,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0069,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0069,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0069,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0069,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0069,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0069,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0069,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0069,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0069,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0069,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0069,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0069,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0069,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0069,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0069,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0069,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0069,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0069,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0069,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0069,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0069,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0069,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0069,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0069,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0069,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0069,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0069,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0069,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0069,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0069,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0069,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0069,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0069,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0069,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0099,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0099,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0099,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0099,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0099,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0099,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0099,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0099,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0099,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0099,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0099,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0099,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0099,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0099,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0099,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0099,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0099,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0099,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0099,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0099,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0099,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0099,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0099,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0099,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0099,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0099,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0099,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0099,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0099,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0099,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0099,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0099,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0099,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0099,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0099,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0099,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0099,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0099,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0099,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0099,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0099,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0099,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0099,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0099,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0099,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0099,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0099,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0099,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0099,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0099,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0131,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0131,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0131,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0131,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0131,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0131,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0131,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0131,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0131,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0131,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0131,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0131,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0131,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0131,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0131,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0131,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0131,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0131,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0131,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0131,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0131,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0131,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0131,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0131,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0131,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0131,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0131,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0131,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0131,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0131,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0131,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0131,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0131,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0131,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0131,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0131,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0131,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0131,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0131,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0131,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0131,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0131,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0131,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0131,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0131,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0131,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0131,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0131,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0131,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0131,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0152,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0152,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0152,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0152,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0152,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0152,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0152,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0152,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0152,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0152,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0152,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0152,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0152,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0152,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0152,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0152,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0152,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0152,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0152,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0152,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0152,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0152,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0152,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0152,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0152,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0152,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0152,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0152,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0152,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0152,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0152,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0152,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0152,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0152,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0152,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0152,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0152,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0152,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0152,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0152,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0152,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0152,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0152,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0152,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0152,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0152,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0152,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0152,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0152,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0152,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0179,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0179,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0179,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0179,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0179,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0179,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0179,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0179,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0179,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0179,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0179,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0179,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0179,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0179,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0179,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0179,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0179,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0179,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0179,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0179,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0179,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0179,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0179,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0179,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0179,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0179,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0179,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0179,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0179,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0179,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0179,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0179,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0179,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0179,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0179,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0179,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0179,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0179,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0179,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0179,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0179,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0179,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0179,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0179,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0179,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0179,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0179,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0179,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0179,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0179,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0218,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0218,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0218,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0218,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0218,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0218,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0218,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0218,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0218,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0218,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0218,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0218,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0218,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0218,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0218,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0218,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0218,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0218,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0218,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0218,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0218,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0218,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0218,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0218,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0218,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0218,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0218,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0218,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0218,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0218,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0218,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0218,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0218,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0218,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0218,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0218,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0218,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0218,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0218,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0218,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0218,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0218,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0218,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0218,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0218,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0218,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0218,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0218,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0218,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0218,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0292,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0292,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0292,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0292,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0292,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0292,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0292,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0292,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0292,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0292,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0292,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0292,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0292,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0292,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0292,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0292,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0292,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0292,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0292,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0292,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0292,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0292,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0292,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0292,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0292,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0292,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0292,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0292,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0292,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0292,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0292,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0292,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0292,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0292,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0292,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0292,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0292,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0292,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0292,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0292,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0292,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0292,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0292,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0292,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0292,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0292,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0292,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0292,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0292,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0292,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0293,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0293,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0293,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0293,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0293,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0293,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0293,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0293,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0293,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0293,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0293,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0293,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0293,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0293,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0293,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0293,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0293,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0293,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0293,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0293,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0293,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0293,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0293,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0293,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0293,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0293,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0293,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0293,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0293,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0293,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0293,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0293,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0293,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0293,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0293,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0293,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0293,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0293,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0293,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0293,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0293,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0293,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0293,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0293,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0293,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0293,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0293,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0293,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0293,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0293,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0320,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0320,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0320,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0320,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0320,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0320,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0320,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0320,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0320,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0320,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0320,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0320,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0320,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0320,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0320,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0320,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0320,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0320,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0320,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0320,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0320,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0320,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0320,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0320,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0320,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0320,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0320,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0320,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0320,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0320,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0320,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0320,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0320,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0320,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0320,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0320,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0320,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0320,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0320,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0320,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0320,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0320,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0320,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0320,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0320,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0320,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0320,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0320,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0320,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0320,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0332,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0332,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0332,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0332,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0332,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0332,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0332,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0332,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0332,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0332,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0332,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0332,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0332,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0332,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0332,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0332,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0332,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0332,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0332,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0332,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0332,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0332,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0332,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0332,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0332,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0332,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0332,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0332,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0332,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0332,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0332,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0332,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0332,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0332,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0332,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0332,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0332,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0332,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0332,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0332,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0332,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0332,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0332,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0332,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0332,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0332,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0332,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0332,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0332,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0332,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0334,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0334,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0334,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0334,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0334,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0334,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0334,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0334,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0334,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0334,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0334,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0334,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0334,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0334,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0334,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0334,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0334,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0334,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0334,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0334,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0334,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0334,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0334,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0334,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0334,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0334,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0334,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0334,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0334,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0334,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0334,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0334,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0334,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0334,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0334,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0334,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0334,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0334,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0334,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0334,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0334,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0334,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0334,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0334,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0334,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0334,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0334,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0334,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0334,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0334,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0359,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0359,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0359,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0359,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0359,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0359,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0359,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0359,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0359,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0359,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0359,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0359,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0359,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0359,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0359,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0359,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0359,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0359,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0359,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0359,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0359,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0359,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0359,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0359,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0359,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0359,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0359,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0359,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0359,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0359,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0359,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0359,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0359,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0359,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0359,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0359,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0359,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0359,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0359,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0359,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0359,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0359,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0359,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0359,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0359,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0359,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0359,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0359,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0359,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0359,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0366,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0366,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0366,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0366,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0366,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0366,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0366,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0366,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0366,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0366,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0366,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0366,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0366,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0366,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0366,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0366,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0366,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0366,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0366,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0366,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0366,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0366,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0366,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0366,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0366,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0366,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0366,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0366,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0366,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0366,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0366,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0366,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0366,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0366,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0366,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0366,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0366,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0366,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0366,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0366,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0366,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0366,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0366,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0366,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0366,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0366,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0366,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0366,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0366,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0366,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0371,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0371,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0371,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0371,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0371,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0371,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0371,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0371,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0371,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0371,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0371,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0371,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0371,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0371,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0371,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0371,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0371,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0371,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0371,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0371,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0371,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0371,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0371,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0371,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0371,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0371,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0371,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0371,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0371,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0371,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0371,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0371,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0371,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0371,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0371,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0371,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0371,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0371,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0371,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0371,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0371,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0371,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0371,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0371,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0371,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0371,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0371,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0371,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0371,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0371,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0397,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0397,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0397,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0397,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0397,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0397,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0397,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0397,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0397,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0397,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0397,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0397,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0397,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0397,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0397,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0397,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0397,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0397,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0397,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0397,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0397,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0397,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0397,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0397,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0397,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0397,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0397,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0397,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0397,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0397,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0397,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0397,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0397,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0397,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0397,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0397,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0397,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0397,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0397,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0397,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0397,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0397,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0397,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0397,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0397,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0397,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0397,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0397,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0397,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0397,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0399,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0399,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0399,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0399,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0399,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0399,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0399,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0399,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0399,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0399,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0399,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0399,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0399,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0399,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0399,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0399,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0399,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0399,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0399,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0399,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0399,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0399,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0399,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0399,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0399,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0399,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0399,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0399,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0399,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0399,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0399,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0399,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0399,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0399,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0399,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0399,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0399,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0399,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0399,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0399,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0399,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0399,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0399,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0399,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0399,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0399,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0399,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0399,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0399,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0399,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0428,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0428,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0428,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0428,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0428,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0428,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0428,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0428,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0428,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0428,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0428,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0428,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0428,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0428,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0428,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0428,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0428,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0428,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0428,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0428,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0428,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0428,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0428,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0428,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0428,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0428,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0428,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0428,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0428,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0428,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0428,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0428,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0428,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0428,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0428,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0428,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0428,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0428,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0428,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0428,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0428,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0428,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0428,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0428,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0428,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0428,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0428,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0428,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0428,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0428,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0459,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0459,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0459,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0459,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0459,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0459,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0459,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0459,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0459,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0459,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0459,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0459,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0459,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0459,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0459,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0459,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0459,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0459,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0459,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0459,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0459,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0459,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0459,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0459,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0459,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0459,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0459,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0459,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0459,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0459,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0459,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0459,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0459,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0459,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0459,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0459,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0459,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0459,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0459,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0459,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0459,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0459,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0459,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0459,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0459,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0459,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0459,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0459,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0459,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0459,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0480,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0480,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0480,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0480,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0480,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0480,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0480,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0480,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0480,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0480,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0480,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0480,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0480,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0480,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0480,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0480,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0480,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0480,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0480,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0480,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0480,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0480,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0480,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0480,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0480,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0480,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0480,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0480,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0480,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0480,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0480,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0480,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0480,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0480,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0480,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0480,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0480,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0480,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0480,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0480,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0480,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0480,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0480,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0480,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0480,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0480,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0480,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0480,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0480,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0480,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0504,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0504,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0504,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0504,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0504,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0504,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0504,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0504,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0504,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0504,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0504,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0504,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0504,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0504,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0504,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0504,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0504,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0504,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0504,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0504,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0504,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0504,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0504,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0504,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0504,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0504,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0504,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0504,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0504,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0504,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0504,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0504,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0504,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0504,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0504,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0504,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0504,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0504,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0504,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0504,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0504,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0504,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0504,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0504,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0504,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0504,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0504,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0504,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0504,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0504,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_0546,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_0546,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_0546,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_0546,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_0546,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_0546,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_0546,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_0546,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_0546,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_0546,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_0546,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_0546,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_0546,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_0546,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_0546,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_0546,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_0546,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_0546,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_0546,SPLIT_b64c948e70620340
+Gallic acid,CVCL_0546,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_0546,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_0546,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_0546,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_0546,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_0546,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_0546,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_0546,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_0546,SPLIT_b9220112df3ca295
+LY2090314,CVCL_0546,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_0546,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_0546,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_0546,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_0546,SPLIT_42274ac184213af8
+Methotrexate,CVCL_0546,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_0546,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_0546,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_0546,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_0546,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_0546,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_0546,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_0546,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_0546,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_0546,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_0546,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_0546,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_0546,SPLIT_442bac6c12b414ee
+Thymol,CVCL_0546,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_0546,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_0546,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_0546,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1055,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1055,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1055,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1055,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1055,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1055,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1055,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1055,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1055,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1055,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1055,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1055,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1055,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1055,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1055,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1055,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1055,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1055,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1055,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1055,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1055,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1055,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1055,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1055,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1055,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1055,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1055,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1055,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1055,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1055,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1055,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1055,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1055,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1055,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1055,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1055,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1055,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1055,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1055,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1055,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1055,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1055,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1055,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1055,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1055,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1055,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1055,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1055,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1055,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1055,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1056,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1056,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1056,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1056,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1056,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1056,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1056,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1056,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1056,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1056,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1056,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1056,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1056,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1056,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1056,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1056,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1056,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1056,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1056,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1056,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1056,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1056,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1056,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1056,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1056,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1056,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1056,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1056,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1056,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1056,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1056,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1056,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1056,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1056,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1056,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1056,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1056,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1056,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1056,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1056,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1056,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1056,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1056,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1056,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1056,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1056,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1056,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1056,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1056,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1056,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1094,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1094,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1094,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1094,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1094,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1094,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1094,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1094,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1094,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1094,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1094,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1094,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1094,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1094,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1094,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1094,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1094,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1094,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1094,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1094,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1094,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1094,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1094,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1094,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1094,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1094,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1094,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1094,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1094,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1094,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1094,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1094,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1094,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1094,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1094,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1094,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1094,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1094,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1094,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1094,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1094,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1094,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1094,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1094,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1094,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1094,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1094,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1094,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1094,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1094,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1097,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1097,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1097,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1097,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1097,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1097,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1097,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1097,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1097,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1097,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1097,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1097,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1097,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1097,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1097,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1097,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1097,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1097,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1097,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1097,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1097,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1097,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1097,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1097,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1097,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1097,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1097,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1097,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1097,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1097,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1097,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1097,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1097,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1097,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1097,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1097,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1097,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1097,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1097,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1097,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1097,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1097,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1097,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1097,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1097,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1097,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1097,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1097,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1097,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1097,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1098,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1098,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1098,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1098,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1098,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1098,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1098,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1098,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1098,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1098,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1098,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1098,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1098,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1098,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1098,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1098,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1098,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1098,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1098,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1098,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1098,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1098,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1098,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1098,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1098,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1098,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1098,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1098,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1098,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1098,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1098,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1098,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1098,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1098,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1098,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1098,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1098,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1098,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1098,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1098,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1098,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1098,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1098,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1098,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1098,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1098,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1098,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1098,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1098,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1098,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1119,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1119,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1119,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1119,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1119,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1119,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1119,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1119,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1119,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1119,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1119,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1119,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1119,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1119,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1119,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1119,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1119,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1119,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1119,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1119,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1119,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1119,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1119,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1119,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1119,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1119,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1119,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1119,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1119,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1119,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1119,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1119,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1119,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1119,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1119,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1119,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1119,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1119,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1119,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1119,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1119,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1119,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1119,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1119,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1119,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1119,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1119,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1119,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1119,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1119,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1125,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1125,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1125,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1125,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1125,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1125,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1125,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1125,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1125,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1125,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1125,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1125,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1125,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1125,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1125,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1125,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1125,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1125,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1125,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1125,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1125,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1125,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1125,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1125,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1125,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1125,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1125,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1125,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1125,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1125,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1125,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1125,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1125,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1125,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1125,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1125,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1125,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1125,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1125,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1125,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1125,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1125,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1125,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1125,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1125,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1125,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1125,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1125,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1125,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1125,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1239,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1239,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1239,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1239,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1239,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1239,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1239,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1239,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1239,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1239,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1239,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1239,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1239,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1239,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1239,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1239,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1239,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1239,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1239,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1239,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1239,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1239,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1239,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1239,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1239,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1239,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1239,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1239,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1239,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1239,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1239,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1239,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1239,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1239,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1239,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1239,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1239,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1239,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1239,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1239,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1239,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1239,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1239,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1239,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1239,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1239,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1239,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1239,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1239,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1239,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1285,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1285,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1285,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1285,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1285,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1285,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1285,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1285,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1285,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1285,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1285,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1285,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1285,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1285,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1285,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1285,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1285,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1285,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1285,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1285,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1285,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1285,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1285,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1285,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1285,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1285,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1285,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1285,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1285,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1285,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1285,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1285,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1285,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1285,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1285,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1285,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1285,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1285,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1285,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1285,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1285,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1285,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1285,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1285,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1285,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1285,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1285,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1285,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1285,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1285,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1381,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1381,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1381,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1381,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1381,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1381,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1381,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1381,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1381,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1381,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1381,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1381,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1381,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1381,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1381,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1381,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1381,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1381,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1381,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1381,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1381,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1381,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1381,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1381,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1381,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1381,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1381,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1381,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1381,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1381,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1381,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1381,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1381,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1381,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1381,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1381,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1381,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1381,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1381,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1381,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1381,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1381,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1381,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1381,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1381,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1381,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1381,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1381,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1381,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1381,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1478,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1478,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1478,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1478,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1478,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1478,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1478,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1478,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1478,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1478,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1478,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1478,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1478,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1478,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1478,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1478,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1478,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1478,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1478,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1478,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1478,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1478,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1478,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1478,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1478,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1478,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1478,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1478,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1478,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1478,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1478,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1478,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1478,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1478,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1478,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1478,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1478,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1478,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1478,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1478,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1478,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1478,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1478,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1478,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1478,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1478,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1478,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1478,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1478,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1478,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1495,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1495,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1495,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1495,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1495,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1495,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1495,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1495,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1495,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1495,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1495,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1495,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1495,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1495,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1495,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1495,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1495,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1495,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1495,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1495,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1495,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1495,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1495,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1495,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1495,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1495,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1495,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1495,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1495,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1495,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1495,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1495,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1495,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1495,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1495,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1495,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1495,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1495,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1495,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1495,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1495,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1495,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1495,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1495,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1495,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1495,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1495,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1495,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1495,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1495,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1517,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1517,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1517,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1517,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1517,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1517,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1517,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1517,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1517,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1517,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1517,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1517,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1517,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1517,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1517,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1517,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1517,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1517,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1517,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1517,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1517,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1517,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1517,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1517,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1517,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1517,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1517,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1517,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1517,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1517,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1517,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1517,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1517,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1517,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1517,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1517,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1517,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1517,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1517,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1517,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1517,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1517,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1517,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1517,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1517,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1517,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1517,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1517,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1517,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1517,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1547,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1547,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1547,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1547,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1547,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1547,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1547,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1547,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1547,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1547,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1547,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1547,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1547,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1547,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1547,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1547,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1547,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1547,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1547,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1547,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1547,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1547,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1547,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1547,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1547,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1547,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1547,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1547,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1547,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1547,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1547,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1547,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1547,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1547,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1547,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1547,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1547,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1547,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1547,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1547,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1547,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1547,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1547,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1547,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1547,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1547,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1547,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1547,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1547,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1547,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1550,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1550,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1550,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1550,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1550,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1550,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1550,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1550,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1550,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1550,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1550,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1550,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1550,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1550,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1550,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1550,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1550,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1550,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1550,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1550,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1550,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1550,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1550,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1550,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1550,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1550,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1550,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1550,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1550,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1550,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1550,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1550,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1550,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1550,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1550,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1550,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1550,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1550,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1550,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1550,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1550,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1550,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1550,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1550,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1550,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1550,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1550,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1550,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1550,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1550,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1635,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1635,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1635,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1635,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1635,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1635,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1635,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1635,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1635,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1635,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1635,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1635,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1635,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1635,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1635,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1635,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1635,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1635,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1635,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1635,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1635,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1635,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1635,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1635,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1635,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1635,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1635,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1635,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1635,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1635,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1635,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1635,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1635,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1635,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1635,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1635,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1635,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1635,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1635,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1635,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1635,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1635,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1635,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1635,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1635,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1635,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1635,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1635,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1635,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1635,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1666,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1666,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1666,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1666,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1666,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1666,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1666,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1666,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1666,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1666,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1666,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1666,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1666,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1666,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1666,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1666,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1666,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1666,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1666,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1666,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1666,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1666,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1666,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1666,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1666,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1666,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1666,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1666,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1666,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1666,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1666,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1666,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1666,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1666,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1666,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1666,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1666,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1666,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1666,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1666,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1666,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1666,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1666,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1666,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1666,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1666,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1666,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1666,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1666,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1666,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1693,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1693,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1693,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1693,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1693,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1693,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1693,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1693,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1693,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1693,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1693,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1693,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1693,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1693,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1693,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1693,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1693,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1693,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1693,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1693,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1693,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1693,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1693,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1693,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1693,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1693,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1693,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1693,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1693,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1693,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1693,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1693,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1693,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1693,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1693,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1693,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1693,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1693,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1693,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1693,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1693,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1693,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1693,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1693,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1693,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1693,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1693,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1693,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1693,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1693,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1715,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1715,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1715,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1715,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1715,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1715,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1715,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1715,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1715,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1715,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1715,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1715,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1715,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1715,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1715,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1715,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1715,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1715,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1715,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1715,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1715,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1715,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1715,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1715,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1715,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1715,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1715,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1715,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1715,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1715,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1715,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1715,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1715,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1715,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1715,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1715,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1715,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1715,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1715,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1715,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1715,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1715,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1715,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1715,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1715,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1715,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1715,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1715,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1715,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1715,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1716,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1716,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1716,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1716,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1716,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1716,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1716,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1716,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1716,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1716,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1716,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1716,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1716,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1716,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1716,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1716,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1716,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1716,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1716,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1716,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1716,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1716,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1716,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1716,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1716,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1716,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1716,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1716,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1716,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1716,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1716,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1716,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1716,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1716,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1716,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1716,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1716,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1716,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1716,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1716,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1716,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1716,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1716,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1716,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1716,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1716,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1716,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1716,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1716,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1716,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1717,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1717,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1717,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1717,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1717,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1717,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1717,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1717,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1717,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1717,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1717,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1717,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1717,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1717,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1717,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1717,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1717,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1717,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1717,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1717,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1717,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1717,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1717,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1717,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1717,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1717,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1717,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1717,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1717,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1717,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1717,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1717,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1717,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1717,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1717,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1717,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1717,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1717,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1717,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1717,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1717,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1717,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1717,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1717,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1717,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1717,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1717,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1717,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1717,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1717,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1724,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1724,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1724,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1724,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1724,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1724,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1724,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1724,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1724,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1724,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1724,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1724,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1724,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1724,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1724,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1724,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1724,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1724,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1724,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1724,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1724,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1724,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1724,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1724,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1724,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1724,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1724,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1724,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1724,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1724,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1724,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1724,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1724,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1724,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1724,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1724,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1724,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1724,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1724,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1724,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1724,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1724,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1724,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1724,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1724,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1724,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1724,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1724,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1724,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1724,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_1731,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_1731,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_1731,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_1731,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_1731,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_1731,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_1731,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_1731,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_1731,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_1731,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_1731,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_1731,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_1731,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_1731,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_1731,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_1731,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_1731,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_1731,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_1731,SPLIT_b64c948e70620340
+Gallic acid,CVCL_1731,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_1731,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_1731,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_1731,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_1731,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_1731,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_1731,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_1731,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_1731,SPLIT_b9220112df3ca295
+LY2090314,CVCL_1731,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_1731,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_1731,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_1731,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_1731,SPLIT_42274ac184213af8
+Methotrexate,CVCL_1731,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_1731,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_1731,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_1731,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_1731,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_1731,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_1731,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_1731,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_1731,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_1731,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_1731,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_1731,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_1731,SPLIT_442bac6c12b414ee
+Thymol,CVCL_1731,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_1731,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_1731,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_1731,SPLIT_87ebc9d39bf43132
+9-ING-41,CVCL_C466,SPLIT_f0e16a04288dfd86
+APTO-253,CVCL_C466,SPLIT_2c4151d2fef5fb51
+AZD-8055,CVCL_C466,SPLIT_e8643325ea1d839c
+Abemaciclib,CVCL_C466,SPLIT_fa9d00f6095dfa64
+Aliskiren,CVCL_C466,SPLIT_442bac6c12b414ee
+Aspirin,CVCL_C466,SPLIT_442bac6c12b414ee
+Bestatin (hydrochloride),CVCL_C466,SPLIT_442bac6c12b414ee
+Bimatoprost,CVCL_C466,SPLIT_39eea9c428acee86
+Cabozantinib (S-malate),CVCL_C466,SPLIT_13e0f1b8fe5ea113
+Captopril,CVCL_C466,SPLIT_50bd907c61060f86
+Carbidopa (monohydrate),CVCL_C466,SPLIT_442bac6c12b414ee
+Clotrimazole,CVCL_C466,SPLIT_caccf13d789b6369
+Drospirenone,CVCL_C466,SPLIT_499a8b0a063e8610
+Eplerenone,CVCL_C466,SPLIT_990d5aa94a95b9c1
+Erdafitinib,CVCL_C466,SPLIT_5dd608ccba9216a7
+Esmolol (hydrochloride),CVCL_C466,SPLIT_442bac6c12b414ee
+Fluvoxamine (maleate),CVCL_C466,SPLIT_442bac6c12b414ee
+Folic acid,CVCL_C466,SPLIT_e2b9b433dd782c09
+Fusidic acid,CVCL_C466,SPLIT_b64c948e70620340
+Gallic acid,CVCL_C466,SPLIT_442bac6c12b414ee
+Gallic acid (hydrate),CVCL_C466,SPLIT_442bac6c12b414ee
+Gefitinib,CVCL_C466,SPLIT_ef7fa551cc9153d0
+Gemfibrozil,CVCL_C466,SPLIT_442bac6c12b414ee
+Hexylresorcinol,CVCL_C466,SPLIT_442bac6c12b414ee
+Irinotecan,CVCL_C466,SPLIT_4221722b5c444188
+Irinotecan (hydrochloride),CVCL_C466,SPLIT_4221722b5c444188
+Ivabradine (hydrochloride),CVCL_C466,SPLIT_1b8f4b5f021bcf9d
+LB-100,CVCL_C466,SPLIT_b9220112df3ca295
+LY2090314,CVCL_C466,SPLIT_e94abafa62cafeab
+Lidocaine (hydrochloride),CVCL_C466,SPLIT_442bac6c12b414ee
+Mebendazole,CVCL_C466,SPLIT_9eb84c1309f52a1f
+Medroxyprogesterone acetate,CVCL_C466,SPLIT_604ad0d0505383a1
+Megestrol,CVCL_C466,SPLIT_42274ac184213af8
+Methotrexate,CVCL_C466,SPLIT_e2b9b433dd782c09
+Nevirapine,CVCL_C466,SPLIT_976eede7c8d766ed
+Norepinephrine (hydrochloride),CVCL_C466,SPLIT_442bac6c12b414ee
+Orlistat,CVCL_C466,SPLIT_bf59456827a99ad9
+Pasireotide (acetate),CVCL_C466,SPLIT_ae3082509cf088e1
+Perindopril (erbumine),CVCL_C466,SPLIT_a6d08a4722a7dded
+Phenylephrine (hydrochloride),CVCL_C466,SPLIT_442bac6c12b414ee
+Proglumide,CVCL_C466,SPLIT_442bac6c12b414ee
+Pyridoxine,CVCL_C466,SPLIT_6b94c69b90ffdc33
+Pyridoxine (hydrochloride),CVCL_C466,SPLIT_6b94c69b90ffdc33
+RMC-6236,CVCL_C466,SPLIT_5cec1e3a7e4506ef
+Salicylic acid,CVCL_C466,SPLIT_442bac6c12b414ee
+Sodium Salicylate,CVCL_C466,SPLIT_442bac6c12b414ee
+Thymol,CVCL_C466,SPLIT_442bac6c12b414ee
+Topotecan (hydrochloride),CVCL_C466,SPLIT_4221722b5c444188
+Vemurafenib,CVCL_C466,SPLIT_08a1977a3af0c490
+venetoclax,CVCL_C466,SPLIT_87ebc9d39bf43132

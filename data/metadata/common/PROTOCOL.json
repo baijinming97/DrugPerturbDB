@@ -1,0 +1,15 @@
+{
+  "task": "FULL_DATASET_FIGURES_V1",
+  "GPU": 0,
+  "public_scope": "fixed releases; all QC-eligible compounds/cells/doses/times; no Tahoe identity-intersection filtering",
+  "Tahoe_scope": "existing role owner TRAIN-only, excluded TEST; disclose total/retained and dose coverage",
+  "fig1": "independent repeat per exact drug/cell/dose/time and disjoint recorded controls; absolute post-treatment vs control-difference; all native measured genes and recomputed common axis; split-cell technical repeat separate; L5 consensus not called individual replicate",
+  "fig3": "complete balanced panels have orthogonal mu/alpha/beta/gamma; whole sparse panels use additive least-squares with order-symmetric main-effect energy allocation, explicitly distinct from orthogonal factorial identity; show identifiable subset, uncovered edges and design connectivity; no zero fill",
+  "intersections": "pairwise exact chemical identity and Cellosaurus; exact time and dose ratio <=2; re-decompose each matched panel; gene masks, not zero imputation",
+  "weights": "full native descriptive drug equal, cell equal conditional on available support; pairwise matched identical support weights; chemical cluster bootstrap when metadata permits, otherwise explicitly drug-cluster bootstrap",
+  "bootstrap_replicates": 2000,
+  "no_training": true,
+  "frozen_assets_readonly": true,
+  "normalization": "RNA count: log2(CPM+1), sensitivity +100; library denominator native measured counts; L1000 L3 native normalized values; L5 separately standardized consensus; NCI author normalized log2 array expression; cannot compare absolute units across technologies",
+  "scope_integrity": "source->QC->analysis counts and exclusions; report all failed sources; avoid silently labeling retained Tahoe-matched subsets full"
+}

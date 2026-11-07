@@ -1,0 +1,70 @@
+[
+  {
+    "file": "updated_inputs/figures/fig1a_expression.csv",
+    "sha256": "85c7947223e2d6803db04740dfa709e4d4ce2995e60fba9bd0cc5b71c96c26d9"
+  },
+  {
+    "file": "updated_inputs/figures/fig1b_response.csv",
+    "sha256": "544acb0570d5b67a8da713fdd1d39c2d0c0f394ffb6a7279ac0406d04def783d"
+  },
+  {
+    "file": "updated_inputs/figures/fig2a_direct.csv",
+    "sha256": "1131450c611d766ca545206bf59430f4edb176c597396315b2678d92eb887fbb"
+  },
+  {
+    "file": "updated_inputs/figures/fig2b_auc.csv",
+    "sha256": "1131450c611d766ca545206bf59430f4edb176c597396315b2678d92eb887fbb"
+  },
+  {
+    "file": "updated_inputs/figures/fig2c_complete_strict.csv",
+    "sha256": "f494fb033a4a907c1f1c182355e3ff2c5967de2b2c5fc5fee65c71e517332d59"
+  },
+  {
+    "file": "updated_inputs/figures/fig2d_cell_averaged.csv",
+    "sha256": "6ba69ae2efdb4ff3e2e36bd063940fb7bcbc65b82e38bbbb61926f97edf38a89"
+  },
+  {
+    "file": "updated_inputs/figures/fig2_multiview_display.csv",
+    "sha256": "a4b4aff0860592e010ae5eb72724530cbfa98850f81b168cb2c3d14688b8c730"
+  },
+  {
+    "file": "updated_inputs/figures/fig3a_full.csv",
+    "sha256": "de79936ce947af7aa0cb54bf1218d31e9e328c79d6fc2979f9d8addf06d17ec4"
+  },
+  {
+    "file": "evidence_inputs/PAPER_TWO_CHECKS_V1/results/exp1/MATCHED_RELIABILITY.csv",
+    "sha256": "2e1b1d5d0724940202344b87175e3cd5f13a11f76fc3342c92361fcc08a785c7"
+  },
+  {
+    "file": "evidence_inputs/PAPER_TWO_CHECKS_V1/results/exp2/WITHIN_CROSS_PLATE.csv",
+    "sha256": "2094ae428b42775242a30e6f8f236537f8c66a91e79a0336b1b730ffc407f473"
+  },
+  {
+    "file": "evidence_inputs/PREPRINT_FULL_DATA_V1/evidence_model/BASELINE_STORED.csv",
+    "sha256": "4d444ffff5067252c7b18d0244765fcd1f76dc735303ccb89a6356ce627cba0d"
+  },
+  {
+    "file": "evidence_inputs/PREPRINT_FULL_DATA_V1/evidence_model/FOUR_COMPONENT_COMPARISON.csv",
+    "sha256": "e3bf229fe05c6f8067ef956013f0c1c89207215c6c67e921e94a22206a44ccbf"
+  },
+  {
+    "file": "evidence_inputs/PREPRINT_FULL_DATA_V1/evidence_model/PRIMARY_ORACLE_DIAGNOSTIC.csv",
+    "sha256": "1dfbc5fef2e7d46b2f6e5e22602e3ca99336b9cc514ed3e7f9caf1b508f4b5c7"
+  },
+  {
+    "file": "evidence_inputs/SUPPLEMENT_ONLY_REVIEW_V4_20261102/data/S4B.csv",
+    "sha256": "f5aa27414fd5d0b4fdbb981dd880117c2cea09ade17894a6b4dc3331a226cc80"
+  },
+  {
+    "file": "evidence_inputs/SUPPLEMENT_ONLY_REVIEW_V4_20261102/data/S4_attempt_results.csv",
+    "sha256": "3345f4bc48630149df71ef352dffbd62a8c1480bb541ca1d7c0eb2d8279fc5f7"
+  },
+  {
+    "file": "evidence_inputs/SUPPLEMENT_REVIEW_V2_20261102/data/S2.csv",
+    "sha256": "431f3b5a8bdf715518364697d19fc71dc8c62a159e7d66f99b5ed9c4bdf3f1fc"
+  },
+  {
+    "file": "inputs/EXPLORATORY_CONFIGURATIONS.csv",
+    "sha256": "3ed1a5b8ae1eec7f32af9fe25ad80d65836ba06c93451bb2afe5f8813018b729"
+  }
+]

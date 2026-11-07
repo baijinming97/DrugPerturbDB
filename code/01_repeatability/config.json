@@ -1,0 +1,148 @@
+{
+  "description": "Independent repeatability of treated expression and drug-induced changes",
+  "stages": [
+    {
+      "id": "DRUGseq",
+      "calls": [
+        {
+          "file": "code/01_repeatability/analyze_source.py",
+          "args": [
+            "DRUGseq"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/data/DRUGseq.h5",
+        "FULL_DATASET_FIGURES_V1/data/DRUGseq_META.parquet",
+        "FULL_DATASET_FIGURES_V1/COMMON_GENES.json"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/results/DRUGseq*.csv*",
+        "FULL_DATASET_FIGURES_V1/receipts/DRUGseq_ANALYZED.json"
+      ]
+    },
+    {
+      "id": "CIGS",
+      "calls": [
+        {
+          "file": "code/01_repeatability/analyze_source.py",
+          "args": [
+            "CIGS"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/data/CIGS.h5",
+        "FULL_DATASET_FIGURES_V1/data/CIGS_META.parquet",
+        "FULL_DATASET_FIGURES_V1/COMMON_GENES.json"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/results/CIGS*.csv*",
+        "FULL_DATASET_FIGURES_V1/receipts/CIGS_ANALYZED.json"
+      ]
+    },
+    {
+      "id": "sciPlex3",
+      "calls": [
+        {
+          "file": "code/01_repeatability/analyze_source.py",
+          "args": [
+            "sciPlex3"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/data/sciPlex3.h5",
+        "FULL_DATASET_FIGURES_V1/data/sciPlex3_META.parquet",
+        "FULL_DATASET_FIGURES_V1/COMMON_GENES.json"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/results/sciPlex3*.csv*",
+        "FULL_DATASET_FIGURES_V1/receipts/sciPlex3_ANALYZED.json"
+      ]
+    },
+    {
+      "id": "MIXseq",
+      "calls": [
+        {
+          "file": "code/01_repeatability/analyze_source.py",
+          "args": [
+            "MIXseq"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/data/MIXseq.h5",
+        "FULL_DATASET_FIGURES_V1/data/MIXseq_META.parquet",
+        "FULL_DATASET_FIGURES_V1/COMMON_GENES.json"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/results/MIXseq*.csv*",
+        "FULL_DATASET_FIGURES_V1/receipts/MIXseq_ANALYZED.json"
+      ]
+    },
+    {
+      "id": "L1000_L3",
+      "calls": [
+        {
+          "file": "code/01_repeatability/analyze_source.py",
+          "args": [
+            "L1000_L3"
+          ]
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/data/L1000_L3.h5",
+        "FULL_DATASET_FIGURES_V1/data/L1000_L3_META.parquet",
+        "FULL_DATASET_FIGURES_V1/COMMON_GENES.json"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/results/L1000_L3*.csv*",
+        "FULL_DATASET_FIGURES_V1/receipts/L1000_L3_ANALYZED.json"
+      ]
+    },
+    {
+      "id": "DRUGseq_paired_support",
+      "calls": [
+        {
+          "file": "code/01_repeatability/repair_repeat_support.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "FULL_DATASET_FIGURES_V1/data/DRUGseq.h5",
+        "FULL_DATASET_FIGURES_V1/data/DRUGseq_META.parquet",
+        "FULL_DATASET_FIGURES_V1/COMMON_GENES.json",
+        "FULL_DATASET_FIGURES_V1/results/DRUGseq_REPEAT_CONDITIONS.csv.gz",
+        "FULL_DATASET_FIGURES_V1/results/DRUGseq_REPEAT_SUMMARY.csv"
+      ],
+      "outputs": [
+        "FULL_DATASET_FIGURES_V1/receipts/REPEAT_SUPPORT_REPAIR.json"
+      ],
+      "note": "Required paired-support correction of generated repeat tables, preserving the initial tables under distinct names. Does not modify supplied result references."
+    },
+    {
+      "id": "Tahoe",
+      "calls": [
+        {
+          "file": "code/01_repeatability/tahoe_repeats.py",
+          "args": []
+        }
+      ],
+      "requires": [
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_00-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_01-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_02-of-04.h5",
+        "baicai/canonical_perturbation_data_v1/tahoe/tmp/pdex_values_paper4_03-of-04.h5",
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/metadata/Tahoe_REPLICATE_ELIGIBLE.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/condition_manifest.parquet",
+        "baicai/canonical_perturbation_data_v1/tahoe/data/gene_axis.parquet",
+        "FULL_DATASET_FIGURES_V1/COMMON_GENES.json"
+      ],
+      "outputs": [
+        "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/results/Tahoe_REPEAT_SUMMARY.csv"
+      ],
+      "note": "All independent plate pairs are recalculated from freshly reconstructed physical-plate profiles."
+    }
+  ]
+}

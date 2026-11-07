@@ -1,0 +1,233 @@
+fold,role,drug,group
+0,VALID,8-Hydroxyquinoline,SPLIT_8ce9edfddb4e7010
+0,VALID,Abiraterone acetate,SPLIT_da79ecbb55d4842b
+0,VALID,Acetazolamide,SPLIT_6484e239d3664917
+0,VALID,Allopurinol,SPLIT_585c161858768ffd
+0,VALID,Almonertinib (hydrochloride),SPLIT_fcd599fd9acb8d92
+0,VALID,Almonertinib (mesylate),SPLIT_fcd599fd9acb8d92
+0,VALID,Auranofin,SPLIT_c5ee65701300ad96
+0,VALID,Azithromycin (hydrate),SPLIT_07440ed05fb870ad
+0,VALID,Belinostat,SPLIT_2db7a02dbca25245
+0,VALID,Bicalutamide,SPLIT_2adcf441506ca5c9
+0,VALID,Binimetinib,SPLIT_b4dc4089ddee2932
+0,VALID,Budesonide,SPLIT_7062ea7dfed57d8c
+0,VALID,Cilostazol,SPLIT_918d4f90a6c23464
+0,VALID,Cysteamine (hydrochloride),SPLIT_cb0ffef87917f5d6
+0,VALID,Delamanid,SPLIT_70c560922906938e
+0,VALID,Dimethyl fumarate,SPLIT_1ceb2dcd846d174b
+0,VALID,Dorzolamide (hydrochloride),SPLIT_61f6b3d33f5fb1b0
+0,VALID,Drospirenone,SPLIT_499a8b0a063e8610
+0,VALID,Edoxaban (tosylate monohydrate),SPLIT_32e10d66ec921758
+0,VALID,Erythromycin,SPLIT_07440ed05fb870ad
+0,VALID,GSK1059615,SPLIT_a755207560355037
+0,VALID,Isocorydine,SPLIT_75a79e6107ba063f
+0,VALID,L-Eflornithine (monohydrochloride),SPLIT_a0432cf741f94bee
+0,VALID,Lactate (calcium),SPLIT_93463e5f1e3e3e46
+0,VALID,Larotrectinib,SPLIT_7ec93d1a24d130da
+0,VALID,Larotrectinib sulfate,SPLIT_7ec93d1a24d130da
+0,VALID,ML264,SPLIT_852ab451ca2aeb2c
+0,VALID,Methylthiouracil,SPLIT_b7602e5a19f73a1b
+0,VALID,Omeprazole,SPLIT_d2d6dcb860ff4934
+0,VALID,Pasireotide (acetate),SPLIT_ae3082509cf088e1
+0,VALID,Pyridoxine,SPLIT_6b94c69b90ffdc33
+0,VALID,Pyridoxine (hydrochloride),SPLIT_6b94c69b90ffdc33
+0,VALID,Ralimetinib dimesylate,SPLIT_99ce75ac584825a3
+0,VALID,Ranolazine,SPLIT_10680a6422d4a243
+0,VALID,Ritonavir,SPLIT_00c1ccb790a0aa13
+0,VALID,Sivelestat (sodium tetrahydrate),SPLIT_2db7a02dbca25245
+0,VALID,Tolcapone,SPLIT_708379e3faa02974
+0,VALID,Tomivosertib,SPLIT_a3ab30cb7545a357
+0,VALID,Tucatinib,SPLIT_bd9be7013c09eb50
+0,VALID,Vinblastine (sulfate),SPLIT_b6d1dfea9e5e2c7f
+0,VALID,Voriconazole,SPLIT_1259ddd9fc0f1228
+0,VALID,Zileuton,SPLIT_bfb6ca43218328f5
+0,VALID,venetoclax,SPLIT_87ebc9d39bf43132
+1,VALID,9-ING-41,SPLIT_f0e16a04288dfd86
+1,VALID,APTO-253,SPLIT_2c4151d2fef5fb51
+1,VALID,AZD-8055,SPLIT_e8643325ea1d839c
+1,VALID,Abemaciclib,SPLIT_fa9d00f6095dfa64
+1,VALID,Aliskiren,SPLIT_442bac6c12b414ee
+1,VALID,Aspirin,SPLIT_442bac6c12b414ee
+1,VALID,Bestatin (hydrochloride),SPLIT_442bac6c12b414ee
+1,VALID,Bimatoprost,SPLIT_39eea9c428acee86
+1,VALID,Cabozantinib (S-malate),SPLIT_13e0f1b8fe5ea113
+1,VALID,Captopril,SPLIT_50bd907c61060f86
+1,VALID,Carbidopa (monohydrate),SPLIT_442bac6c12b414ee
+1,VALID,Clotrimazole,SPLIT_caccf13d789b6369
+1,VALID,Drospirenone,SPLIT_499a8b0a063e8610
+1,VALID,Eplerenone,SPLIT_990d5aa94a95b9c1
+1,VALID,Erdafitinib,SPLIT_5dd608ccba9216a7
+1,VALID,Esmolol (hydrochloride),SPLIT_442bac6c12b414ee
+1,VALID,Fluvoxamine (maleate),SPLIT_442bac6c12b414ee
+1,VALID,Folic acid,SPLIT_e2b9b433dd782c09
+1,VALID,Fusidic acid,SPLIT_b64c948e70620340
+1,VALID,Gallic acid,SPLIT_442bac6c12b414ee
+1,VALID,Gallic acid (hydrate),SPLIT_442bac6c12b414ee
+1,VALID,Gefitinib,SPLIT_ef7fa551cc9153d0
+1,VALID,Gemfibrozil,SPLIT_442bac6c12b414ee
+1,VALID,Hexylresorcinol,SPLIT_442bac6c12b414ee
+1,VALID,Irinotecan,SPLIT_4221722b5c444188
+1,VALID,Irinotecan (hydrochloride),SPLIT_4221722b5c444188
+1,VALID,Ivabradine (hydrochloride),SPLIT_1b8f4b5f021bcf9d
+1,VALID,LB-100,SPLIT_b9220112df3ca295
+1,VALID,LY2090314,SPLIT_e94abafa62cafeab
+1,VALID,Lidocaine (hydrochloride),SPLIT_442bac6c12b414ee
+1,VALID,Mebendazole,SPLIT_9eb84c1309f52a1f
+1,VALID,Medroxyprogesterone acetate,SPLIT_604ad0d0505383a1
+1,VALID,Megestrol,SPLIT_42274ac184213af8
+1,VALID,Methotrexate,SPLIT_e2b9b433dd782c09
+1,VALID,Nevirapine,SPLIT_976eede7c8d766ed
+1,VALID,Norepinephrine (hydrochloride),SPLIT_442bac6c12b414ee
+1,VALID,Orlistat,SPLIT_bf59456827a99ad9
+1,VALID,Pasireotide (acetate),SPLIT_ae3082509cf088e1
+1,VALID,Perindopril (erbumine),SPLIT_a6d08a4722a7dded
+1,VALID,Phenylephrine (hydrochloride),SPLIT_442bac6c12b414ee
+1,VALID,Proglumide,SPLIT_442bac6c12b414ee
+1,VALID,Pyridoxine,SPLIT_6b94c69b90ffdc33
+1,VALID,Pyridoxine (hydrochloride),SPLIT_6b94c69b90ffdc33
+1,VALID,RMC-6236,SPLIT_5cec1e3a7e4506ef
+1,VALID,Salicylic acid,SPLIT_442bac6c12b414ee
+1,VALID,Sodium Salicylate,SPLIT_442bac6c12b414ee
+1,VALID,Thymol,SPLIT_442bac6c12b414ee
+1,VALID,Topotecan (hydrochloride),SPLIT_4221722b5c444188
+1,VALID,Vemurafenib,SPLIT_08a1977a3af0c490
+1,VALID,venetoclax,SPLIT_87ebc9d39bf43132
+2,VALID,18β-Glycyrrhetinic acid,SPLIT_978b3acde0312499
+2,VALID,Acetazolamide,SPLIT_6484e239d3664917
+2,VALID,Almonertinib (hydrochloride),SPLIT_fcd599fd9acb8d92
+2,VALID,Almonertinib (mesylate),SPLIT_fcd599fd9acb8d92
+2,VALID,Aprepitant,SPLIT_9b5b581313891daf
+2,VALID,Artemether,SPLIT_1f2f176601fcd93e
+2,VALID,Artesunate,SPLIT_1f2f176601fcd93e
+2,VALID,Atazanavir (sulfate),SPLIT_d2f6231793f35a9a
+2,VALID,Balsalazide (sodium hydrate),SPLIT_a6dd2175c25515ba
+2,VALID,Bentamapimod,SPLIT_1d1d90152b5f3bcd
+2,VALID,Berberine (chloride hydrate),SPLIT_fb45fde951c97b17
+2,VALID,Bexarotene,SPLIT_d39f6d21b44c44a0
+2,VALID,Captopril,SPLIT_50bd907c61060f86
+2,VALID,Cyclosporin A,SPLIT_309a3edc3a44a3f6
+2,VALID,Darinaparsin,SPLIT_c74f147dc38aae77
+2,VALID,Darolutamide,SPLIT_ea5b58e8d4e34c2d
+2,VALID,Dimethyl fumarate,SPLIT_1ceb2dcd846d174b
+2,VALID,Diphenhydramine,SPLIT_0260c9f81bfa5c51
+2,VALID,Drospirenone,SPLIT_499a8b0a063e8610
+2,VALID,Filgotinib,SPLIT_c970a6a3e039b4ea
+2,VALID,Harringtonine,SPLIT_7717b0e63e604314
+2,VALID,Irinotecan,SPLIT_4221722b5c444188
+2,VALID,Irinotecan (hydrochloride),SPLIT_4221722b5c444188
+2,VALID,L-Thyroxine (sodium salt pentahydrate),SPLIT_ef3b55af124f9c46
+2,VALID,Lapatinib ditosylate,SPLIT_8b719061a3072df7
+2,VALID,Lenalidomide (hemihydrate),SPLIT_553a2fa0631bc783
+2,VALID,Lipoic acid,SPLIT_828b63e0db45ee34
+2,VALID,Lucanthone,SPLIT_7a7539700415e863
+2,VALID,Lumateperone (tosylate),SPLIT_56a09fc27c1acc1f
+2,VALID,Orlistat,SPLIT_bf59456827a99ad9
+2,VALID,Palmatine (chloride),SPLIT_fb45fde951c97b17
+2,VALID,Pioglitazone,SPLIT_a2e2add28fff77a2
+2,VALID,Pravastatin (sodium),SPLIT_5907ac3a14abc553
+2,VALID,Ranolazine,SPLIT_10680a6422d4a243
+2,VALID,Regorafenib,SPLIT_14acc8194cf90164
+2,VALID,Terfenadine,SPLIT_a8caae788cb35a3e
+2,VALID,Topotecan (hydrochloride),SPLIT_4221722b5c444188
+2,VALID,Tranilast,SPLIT_4649d4cc2ffdad19
+2,VALID,Triclosan,SPLIT_ef3b55af124f9c46
+2,VALID,Tucidinostat,SPLIT_a22a0a87cd602324
+2,VALID,Vilanterol,SPLIT_95af2bb5e143a6e0
+2,VALID,Zileuton,SPLIT_bfb6ca43218328f5
+3,VALID,5-Fluorouracil,SPLIT_d6033ec7001fc262
+3,VALID,9-ING-41,SPLIT_f0e16a04288dfd86
+3,VALID,Almonertinib (hydrochloride),SPLIT_fcd599fd9acb8d92
+3,VALID,Almonertinib (mesylate),SPLIT_fcd599fd9acb8d92
+3,VALID,Altretamine,SPLIT_96c94581d6ce9896
+3,VALID,Amsacrine,SPLIT_7531719c96496d80
+3,VALID,Anastrozole,SPLIT_fb4ca9cc43284ecc
+3,VALID,Arbutin,SPLIT_d0375460351dbb83
+3,VALID,Ataluren,SPLIT_0d60a1c912ea7ed9
+3,VALID,Auranofin,SPLIT_c5ee65701300ad96
+3,VALID,Berberine (chloride hydrate),SPLIT_fb45fde951c97b17
+3,VALID,Bimiralisib,SPLIT_4041da0916255c87
+3,VALID,Cinacalcet,SPLIT_7d2735e41168b024
+3,VALID,Citalopram (hydrobromide),SPLIT_45d841de91b45618
+3,VALID,Cysteamine (hydrochloride),SPLIT_cb0ffef87917f5d6
+3,VALID,Daidzin,SPLIT_d0375460351dbb83
+3,VALID,ETC-206,SPLIT_8db7181d0ef949e8
+3,VALID,Entecavir (monohydrate),SPLIT_2df4871f7b60714c
+3,VALID,Eplerenone,SPLIT_990d5aa94a95b9c1
+3,VALID,Fusidic acid,SPLIT_b64c948e70620340
+3,VALID,Indacaterol (maleate),SPLIT_da7ca0ef30333224
+3,VALID,L-Thyroxine (sodium salt pentahydrate),SPLIT_ef3b55af124f9c46
+3,VALID,LB-100,SPLIT_b9220112df3ca295
+3,VALID,Lactate (calcium),SPLIT_93463e5f1e3e3e46
+3,VALID,Malotilate,SPLIT_7917eba5b1eef743
+3,VALID,Megestrol,SPLIT_42274ac184213af8
+3,VALID,Minodronic acid,SPLIT_955c245506a01212
+3,VALID,Omeprazole,SPLIT_d2d6dcb860ff4934
+3,VALID,Ornidazole,SPLIT_88bd21d4f13911c2
+3,VALID,Palmatine (chloride),SPLIT_fb45fde951c97b17
+3,VALID,Pasireotide (acetate),SPLIT_ae3082509cf088e1
+3,VALID,Pimozide,SPLIT_288cf7170a11d353
+3,VALID,Pioglitazone,SPLIT_a2e2add28fff77a2
+3,VALID,Resveratrol,SPLIT_c4528c271a356996
+3,VALID,Tolcapone,SPLIT_708379e3faa02974
+3,VALID,Triclosan,SPLIT_ef3b55af124f9c46
+3,VALID,Tucatinib,SPLIT_bd9be7013c09eb50
+3,VALID,Vemurafenib,SPLIT_08a1977a3af0c490
+4,VALID,8-Hydroxyquinoline,SPLIT_8ce9edfddb4e7010
+4,VALID,Afatinib,SPLIT_d21bd216ee25b7da
+4,VALID,Aliskiren,SPLIT_442bac6c12b414ee
+4,VALID,Altretamine,SPLIT_96c94581d6ce9896
+4,VALID,Anastrozole,SPLIT_fb4ca9cc43284ecc
+4,VALID,Aspirin,SPLIT_442bac6c12b414ee
+4,VALID,Berberine (chloride hydrate),SPLIT_fb45fde951c97b17
+4,VALID,Bestatin (hydrochloride),SPLIT_442bac6c12b414ee
+4,VALID,Betamethasone dipropionate,SPLIT_8fa989a53f8e5a8a
+4,VALID,Bexarotene,SPLIT_d39f6d21b44c44a0
+4,VALID,Bimiralisib,SPLIT_4041da0916255c87
+4,VALID,Carbidopa (monohydrate),SPLIT_442bac6c12b414ee
+4,VALID,Chlorhexidine (diacetate),SPLIT_a80ac7e46b5f5fcb
+4,VALID,Clonidine (hydrochloride),SPLIT_b95b36897c9ad11e
+4,VALID,Clopidogrel,SPLIT_f12cf86f6e5e473f
+4,VALID,Clotrimazole,SPLIT_caccf13d789b6369
+4,VALID,Delamanid,SPLIT_70c560922906938e
+4,VALID,ETC-206,SPLIT_8db7181d0ef949e8
+4,VALID,Esmolol (hydrochloride),SPLIT_442bac6c12b414ee
+4,VALID,Filgotinib,SPLIT_c970a6a3e039b4ea
+4,VALID,Fluvoxamine (maleate),SPLIT_442bac6c12b414ee
+4,VALID,Fusidic acid,SPLIT_b64c948e70620340
+4,VALID,Gallic acid,SPLIT_442bac6c12b414ee
+4,VALID,Gallic acid (hydrate),SPLIT_442bac6c12b414ee
+4,VALID,Gemfibrozil,SPLIT_442bac6c12b414ee
+4,VALID,Hexylresorcinol,SPLIT_442bac6c12b414ee
+4,VALID,L-Thyroxine (sodium salt pentahydrate),SPLIT_ef3b55af124f9c46
+4,VALID,Lactate (calcium),SPLIT_93463e5f1e3e3e46
+4,VALID,Lidocaine (hydrochloride),SPLIT_442bac6c12b414ee
+4,VALID,Lumateperone (tosylate),SPLIT_56a09fc27c1acc1f
+4,VALID,Methyl aminolevulinate (hydrochloride),SPLIT_a30186631d7c8c19
+4,VALID,Methylprednisolone succinate,SPLIT_8fa989a53f8e5a8a
+4,VALID,Methylthiouracil,SPLIT_b7602e5a19f73a1b
+4,VALID,Norepinephrine (hydrochloride),SPLIT_442bac6c12b414ee
+4,VALID,Oxaliplatin,SPLIT_11c8a233f37f6cc9
+4,VALID,Palmatine (chloride),SPLIT_fb45fde951c97b17
+4,VALID,Panobinostat,SPLIT_7fa4cef57dea157e
+4,VALID,Pasireotide (acetate),SPLIT_ae3082509cf088e1
+4,VALID,Pentamidine (isethionate),SPLIT_fa7ca714dec8ba59
+4,VALID,Pentoxifylline,SPLIT_9a5f32860afbf07d
+4,VALID,Perindopril (erbumine),SPLIT_a6d08a4722a7dded
+4,VALID,Phenylephrine (hydrochloride),SPLIT_442bac6c12b414ee
+4,VALID,Pimozide,SPLIT_288cf7170a11d353
+4,VALID,Proglumide,SPLIT_442bac6c12b414ee
+4,VALID,Ralimetinib dimesylate,SPLIT_99ce75ac584825a3
+4,VALID,Retinoic acid,SPLIT_0fd63918999e50b2
+4,VALID,Salicylic acid,SPLIT_442bac6c12b414ee
+4,VALID,Sapanisertib,SPLIT_57c3bd71e2ddc75f
+4,VALID,Sinomenine,SPLIT_a431bb6ae29a998f
+4,VALID,Sodium Salicylate,SPLIT_442bac6c12b414ee
+4,VALID,Thymol,SPLIT_442bac6c12b414ee
+4,VALID,Tolcapone,SPLIT_708379e3faa02974
+4,VALID,Triamcinolone,SPLIT_8fa989a53f8e5a8a
+4,VALID,Triclosan,SPLIT_ef3b55af124f9c46
+4,VALID,Tucidinostat,SPLIT_a22a0a87cd602324
+4,VALID,Vandetanib,SPLIT_1919898d56cb7b5b
+4,VALID,Vilanterol,SPLIT_95af2bb5e143a6e0
+4,VALID,Vitamin K4,SPLIT_9db66c4fb263dc95
+4,VALID,Voriconazole,SPLIT_1259ddd9fc0f1228

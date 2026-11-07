@@ -1,0 +1,164 @@
+[
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/A_f0_TRAIN.npz",
+    "bytes": 163077448,
+    "mtime_ns_before": 1791486817682093922,
+    "sha256": "1e678b244314a62acb90f233c6ec08fc0a6bd711050132a5d23c2f715593b1a0"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/A_f0_VALID.npz",
+    "bytes": 41469830,
+    "mtime_ns_before": 1791486820844267214,
+    "sha256": "123cbe7cf38de4087b893e94c3185ea413e13b3b4f57cbd657cccfa3f479df17"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/A_f1_TRAIN.npz",
+    "bytes": 154357308,
+    "mtime_ns_before": 1791486841025778191,
+    "sha256": "b358fae7b700843b0a330b64ce0e0028643e208ed38eb9b93893ce8966c09c21"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/A_f1_VALID.npz",
+    "bytes": 48166282,
+    "mtime_ns_before": 1791486844742651865,
+    "sha256": "402ec7ed90f8d4672b36cba4b8aac62a9a6970a12cdb63b6f9cf9b93dba3fa93"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/A_f2_TRAIN.npz",
+    "bytes": 162007615,
+    "mtime_ns_before": 1791486865647670112,
+    "sha256": "733e5268b12d28fecdde5b71d5b3a4c728fa6e6c1fee608862555ba3ea21f110"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/A_f2_VALID.npz",
+    "bytes": 41211087,
+    "mtime_ns_before": 1791486868795178697,
+    "sha256": "0f2506f93cc1e77e3a9856115e970599059f0e33734a38e59070f4189bd816aa"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/A_f3_TRAIN.npz",
+    "bytes": 165036391,
+    "mtime_ns_before": 1791486890567842315,
+    "sha256": "20e6752df0fe4fd1064236c98a1f6e71aaabe867ba970e10cb190937d9b096e2"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/A_f3_VALID.npz",
+    "bytes": 37333045,
+    "mtime_ns_before": 1791486893441234250,
+    "sha256": "337d1bab9a6e3a5e0dc0d9de0e33a9227bec1d7b11318b1fcd425fba6e59f9c2"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/A_f4_TRAIN.npz",
+    "bytes": 150133494,
+    "mtime_ns_before": 1791486912916678324,
+    "sha256": "0a6fe06435d03c820b86cd78d578327b9fa8e322868b1d4fe342abf807dce3b1"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/A_f4_VALID.npz",
+    "bytes": 57518921,
+    "mtime_ns_before": 1791486917269623652,
+    "sha256": "9f1b6c499c756f091ed32a5fa375457ca6cdaf61dc198f8057f02c6731b4eaaf"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/canonical_perturbation_data_v1/tahoe/data/condition_manifest.parquet",
+    "bytes": 438118,
+    "mtime_ns_before": 1788196495643569197,
+    "sha256": "ec70cbb93cbcea54c3ff35578f9fb7899c6d39a2c544f95e238d8d1e67b818dc"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/new_audit/tahoe_l3_x1_noise_audit_v1/results/tahoe/plate978/tahoe_multiplate_plate_profile_manifest_978_v1.parquet",
+    "bytes": 401093,
+    "mtime_ns_before": 1788215803156971319,
+    "sha256": "7ed648ddb001db0602a5837a1d6136848c474bb08e2d26dafae63496b6f96ddf"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/canonical_perturbation_data_v1/tahoe/data/control_context_manifest.parquet",
+    "bytes": 32259,
+    "mtime_ns_before": 1788196375816737381,
+    "sha256": "da2b744096e18b81dc5e8b4b9854932f327b9ab2e20007b8296cbfa89797e346"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/gamma_empirical_v1_20261008T190322Z/data/GENE_AXIS.tsv",
+    "bytes": 152930,
+    "mtime_ns_before": 1791794534675222620,
+    "sha256": "601898629a70aceb9387b733bde27015dbb88377209b184308b591927373a865"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/TAHOE_CHAMPION_REGISTRY/assets/TAHOE_ALPHA_BETA_X3_ASSEMBLY_V1_20261008_220046/vectors/fold0_VALID.npz",
+    "bytes": 17008708,
+    "mtime_ns_before": 1791490579485883853,
+    "sha256": "c692e7bf97db1ceefd75d4b3ca695f136faaaef8d6705a45ab635c41822f3da2"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/TAHOE_CHAMPION_REGISTRY/assets/TAHOE_ALPHA_BETA_X3_ASSEMBLY_V1_20261008_220046/vectors/fold1_VALID.npz",
+    "bytes": 18777160,
+    "mtime_ns_before": 1791490583284738405,
+    "sha256": "c8f5ffcd55c26006bcb7fb05f28a912482985bf5b7a570335dead273e273769f"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/TAHOE_CHAMPION_REGISTRY/assets/TAHOE_ALPHA_BETA_X3_ASSEMBLY_V1_20261008_220046/vectors/fold2_VALID.npz",
+    "bytes": 16310438,
+    "mtime_ns_before": 1791490586622040110,
+    "sha256": "7a6fe941b24a39899b1d838b56687dc44a85330488c8d18465e23d7b6d93ba6b"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/TAHOE_CHAMPION_REGISTRY/assets/TAHOE_ALPHA_BETA_X3_ASSEMBLY_V1_20261008_220046/vectors/fold3_VALID.npz",
+    "bytes": 16557290,
+    "mtime_ns_before": 1791490589861485462,
+    "sha256": "0c1a298f84708edbcac59bd24ab1cc326de6d220b32df689f4bdc46b8a83d576"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/TAHOE_CHAMPION_REGISTRY/assets/TAHOE_ALPHA_BETA_X3_ASSEMBLY_V1_20261008_220046/vectors/fold4_VALID.npz",
+    "bytes": 20820661,
+    "mtime_ns_before": 1791490593928463526,
+    "sha256": "cbb6230ffa2e5aafd23ad763bb914f761b71ea947098ad8ee304acfbc345c6c0"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/BETA_W_PROGRAMS_V1/STEP1_RESULTS.csv",
+    "bytes": 183034,
+    "mtime_ns_before": 1792278796644162990,
+    "sha256": "4c5ea08e641c2a2a55a132fe47f78046f90e0a37c00bef420df47493f5da888e"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/TAHOE_FEWSHOT_L1000_V1/fold0/RESULT_ROWS.csv.gz",
+    "bytes": 107250,
+    "mtime_ns_before": 1792314257227244853,
+    "sha256": "db9517d9d28a384cc8d14762938609046a72fa494fe2160c946e735a0e739b91"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/TAHOE_FEWSHOT_L1000_V1/fold1/RESULT_ROWS.csv.gz",
+    "bytes": 127996,
+    "mtime_ns_before": 1792314482751070820,
+    "sha256": "736311f589a219337d3b08e41c8a1bd0d86bca7c243535195165163f4d19e85b"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/TAHOE_FEWSHOT_L1000_V1/fold2/RESULT_ROWS.csv.gz",
+    "bytes": 106010,
+    "mtime_ns_before": 1792314479152276419,
+    "sha256": "0b7d052611b226f112ba943913a226c2478ac9c3020b149f91447419f10aa7a3"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/TAHOE_FEWSHOT_L1000_V1/fold3/RESULT_ROWS.csv.gz",
+    "bytes": 94789,
+    "mtime_ns_before": 1792314572618637579,
+    "sha256": "31010a208295aac44783600e2b91b0ad6f446d7427915be529bec340878a7439"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/TAHOE_FEWSHOT_L1000_V1/fold4/RESULT_ROWS.csv.gz",
+    "bytes": 150546,
+    "mtime_ns_before": 1792314608698594469,
+    "sha256": "af471d88ed675e041c223385af3e61b843fdfa102de77102a6b05edfcef40cb4"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/new_audit/tahoe_l3_x1_noise_audit_v1/results/tahoe/plate978/tahoe_multiplate_plate_profiles_978_v1.h5",
+    "bytes": 56962887,
+    "mtime_ns_before": 1788215803129832512,
+    "sha256": "680868908b475466df0584211650b22b9447e9b9bc0d0dd530e8dbaa5ad300ba"
+  },
+  {
+    "path": "@WORKSPACE@/4MAN/minimum_restore_v1/retained/orion/baicai/canonical_perturbation_data_v1/tahoe/data/controls.h5",
+    "bytes": 80747248,
+    "mtime_ns_before": 1788196375748513841,
+    "sha256": "cba10c5ecc51cc11a4cdbdaafd6d46f2186520abff8aaa83ca56d1833f61b1cf"
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "file": "code/common/runtime/ff_common.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/ff_common.py",
+    "sha256": "81588e9a58119da1f13f0051b53c1c93cf0a9b3a918d562fde37bcf83632934a"
+  },
+  {
+    "file": "code/common/runtime/ff_statistics.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/ff_statistics.py",
+    "sha256": "d0b83060dcfe2c0d48169ec7fdfb05ed72c6f2100debffbac1d6f9505f71cd9f"
+  },
+  {
+    "file": "code/common/runtime/ff_statistics_global.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/ff_statistics_global.py",
+    "sha256": "c6f0165117233880175643c5a68d94c88d5beef22bcb8f16e4da9ac0de1c717c"
+  },
+  {
+    "file": "code/common/runtime/ff_xlsx.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/ff_xlsx.py",
+    "sha256": "8b0205db1f0c58b3417634180cb83c844ad3b197700d7e61dcd410bf2de53f8b"
+  },
+  {
+    "file": "data/datasets/cigs/prepare_profiles.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/prep_cigs.py",
+    "sha256": "140d2e0216999cebf039f5c76213e93edca5209438c8414b428d6634d257fc82"
+  },
+  {
+    "file": "data/datasets/drugseq/prepare_profiles.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/prep_drugseq.py",
+    "sha256": "7a71d6d34fbd4bb9e2455eb8d9966bca86b3b1c84d6c79e605bc00ec71193a9f"
+  },
+  {
+    "file": "data/datasets/l1000/prepare_profiles.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/prep_l1000.py",
+    "sha256": "90fbcf838f21efbf7c6ed84eea58569b75024e101a5a488d696a1eabf7d3fe53"
+  },
+  {
+    "file": "data/datasets/mixseq/prepare_profiles.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/prep_mix.py",
+    "sha256": "9e25a9b64acd65b0406a230662bb78481c045633936765ad0dc7009ca847b591"
+  },
+  {
+    "file": "data/datasets/sciplex3/prepare_profiles.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/prep_sciplex.py",
+    "sha256": "a5765a09e845cdb2936dd4ee72e9a7c4d9c5a29115fb68049d1762bfc6a5764d"
+  },
+  {
+    "file": "data/datasets/tahoe/prepare_profiles.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/prep_tahoe.py",
+    "sha256": "de5848052d3b04215cf66991269330e74d16e6659867a7c12f0f6970bc235cbf"
+  },
+  {
+    "file": "code/01_repeatability/bulk_repeats.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/bulk_repeats.py",
+    "sha256": "2303f7fb97c593526c28790bdc33da4df6a6f036299e7b8ea76bd87b0e48bf6b"
+  },
+  {
+    "file": "code/03_components/intersections.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/intersections.py",
+    "sha256": "ca3b63aba22c66b1d0a84fafb177935d10d2fb21805dad77d2a4d8d5331e009a"
+  },
+  {
+    "file": "data/datasets/shared/build_identity.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/build_identity.py",
+    "sha256": "8a20f6ba7a2e1ba59fef3a656e12014e16041cc9bff3a84d5f0bd89cc88c4fbd"
+  },
+  {
+    "file": "data/datasets/shared/gene_check.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/gene_check.py",
+    "sha256": "c56eeb4fc0e6dc57ce94e56551248c8528ec0d33184914b5ca502770b752a23c"
+  },
+  {
+    "file": "code/01_repeatability/analyze_source.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/analyze_source.py",
+    "sha256": "6c7d1a6259babd676d61fa019bab4bfb45cca2509297a35dae114af347ca6ddf"
+  },
+  {
+    "file": "data/datasets/shared/assemble_sources.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/assemble_sources.py",
+    "sha256": "683228e69b88f3a1280a92afa69f1af1116dce93dd3bbe96fee6afd8c588ebf0"
+  },
+  {
+    "file": "code/01_repeatability/repair_repeat_support.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/repair_repeat_support.py",
+    "sha256": "18a81f322962ca6633715d349da125336ec20ab57f8fc4fe926a74f4e5e28353"
+  },
+  {
+    "file": "data/datasets/shared/rebuild_count_native.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/rebuild_count_native.py",
+    "sha256": "b3f2e2443a8bcb46a3e58abec147c1041027a69f29616dc24ef3e3b3437da847"
+  },
+  {
+    "file": "data/datasets/tahoe/prepare_full.py",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/scripts/prepare_full.py",
+    "sha256": "a24365423b68ed3ecf9826c1dcedc7fe8ddae85f05561d364b7c18d25b31da54"
+  },
+  {
+    "file": "code/01_repeatability/tahoe_repeats.py",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/scripts/repeat_full.py",
+    "sha256": "6fa189f0d93abf312daec0a1b6025a552077298f7e7d5b571fa49f68b11c12cb"
+  },
+  {
+    "file": "code/03_components/components_full.py",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/scripts/components_full.py",
+    "sha256": "d64afda92185266b129113dbca9ed7083287101aa26f6277bf340023566e00a4"
+  },
+  {
+    "file": "code/02_cross_dataset/analyze_full.py",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/scripts/analyze_full.py",
+    "sha256": "cb99cd99663a99ee2196dbf19450af01e974b57f60f70a9b6cd1eca967b71396"
+  },
+  {
+    "file": "code/02_cross_dataset/analyze_882_full.py",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/scripts/analyze_882_full.py",
+    "sha256": "ecd9a2808ad64d94e4dbd7a889d03a38e4b4b926ada80e27d59393fd956701c7"
+  },
+  {
+    "file": "data/datasets/tahoe/identity_full.py",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/scripts/identity_full.py",
+    "sha256": "2b66ba577fb0a9963adb459fd332bd9eb16e9d41f4cd82a1652f9414ab2918d9"
+  },
+  {
+    "file": "code/02_cross_dataset/verify_pairs_full.py",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/scripts/verify_pairs_full.py",
+    "sha256": "da4fc8296c562606cd35c629c97d04413ce91d306c72f6c244721fb0842b5a3d"
+  },
+  {
+    "file": "code/02_cross_dataset/s1b_full.py",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/scripts/s1b_full.py",
+    "sha256": "fc3bee75f2157fa551e635b40af1a34db30183e8cda1d5713c909bd8032ad7b6"
+  },
+  {
+    "file": "data/datasets/tahoe/final_verify.py",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/scripts/final_verify.py",
+    "sha256": "597adf3f2748054e7f9abd59585da8a1091b2004b6f2371e3a14abf7803ddd3f"
+  },
+  {
+    "file": "data/datasets/tahoe/external_scope_audit.py",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/scripts/external_scope_audit.py",
+    "sha256": "60ae52b1a913d449e978e67708ddad3fd1884228df48d8a49c9649b99343e15d"
+  },
+  {
+    "file": "code/04_prediction/decoder/tp_projection.py",
+    "destination": "4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/tp_projection.py",
+    "sha256": "28c518b0c7ed77e105316c2fc94ccfa35ce4ba82efa5a8757b3e6d5f53933c4e"
+  },
+  {
+    "file": "code/04_prediction/decoder/tp_assets.py",
+    "destination": "4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/tp_assets.py",
+    "sha256": "22640768a82378c284522c5a5cab34614d8a451c05bf3dde27b4c2e8575bbbb3"
+  },
+  {
+    "file": "code/04_prediction/decoder/tp_decoder.py",
+    "destination": "4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/tp_decoder.py",
+    "sha256": "e95a52493bffe75ab08f27e6fafcc3e866347c5aba09de42b7af3135a3963fa7"
+  },
+  {
+    "file": "code/04_prediction/decoder/tp_model_io.py",
+    "destination": "4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/tp_model_io.py",
+    "sha256": "62474e653737bb94910cc38d1cb47ea0f32ff5c63e10b72ddb036efe53f7847b"
+  },
+  {
+    "file": "code/04_prediction/decoder/tp_runtime.py",
+    "destination": "4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/tp_runtime.py",
+    "sha256": "3e772a69bbe8e93bb5ad6609e6397da0a198c8abb57be246c17d6620a2339b50"
+  },
+  {
+    "file": "code/04_prediction/decoder/tp_single.py",
+    "destination": "4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/tp_single.py",
+    "sha256": "389909646fea0627000ae6b996884cb12c27c0bf523b3e1119e404611bf21746"
+  },
+  {
+    "file": "code/04_prediction/decoder/eval_lib.py",
+    "destination": "4MAN/TAHOE_GAMMA_PARALLEL_V1/shared/eval_lib.py",
+    "sha256": "3a5cf132918f7ead674dd69d7b88cfdaa939ce7697aa019421a7ae75880a167a"
+  },
+  {
+    "file": "code/04_prediction/cross_plate/exp2_worker.py",
+    "destination": "4MAN/PAPER_TWO_CHECKS_V1/scripts/exp2_worker.py",
+    "sha256": "2325f936ac4114f185e35e55262ce2a41b863c999f3e217b435aa3e5b3481893"
+  },
+  {
+    "file": "code/04_prediction/cross_plate/exp2_reweight.py",
+    "destination": "4MAN/PAPER_TWO_CHECKS_V1/scripts/exp2_reweight.py",
+    "sha256": "91d7b5804b6a1e04365a10fb4ac457ebf8d9a211454c16415a7498b589a2ead2"
+  },
+  {
+    "file": "code/04_prediction/baseline/tb_train.py",
+    "destination": "4MAN/minimum_restore_v1/retained/orion/tahoe_x1only_3h2048_baseline_20261007/cpu_v2/scripts/tb_train.py",
+    "sha256": "23a65d110c8de2e48957b8a62469f99626bbba7d810076547f5f93e6e13bf224"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/extract_pdex_values.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/extract_pdex_values.py",
+    "sha256": "f70c37c85dfebc645077243214f2c07a9ee3e47f363fc415b14b5f038b6366a9"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/merge_controls.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/merge_controls.py",
+    "sha256": "793095b8024a45fec30ba07aaef9fe2a38e2498260dc10dbf43fee637ce73577"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/merge_treated_conditions.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/merge_treated_conditions.py",
+    "sha256": "35b4bb0255f1a8cab9588601c55c210c2ed2d0dc2efb770dc7816f42d62dfa11"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/scan_obs_full_qc.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/scan_obs_full_qc.py",
+    "sha256": "03d1197f0f5d8a84caac1884955324e223334b51ec5c7317a3931bb62c5a79d6"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/finalize_obs_full_qc_counts.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/finalize_obs_full_qc_counts.py",
+    "sha256": "9a88f9eea02e16d4974ff1598c663aa92f2254d82637625eb100b447833458b6"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/tahoe_canonical_io.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/tahoe_canonical_io.py",
+    "sha256": "9f30a5f32414745a993d345b4e88763564cde1b022c07f484968b8aca3681ecd"
+  },
+  {
+    "file": "data/datasets/l1000/canonical/canonical_l1000_loader.py",
+    "destination": "baicai/canonical_perturbation_data_v1/l1000/scripts/canonical_l1000_loader.py",
+    "sha256": "1522c8d6567ddf85e2596edaa916e723e78a2755139f77c7029757c57d4f5499"
+  },
+  {
+    "file": "data/datasets/l1000/canonical/extract_full_978.py",
+    "destination": "baicai/canonical_perturbation_data_v1/l1000/scripts/extract_full_978.py",
+    "sha256": "c23e23e9b710ab4b1838d07ccbb8213d2c7f58d8d0344d81d5a3b8c0773345c3"
+  },
+  {
+    "file": "data/datasets/l1000/canonical/finalize_canonical_l1000.py",
+    "destination": "baicai/canonical_perturbation_data_v1/l1000/scripts/finalize_canonical_l1000.py",
+    "sha256": "75d8be3365580230bfcafec7c30aba18216b77daa2813e695d040e10a034a4d9"
+  },
+  {
+    "file": "data/datasets/l1000/canonical/freeze_full_manifests.py",
+    "destination": "baicai/canonical_perturbation_data_v1/l1000/scripts/freeze_full_manifests.py",
+    "sha256": "c550377fa1a1059e488dbbbc61ea0bfd72e724efe2ee4512273e91e908517ed8"
+  },
+  {
+    "file": "data/datasets/l1000/canonical/hash_source_gctx.py",
+    "destination": "baicai/canonical_perturbation_data_v1/l1000/scripts/hash_source_gctx.py",
+    "sha256": "eca22b16345c929c9f4c6f87a77057ea462ad81a650ef9f6f4ecb485b597496a"
+  },
+  {
+    "file": "data/datasets/l1000/canonical/independent_verify_canonical_l1000.py",
+    "destination": "baicai/canonical_perturbation_data_v1/l1000/scripts/independent_verify_canonical_l1000.py",
+    "sha256": "71d1acb0a2cbcce47b107b25ac06a57b0f2d9ef9d48a2ec123d8576f93b4d1ef"
+  },
+  {
+    "file": "data/datasets/l1000/canonical/smoke_loader.py",
+    "destination": "baicai/canonical_perturbation_data_v1/l1000/scripts/smoke_loader.py",
+    "sha256": "ef9eece16762328478e69f194764e4e9d9a5cfb06238d873ac40e542a1360935"
+  },
+  {
+    "file": "data/datasets/l1000/canonical/summarize_canonical_schemas.py",
+    "destination": "baicai/canonical_perturbation_data_v1/l1000/scripts/summarize_canonical_schemas.py",
+    "sha256": "ab7062a3788206b11f222df5991896066118cd0af25f3d77819f5031b2733a3c"
+  },
+  {
+    "file": "data/datasets/l1000/canonical/summarize_dataset_overlap.py",
+    "destination": "baicai/canonical_perturbation_data_v1/l1000/scripts/summarize_dataset_overlap.py",
+    "sha256": "3fe68b6cbab4dfcb1f25e55cafdfa048132995cd1781ad545dfce88d2b0a5e3d"
+  },
+  {
+    "file": "data/datasets/l1000/canonical/verify_full_978_shard.py",
+    "destination": "baicai/canonical_perturbation_data_v1/l1000/scripts/verify_full_978_shard.py",
+    "sha256": "35157603c54c2c8cf8c2c325b746e5dba9baf71b96f1c2673a9b873fbbd76614"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/audit_official_metadata.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/audit_official_metadata.py",
+    "sha256": "779d54be949bdaf343a13983bd7e2c70e841d84290103e5bd4d5258b3cd33bf2"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/finalize_dataset.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/finalize_dataset.py",
+    "sha256": "70a1be6821b0fdd3609e46a656799830c8088ae4e9e38b3223f7d53bd86acc14"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/finalize_profile_scan.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/finalize_profile_scan.py",
+    "sha256": "bf842e8989ccd67277f989a5c2cf8fbc0f3a37a77b19e7bd9442e9647832efb7"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/freeze_gene_axis.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/freeze_gene_axis.py",
+    "sha256": "a7e166964ab8a50e40eda42ea0ab9568e27375b15fdf286f1dfe200fdf83c014"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/inspect_obs_metadata.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/inspect_obs_metadata.py",
+    "sha256": "d2053735a987707a630366633e97d95c1bca76ea5f785cb5b1a6263a8c672d04"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/scan_pdex_profiles.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/scan_pdex_profiles.py",
+    "sha256": "5372df5996af017f30107d91e0a371deb890feb74157260a3f4447e79c62ccb3"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/smoke_load_canonical.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/smoke_load_canonical.py",
+    "sha256": "b4cc3e2d472c0e8372a8ffd8d1a4090a9e72c8f392507d57b1f9ccd46d181cb3"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/verify_cell_eval_shard.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/verify_cell_eval_shard.py",
+    "sha256": "9bebe306822f2b3d7a375c025d7745d19e4e7ccf29d38893b79946da49bf0c40"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/verify_ready_dataset.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/verify_ready_dataset.py",
+    "sha256": "185ef4120bdb6971779e449c318685e0c7f73f6d217e321e77a92e82b2bdf33f"
+  },
+  {
+    "file": "data/datasets/tahoe/canonical/verify_treated_shard.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/verify_treated_shard.py",
+    "sha256": "d5dbc91e32150db2f69f41dc8646805817c241ad575454015aacfed332e64b04"
+  },
+  {
+    "file": "code/03_components/compose_full.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/compose_full.py",
+    "sha256": "37682304474e06612bfe8fce49aee2c45bc05f20dc41053bde969afb7230ac5e"
+  },
+  {
+    "file": "data/datasets/shared/extra_metadata.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/extra_metadata.py",
+    "sha256": "6feaf1aff6c9fb857d555420e25786fbd6c7ec9970f495d262635928223e6859"
+  },
+  {
+    "file": "data/datasets/shared/final_audit.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/final_audit.py",
+    "sha256": "4c35a0faa6b3f229f02b21ef3c37a3296da3ac852ea1acf8a44d3a3a9bbd4292"
+  },
+  {
+    "file": "data/datasets/shared/identity_inventory.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/identity_inventory.py",
+    "sha256": "c7ccfde03bcf854c8f8445df8bda33e4bef84c1461aea5f8476990950f7d7b41"
+  },
+  {
+    "file": "data/datasets/shared/make_manifest.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/make_manifest.py",
+    "sha256": "e43f671f8782c5b266b2414f4d6ad5f987ad51581b90bbf3f8f3999447d6e401"
+  },
+  {
+    "file": "code/01_repeatability/tahoe_repeats_reference.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/tahoe_repeats.py",
+    "sha256": "ea6af46b96a0eceb0fe891bebb4b80f099a9f576d19141d2a1ed4dac13302768"
+  },
+  {
+    "file": "data/datasets/shared/verify_sources.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/verify_sources.py",
+    "sha256": "71a816ca16fd8fc7713b630fb125b3a6f5c92e7f1d7ccb1879141ba1a68c3c1a"
+  },
+  {
+    "file": "data/datasets/tahoe/correct_normalization_metadata.py",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/scripts/correct_normalization_metadata.py",
+    "sha256": "7848acb841fe241f8d3f908254d04645bd386db490755954a698a7415be40785"
+  },
+  {
+    "file": "data/datasets/drugseq/drugseq_stream.R",
+    "destination": "FULL_DATASET_FIGURES_V1/code/drugseq_stream.R",
+    "sha256": "0148f348bd025adbe4f84caa02341dfdf18743ea45fd9ad6201f8a1ef96485de"
+  },
+  {
+    "file": "code/04_prediction/exploratory/helpers/BETA_DISCOVERY_V1/bd_core.py",
+    "destination": "4MAN/BETA_DISCOVERY_V1/bd_core.py",
+    "sha256": "dec8a978357b35112150e84cf450c49d1969accc6905ca376e3b67eda09c6958"
+  },
+  {
+    "file": "code/04_prediction/exploratory/helpers/BETA_DISCOVERY_V2/bd2_models.py",
+    "destination": "4MAN/BETA_DISCOVERY_V2/bd2_models.py",
+    "sha256": "bdf1e4867a98d3e3d015e31108adec430506b3d90db716962f1256fc73a32a75"
+  },
+  {
+    "file": "code/04_prediction/baseline/tb_common.py",
+    "destination": "4MAN/minimum_restore_v1/retained/orion/tahoe_x1only_3h2048_baseline_20261007/cpu_v2/scripts/tb_common.py",
+    "sha256": "c867e203627bf0fa7b7474235611621697071487eae2762c54b93cb5956d905b"
+  },
+  {
+    "file": "code/04_prediction/baseline/historical_train_exact_h2048.py",
+    "destination": "4MAN/minimum_restore_v1/retained/orion/tahoe_x1only_3h2048_baseline_20261007/cpu_v2/references/historical_train_exact_h2048.py",
+    "sha256": "c653aedd7c35c0127dee5661cec01368bf900faeb44bd6c9f559dec5d51a7b0f"
+  },
+  {
+    "file": "code/04_prediction/decoder/w_projection_spectral.py",
+    "destination": "4MAN/GAMMA_W_MECH_V1/w_projection_spectral.py",
+    "sha256": "ffb2cbfc8f52f54ca1ed55009508849bb79da2c51e41a8da091f76f587e71eda"
+  },
+  {
+    "file": "code/04_prediction/decoder/w_projection_iterative.py",
+    "destination": "4MAN/GAMMA_W_MECH_V1/w_projection_iterative.py",
+    "sha256": "1454db51c4defc9df5e6549f5a3845d4390bdb7a337d02a19c21bc0bb14f98f1"
+  },
+  {
+    "file": "data/datasets/tahoe/parent_structures.py",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/scripts/parent_structures.py",
+    "sha256": "5837906f488ca0d704d6dfec1ce34a5a552e92f5ec4d0e78fed0bda78b8cbfc4"
+  },
+  {
+    "file": "data/datasets/cigs/merge_profiles.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/merge_cigs_profiles.py",
+    "sha256": "dade57bb7b6ff0955f686c9fbf4fa42e2a8e6ecef68af56ebed97c228c3f2112"
+  },
+  {
+    "file": "data/datasets/tahoe/validate_qc.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/validate_source_qc.py",
+    "sha256": "17742ff768f8235ecced4191070b925307de8d1cd43400aa220a527021c43f19"
+  },
+  {
+    "file": "data/datasets/tahoe/prepare_prediction.py",
+    "destination": "baicai/canonical_perturbation_data_v1/tahoe/scripts/prepare_prediction.py",
+    "sha256": "9743a389385f8a7cc969928bae29a0e70ec7e47eababafabc5d7ad52f24db2c4"
+  },
+  {
+    "file": "data/datasets/cigs/extract_snapshot.py",
+    "destination": "FULL_DATASET_FIGURES_V1/code/cigs_snapshot.py",
+    "sha256": "fc187a8c03636534925feb1921472d73577eaf8e02f8fb034f00276d91769c71"
+  },
+  {
+    "file": "data/datasets/l1000/validate_inputs.py",
+    "destination": "baicai/canonical_perturbation_data_v1/l1000/scripts/validate_inputs.py",
+    "sha256": "e9f663b3f3a1792b71a401c08ee8cb8d1ea1cf0a0d023d8a072ce018690b15f1"
+  },
+  {
+    "file": "data/datasets/prediction_features/extract.py",
+    "destination": "4MAN/EXPLORATORY/code/extract.py",
+    "sha256": "510336c0147e234a363d3522fb85fb28f1866982955bf7c4b80583bcec0d830f"
+  },
+  {
+    "file": "code/04_prediction/exploratory/replay.py",
+    "destination": "4MAN/EXPLORATORY/code/replay.py",
+    "sha256": "8dd4f5888913a8fbd9028326dea22ad3d48e143e497d712bbcfb9968561a29fb"
+  },
+  {
+    "file": "code/04_prediction/exploratory/helpers/BETA_DISCOVERY_V1/bd_core.py",
+    "destination": "4MAN/EXPLORATORY/code/helpers/BETA_DISCOVERY_V1/bd_core.py",
+    "sha256": "dec8a978357b35112150e84cf450c49d1969accc6905ca376e3b67eda09c6958"
+  },
+  {
+    "file": "code/04_prediction/exploratory/helpers/BETA_DISCOVERY_V2/bd2_models.py",
+    "destination": "4MAN/EXPLORATORY/code/helpers/BETA_DISCOVERY_V2/bd2_models.py",
+    "sha256": "bdf1e4867a98d3e3d015e31108adec430506b3d90db716962f1256fc73a32a75"
+  },
+  {
+    "file": "code/02_cross_dataset/prepare_common.py",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/code/prepare_common.py",
+    "sha256": "404cb090d4c313f466dc2e518cee6f2e7c966d530136aacaaa7e52aa85d40776"
+  },
+  {
+    "file": "code/02_cross_dataset/prepare_support.py",
+    "destination": "4MAN/TAHOE_DESCRIPTIVE_FULL_V2/pairs/code/prepare_support.py",
+    "sha256": "e15a2a3fdccdb5374df2dfdabfb8264cadf3408657d8ddf826256e900090daac"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "paper": "Reproducibility and cross-dataset concordance of drug-induced transcriptional responses",
+  "descriptive": "All eligible source scope; Tahoe 379 drugs/47 cells/52886 conditions; historical model TEST roles may appear ONLY in descriptive statistics",
+  "predictive": "Frozen seed1337 control-expression-only 3H2048; 153-drug five-fold development VALID; no TEST evaluation",
+  "main_sources": [
+    "Tahoe",
+    "L1000_L3",
+    "DRUGseq",
+    "CIGS",
+    "sciPlex3",
+    "MIXseq"
+  ],
+  "excluded": [
+    "L1000_L5",
+    "NCI_TPW"
+  ],
+  "gene_axes": "Native measured axes and final common 869 axis; 882 retained only as specified sensitivity analysis",
+  "no_model_reselection": true,
+  "no_new_training": true
+}

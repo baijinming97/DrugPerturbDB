@@ -1,0 +1,502 @@
+{
+  "plotted_values": {
+    "fig4_focus": [
+      {
+        "component": "mu",
+        "PCC": 0.908705774263815,
+        "MSE": 0.00011606733411006871,
+        "error_pct": 1.656892207521312
+      },
+      {
+        "component": "alpha",
+        "PCC": 0.8602539137262363,
+        "MSE": 0.0001682551300765042,
+        "error_pct": 2.401886939480078
+      },
+      {
+        "component": "beta",
+        "PCC": 0.393475357515102,
+        "MSE": 0.003238072558437667,
+        "error_pct": 46.224350982130034
+      },
+      {
+        "component": "gamma",
+        "PCC": 0.48820028882485306,
+        "MSE": 0.0034827277960595335,
+        "error_pct": 49.7168698708686
+      },
+      {
+        "tag": "gamma_PCC baseline",
+        "value": 0.4882002888248526,
+        "low": 0.4468696117258359,
+        "high": 0.5252852947482067,
+        "interval_shown": true
+      },
+      {
+        "tag": "gamma_PCC corrected",
+        "value": 0.7121820223150638,
+        "low": 0.6827510110654803,
+        "high": 0.7398842604164195,
+        "interval_shown": true
+      },
+      {
+        "tag": "full_PCC baseline",
+        "value": 0.5821120238105371,
+        "low": 0.5448882554876524,
+        "high": 0.6193199504340174,
+        "interval_shown": true
+      },
+      {
+        "tag": "full_PCC corrected",
+        "value": 0.6124750114157008,
+        "low": 0.5832629042831862,
+        "high": 0.6396023148056394,
+        "interval_shown": true
+      },
+      {
+        "endpoint": "gamma_MSE",
+        "baseline": 0.0034827277960595,
+        "corrected": 0.002400308597111448
+      },
+      {
+        "endpoint": "full_MSE",
+        "baseline": 0.0070051228186837,
+        "corrected": 0.005922703619735683
+      }
+    ],
+    "FIG4E_CROSS_PLATE_LINK": [
+      {
+        "tag": "G5_true 6_to_6",
+        "value": 0.724482638583125,
+        "low": 0.6487154951991247,
+        "high": 0.7977857202074631,
+        "interval_shown": true
+      },
+      {
+        "tag": "shuffle_20261103 6_to_6",
+        "value": -0.027777598622788214,
+        "low": -0.14535116936857934,
+        "high": 0.09630824457645054,
+        "interval_shown": true
+      },
+      {
+        "tag": "shuffle_20261104 6_to_6",
+        "value": -0.022535385883070583,
+        "low": -0.15793688244188953,
+        "high": 0.09674091612963076,
+        "interval_shown": true
+      },
+      {
+        "tag": "shuffle_20261105 6_to_6",
+        "value": 0.1339302266414194,
+        "low": 0.003284171285484788,
+        "high": 0.2504853155660783,
+        "interval_shown": true
+      },
+      {
+        "tag": "G5_true 14_to_14",
+        "value": 0.7020780994484465,
+        "low": 0.6312316970815379,
+        "high": 0.7482824837036962,
+        "interval_shown": true
+      },
+      {
+        "tag": "shuffle_20261103 14_to_14",
+        "value": 0.016480106735488127,
+        "low": -0.09535013439996738,
+        "high": 0.11408258561357516,
+        "interval_shown": true
+      },
+      {
+        "tag": "shuffle_20261104 14_to_14",
+        "value": 0.011226043648435696,
+        "low": -0.14060934773741748,
+        "high": 0.12071830673893923,
+        "interval_shown": true
+      },
+      {
+        "tag": "shuffle_20261105 14_to_14",
+        "value": 0.1426107741797427,
+        "low": 0.0227035967660824,
+        "high": 0.23810697810477013,
+        "interval_shown": true
+      },
+      {
+        "tag": "G5_true 6_to_14",
+        "value": 0.3849474548838822,
+        "low": 0.24050156672529496,
+        "high": 0.5156621118513038,
+        "interval_shown": true
+      },
+      {
+        "tag": "shuffle_20261103 6_to_14",
+        "value": -0.008078376705242677,
+        "low": -0.1085540877624974,
+        "high": 0.1046278378260577,
+        "interval_shown": true
+      },
+      {
+        "tag": "shuffle_20261104 6_to_14",
+        "value": -0.0075105458203817135,
+        "low": -0.15769403943039273,
+        "high": 0.11841676663661574,
+        "interval_shown": true
+      },
+      {
+        "tag": "shuffle_20261105 6_to_14",
+        "value": 0.11573584058950576,
+        "low": 0.0012170858326975413,
+        "high": 0.232899492197007,
+        "interval_shown": true
+      },
+      {
+        "tag": "G5_true 14_to_6",
+        "value": 0.388257132805279,
+        "low": 0.2228503036150092,
+        "high": 0.537099532900282,
+        "interval_shown": true
+      },
+      {
+        "tag": "shuffle_20261103 14_to_6",
+        "value": 0.0016618975380409066,
+        "low": -0.10482030316847797,
+        "high": 0.1003766344714954,
+        "interval_shown": true
+      },
+      {
+        "tag": "shuffle_20261104 14_to_6",
+        "value": -0.015610836133669335,
+        "low": -0.13793678461457134,
+        "high": 0.10481121818865387,
+        "interval_shown": true
+      },
+      {
+        "tag": "shuffle_20261105 14_to_6",
+        "value": 0.04441362536331319,
+        "low": -0.08001243898664365,
+        "high": 0.1531932890147314,
+        "interval_shown": true
+      }
+    ],
+    "figS3_attempts": [
+      {
+        "tag": "matched_Ridge_KPGT_K3 predictive",
+        "value": 0.01015738716291,
+        "low": -0.036166420902918,
+        "high": 0.0581434847184859,
+        "interval_shown": true
+      },
+      {
+        "tag": "pilot_KPGT_Soft_PCA10_T0_control_complete predictive",
+        "value": 0.0064343255851402,
+        "low": -0.0276435545635662,
+        "high": 0.0425601183186143,
+        "interval_shown": true
+      },
+      {
+        "tag": "s1_2_S1_Soft_K3_control_complete predictive",
+        "value": 0.0041204928558925,
+        "low": -0.0278062848260067,
+        "high": 0.03799903818628,
+        "interval_shown": true
+      },
+      {
+        "tag": "s1_2_S1_Soft_K3_control_complete contrast",
+        "value": 0.0144870108429543,
+        "low": -0.022882663297672,
+        "high": 0.053291796149876,
+        "interval_shown": true
+      },
+      {
+        "tag": "s2_111_S2_annotated_ProgramKNN_K10 predictive",
+        "value": 0.0590543730792373,
+        "low": -0.0003985903662176,
+        "high": 0.1219824195864718,
+        "interval_shown": true
+      },
+      {
+        "tag": "s2_111_S2_annotated_ProgramKNN_K10 contrast",
+        "value": 0.0728401270022094,
+        "low": 0.0098016176450403,
+        "high": 0.1406309416390312,
+        "interval_shown": true
+      },
+      {
+        "tag": "s2_57_ChEMBL_targetAffinity_CCA_K10 predictive",
+        "value": 0.0440672445435166,
+        "low": -0.0126767193912625,
+        "high": 0.099281743562584,
+        "interval_shown": true
+      },
+      {
+        "tag": "s2_57_ChEMBL_targetAffinity_CCA_K10 contrast",
+        "value": 0.0381139669754133,
+        "low": -0.0243739523789958,
+        "high": 0.0974793865690272,
+        "interval_shown": true
+      },
+      {
+        "tag": "matched_Ridge_CIGS_cells_K3 predictive",
+        "value": 0.1061340717415764,
+        "low": 0.0400941612223603,
+        "high": 0.1698733770462379,
+        "interval_shown": true
+      },
+      {
+        "tag": "matched_Ridge_CIGS_cells_K3 contrast",
+        "value": 0.0819179921397844,
+        "low": 0.0117569528289409,
+        "high": 0.1523951625099361,
+        "interval_shown": true
+      },
+      {
+        "tag": "repair_DRUGseq_Ridge_K3 predictive",
+        "value": -0.1167744585939933,
+        "low": -0.2091292589841693,
+        "high": -0.0270233520317363,
+        "interval_shown": true
+      },
+      {
+        "tag": "repair_DRUGseq_Ridge_K3 contrast",
+        "value": -0.0827245564730431,
+        "low": -0.1807784815105571,
+        "high": 0.0104617290870099,
+        "interval_shown": true
+      },
+      {
+        "tag": "moa_known_S1 predictive",
+        "value": -0.0160425915539959,
+        "low": -0.0664970633180937,
+        "high": 0.0350828007376668,
+        "interval_shown": true
+      },
+      {
+        "tag": "moa_known_S1 contrast",
+        "value": -0.0217298938703734,
+        "low": -0.0783033267582949,
+        "high": 0.034843866524035,
+        "interval_shown": true
+      },
+      {
+        "tag": "moa_known_S2_annotated predictive",
+        "value": 0.0840634048709124,
+        "low": 0.0248599242161941,
+        "high": 0.1398756383174693,
+        "interval_shown": true
+      },
+      {
+        "tag": "moa_known_S2_annotated contrast",
+        "value": 0.0957902493386533,
+        "low": 0.0300580791281783,
+        "high": 0.1564225443244152,
+        "interval_shown": true
+      },
+      {
+        "tag": "moa_known_ChEMBL_targetAffinity predictive",
+        "value": 0.034852123742211,
+        "low": -0.0058544140265887,
+        "high": 0.0808071425087646,
+        "interval_shown": true
+      },
+      {
+        "tag": "moa_known_ChEMBL_targetAffinity contrast",
+        "value": 0.0296970073142845,
+        "low": -0.0261553845436957,
+        "high": 0.09358713563705,
+        "interval_shown": true
+      },
+      {
+        "setting": "B",
+        "full_PCC": 0.5821120238105371,
+        "full_MSE": 0.0070051228186837
+      },
+      {
+        "setting": "B_plus_beta",
+        "full_PCC": 0.5798620075311789,
+        "full_MSE": 0.0070062958126129
+      },
+      {
+        "tag": "B_plus_beta PCC",
+        "value": -0.002250016279358,
+        "low": -0.0094237692766033,
+        "high": 0.0032990786132952,
+        "interval_shown": true
+      },
+      {
+        "tag": "B_plus_beta MSE reduction",
+        "value": -0.0011729939292069393,
+        "low": -0.03985733234980207,
+        "high": 0.03551225297855534,
+        "interval_shown": true
+      },
+      {
+        "setting": "B_plus_beta_gamma",
+        "full_PCC": 0.5790093161481406,
+        "full_MSE": 0.0070106091519325
+      },
+      {
+        "tag": "B_plus_beta_gamma PCC",
+        "value": -0.0031027076623963,
+        "low": -0.0132424998640154,
+        "high": 0.0048215575292776,
+        "interval_shown": true
+      },
+      {
+        "tag": "B_plus_beta_gamma MSE reduction",
+        "value": -0.00548633324881454,
+        "low": -0.06688309516503191,
+        "high": 0.05346622732130481,
+        "interval_shown": true
+      }
+    ],
+    "FIGS4_VALIDATION_BOUNDARIES": [
+      {
+        "tag": "Tahoe L1000_L3 rAA",
+        "value": 0.6279729082244511,
+        "low": 0.534288423049108,
+        "high": 0.7108455677977428,
+        "interval_shown": true
+      },
+      {
+        "tag": "Tahoe L1000_L3 rBB",
+        "value": 0.10179822617614476,
+        "low": 0.04581534234246389,
+        "high": 0.15903017736589287,
+        "interval_shown": true
+      },
+      {
+        "tag": "Tahoe L1000_L3 rAB",
+        "value": 0.009701757584200756,
+        "low": -0.002454147010667696,
+        "high": 0.022376928229917836,
+        "interval_shown": true
+      },
+      {
+        "tag": "Tahoe sciPlex3 rAA",
+        "value": 0.7734795970650099,
+        "low": 0.6966220225749404,
+        "high": 0.8823487658369715,
+        "interval_shown": false
+      },
+      {
+        "tag": "Tahoe sciPlex3 rBB",
+        "value": 0.04867704048854367,
+        "low": 0.022446385730961197,
+        "high": 0.08610306557050751,
+        "interval_shown": false
+      },
+      {
+        "tag": "Tahoe sciPlex3 rAB",
+        "value": -0.02997766920268473,
+        "low": -0.05558245191202146,
+        "high": 0.010453645016374585,
+        "interval_shown": false
+      },
+      {
+        "tag": "L1000_L3 DRUGseq rAA",
+        "value": 0.16686221902480122,
+        "low": 0.1361396640843911,
+        "high": 0.20179869380936685,
+        "interval_shown": true
+      },
+      {
+        "tag": "L1000_L3 DRUGseq rBB",
+        "value": 0.1687240791273793,
+        "low": 0.13612220049331217,
+        "high": 0.2051249643602638,
+        "interval_shown": true
+      },
+      {
+        "tag": "L1000_L3 DRUGseq rAB",
+        "value": 0.07586640825908197,
+        "low": 0.05476848233091801,
+        "high": 0.09908756860472706,
+        "interval_shown": true
+      },
+      {
+        "tag": "L1000_L3 CIGS rAA",
+        "value": 0.16710488482469524,
+        "low": 0.14723720762832435,
+        "high": 0.18683311358246155,
+        "interval_shown": true
+      },
+      {
+        "tag": "L1000_L3 CIGS rBB",
+        "value": 0.06811129410357847,
+        "low": 0.0617637341075901,
+        "high": 0.07454329586909217,
+        "interval_shown": true
+      },
+      {
+        "tag": "L1000_L3 CIGS rAB",
+        "value": 0.034499345056414825,
+        "low": 0.02857330996316732,
+        "high": 0.040343275360087215,
+        "interval_shown": true
+      },
+      {
+        "tag": "L1000_L3 sciPlex3 rAA",
+        "value": 0.13425010861666561,
+        "low": 0.10888636870291186,
+        "high": 0.16079915268384035,
+        "interval_shown": true
+      },
+      {
+        "tag": "L1000_L3 sciPlex3 rBB",
+        "value": 0.12419331358269578,
+        "low": 0.10167323259420652,
+        "high": 0.1487141712927859,
+        "interval_shown": true
+      },
+      {
+        "tag": "L1000_L3 sciPlex3 rAB",
+        "value": 0.054851590948169854,
+        "low": 0.040234508681255214,
+        "high": 0.07075565038121519,
+        "interval_shown": true
+      },
+      {
+        "tag": "6_to_14 full_PCC_gain",
+        "value": -0.01605070436847807,
+        "low": -0.05523509926166303,
+        "high": 0.014677851468864628,
+        "interval_shown": true
+      },
+      {
+        "tag": "14_to_6 full_PCC_gain",
+        "value": 0.020412025209852663,
+        "low": -0.01559114481016478,
+        "high": 0.05098292884830856,
+        "interval_shown": true
+      },
+      {
+        "tag": "cross_mean full_PCC_gain",
+        "value": 0.0021806604206872967,
+        "low": -0.031583390382897085,
+        "high": 0.030542279964286653,
+        "interval_shown": true
+      },
+      {
+        "tag": "6_to_14 full_MSE_gain",
+        "value": -0.5741833271804825,
+        "low": -1.0672442972833172,
+        "high": -0.06937486879089298,
+        "interval_shown": true
+      },
+      {
+        "tag": "14_to_6 full_MSE_gain",
+        "value": 0.9151094582424394,
+        "low": 0.19461149453922041,
+        "high": 1.4305530383072225,
+        "interval_shown": true
+      },
+      {
+        "tag": "cross_mean full_MSE_gain",
+        "value": 0.17046306553097848,
+        "low": -0.3094739295927574,
+        "high": 0.5699849499458134,
+        "interval_shown": true
+      }
+    ]
+  }
+}
